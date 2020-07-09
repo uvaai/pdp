@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/spcourse/weather.git
+	branch = main
+	commit = e9c840d98bdd89b5de2cb538b0cb79f1cdc6f071
+	parent = 213f9b1d77a1a200b09e09c3442df45efb00fc79
+	method = merge
+	cmdver = 0.4.1
