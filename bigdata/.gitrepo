@@ -4,7 +4,7 @@
 ; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
 ;
 [subrepo]
-	remote = https://github.com/spcourse/weather.git
+	remote = https://github.com/spcourse/bigdata.git
 	branch = main
 	commit = e9c840d98bdd89b5de2cb538b0cb79f1cdc6f071
 	parent = 213f9b1d77a1a200b09e09c3442df45efb00fc79
