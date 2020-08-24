@@ -2,29 +2,153 @@
 
 ## Syllabus<br><small>Fall 2020</small>
 
-Welcome to this programming course! In the weeks ahead, you'll use the Python programming language while learning to solve scientific problems from several fields of science. This course is intended for students who have no experience in programming at all. It comprises four modules, wherein you learn about the Python language, but foremost about strategies you can use to solve complex computational problems.
+Welcome to this programming course! In the weeks ahead, you'll use the Python
+programming language while learning to solve scientific problems from several
+fields of science. This course is intended for students who have no experience
+in programming at all. It comprises seven modules, wherein you learn about the
+Python language, but foremost about strategies you can use to solve complex
+computational problems.
 
 ## Staff
 
+Tim Doolan (coordinator)
+
 Simon Pauw (teacher)  
 
-If you have practical matters that you would like to discuss, always send an e-mail to the staff via <scientific@mprog.nl>. We will answer within a couple of days, if not hours.
+Wouter Vrielink (teacher)
+
+Kiki van Rongen (TA)
+
+You can reach us at <minorai@mprog.nl> for any practical matters or other
+questions.
 
 ## Getting started
 
-0. Read more of the syllabus, below.
+1. Read more of the syllabus, below.
 2. [Install](/python/en/installing) Python.
-3. Choose one of the level 1 modules to get started!
 
-## Prerequisites
+## Deadlines
 
-This course assumes **no** prior programming experience. If you have already done a course in Python, or if you have extensive experience in another programming language, this course might not be your best option---but we're happy to refer you to other courses if you'd like!
+All assignments in a module should be handed in by *Friday 23:59*.
 
-Other than that, some modules assume high school mathematics or physics, but many do not. If you feel overwhelmed, don't hesitate to contact the course staff! We can explain the course's philosophy and requirements, and make recommendations on how to approach problems.
+If you think you will not make a deadline, send us an email *before* the
+deadline has expired, so we can try to find a suitable solution. 
+
+## Asking questions
+
+If you have any question about the material, there are several ways to get
+assistance.
+
+### Ed Q&A Forum
+
+The first place you should try and ask your question is on the Ed
+[Ed forum](https://us.edstem.org/courses/2334/). Details on using *Ed* can be
+found in the Welcome post there. 
+
+### Videocall on Discord
+
+If you have a very specific question, something that would require sharing
+a large portion of your solution, or you are unsure how exactly to phrase your
+question for Ed, you can request a videocall with the staff. You can do so on
+Discord, using the *QuestionQueue* bot.
+
+The question queue will be open **every weekday from 9:00 to 13:00**. If you
+send the *QuestionQueue* bot a direction message starting with `!ask` and then
+followed by your question, you will be added to the queue. The staff will take
+videocalls from the queue in the order they are asked, and you will be notified
+by the *QuestionQueue* bot when it is your turn.
+
+### Werkcollege at Science Park
+
+Once a week there will also be a werkcollege at Science Park, which will
+replace the Discord video calls for that day. You can sit there, bring your
+laptop to work, meet your fellow students, and ask the staff questions. The
+schedule for the werkcolleges can be found on [Datanose](https://datanose.nl/#course[90802]).
+
+### Zoom meetings
+
+There will be Zoom meetings scheduled twice a week, once on **Wednesday at
+15:00** and once on **Friday at 15:00**. These meetings will be used to discuss
+progress and answer questions. In addition, these meetings may also be used to
+give lectures, when there are parts of the theory that require more
+explanation. You can also request a topic be discussed in more depth at these
+meetings, which then may be covered at the next meeting.
+
+### Email the staff
+
+If you have personal matters to discuss or other questions that do not fit any
+of the formats above, you can email the course staff at <minorai@mprog.nl> 
+
+## Passing the course
+
+Your grade for this course will consist of several elements
+
+### Modules 1 & 2
+
+Module 1 and Module 2 of this course will be graded on a pass/fail basis. If
+you recieve a failing grade for one of these modules, you will have have to
+improve your code and submit the assignment again. You must receive a pass
+grade for both assignments in order to pass the course. There are 2 main
+reasons for this:
+
+1. The material in the first two modules is fundamental. It is important you
+are able to solve these assignments sufficiently before moving on to the next
+modules.
+
+2. Grading of the later modules will be done mostly on *style* and *design* of
+your code. For the first two modules you will still be learning what those
+concepts are.
+
+When you've completed the module sufficiently, you will also get feedback on
+the style and design of your solution. This should help you improve these
+aspects of your code before you are actually graded on them.
+
+### Modules 3 - 7
+
+These modules will each be graded on a 1 to 10 scale. Your grade will mainly
+depend on the style and design of your code. These concepts will be further
+introduced as you go through the modules, but here are a quick definitions to
+give you an idea
+
+Design
+
+: This is about adding effective abstractions to your code. Simple examples
+might be to use a loop instead of copy-pasting code, or writing a function for
+code you want to reuse several times.
+
+Style
+
+: This is about how readable your code is for other people. For example, using
+clear variable names, adding comments and adding whitespace to separate blocks
+of code, all can help with the readibility.
+
+If you've completed the entire module and your code produces the correct
+output, your grade starts at 6. The remainder of your grade is then
+determined as follows:
+
+* 0 - Style and design of the code should be improved. Code does produce correct output and open questions have been answered.
+
+* 1 - Style and design have had some attention, but there are still clear improvements to be made. Answers to any open questions are mostly correct.
+
+* 2 - Style and design are OK, answers to open questions are correct.
+
+* 3 - Style and design are very good, answers are correct and show understanding.
+
+* 4 - Exceptional style and design, answers are beyond expectations.
+
+### Exam
+
+Once you've completed all 7 modules there will be an oral exam. This exam will
+be scheduled indivually with the course staff and will also be *pass/fail*.
+
+Once you've passed the exam, your final grade will be computed as the average
+of all your grades for modules 3, 4, 5, 6 and 7.
 
 ## Goals
 
-This really is a beginner's course. We will teach you the basics of Python programming as well as several different ways of solving computational problems. After this course, we envision that you:
+This the first few modules are a beginner's course. We will teach you the
+basics of Python programming as well as several different ways of solving
+computational problems. After this course, we envision that you:
 
 - can transform the description of a simple algorithm into working code by combining basic program elements
 - can apply several scientific programming techniques from different areas of study
@@ -32,81 +156,18 @@ This really is a beginner's course. We will teach you the basics of Python progr
 - can make your programs simpler and easier to read by employing a few standard tactics
 - can trace and fix several common programming errors
 
-When you have finished one modules for each level, you might take up Scientific Programming 2, in which we will teach you most of the remaining parts of Python, enabling you to read and contribute to other's projects, or start your own!
+Starting from module 5, we'll introduce more some more advanced concepts. After
+which should be able to:
 
-## Asking questions
-
-In this course you'll mostly work independently and ask for help online. We have created a special "Stack Overflow" section, for which you will be invited as the course starts.
-
-<https://stackoverflow.com/c/uva-prog-lab>
-
-Besides Stack Overflow, you can come to the programming lab at the following times. Our teacher(s) will be ready to answer questions, help you find resources for programming, and help thinking about the problems at hand.
-
-> The lab is open for you on **Tuesdays 15:00--17:00 in room A1.24 and Fridays 15:00--17:00 in room A1.22**. These rooms are at the Science Park 904 building. When coming to the lab for the first time, please find your teacher and introduce yourself! That way it's easier to ask questions when needed.
-
-## Passing the course
-
-The course's final result will be "pass" or "fail", which means that **no grades are assigned**. You pass the course by:
-
-1. submitting sufficient coursework
-2. passing the exam
-
-### Coursework
-
-Sufficient coursework means submitting a working solution to each problem from at least four modules of your own choosing, keeping in mind that you need to finish one module per level. 
-
-You may not re-submit (variations of) solutions that you wrote for any other course's problems. In case you have done similar assignments before, discuss with the course staff whether this is the right course for you.
-
-### Deadlines
-
-Deadlines for each level are listed below. Only by agreement in advance is it possible to extend these deadlines. Send an e-mail detailing your plans to the course staff at <scientific@mprog.nl> and we will consider your proposal.
-
-**Semester 2**
-
-| Finish course in: | 4 weeks     | 8 weeks     | 16 weeks    |  
-| ----------------- | ----------- | ----------- | ----------- |
-| Level 1           | Fri, 7 Feb  | Wed, 12 Feb | Fri, 21 Feb |
-| Level 2           | Thu, 13 Feb | Tue 24 Feb  | Fri 13 Mar  |
-| Level 3           | Wed, 19 Feb | Mon, 9 Mar  | Fri, 17 Apr |
-| Level 4           | Tue, 25 Feb | Fri, 20 Mar | Fri, 15 May |
-
-Note: if you would also like to take Scientific Programming 2, you will need to do the 8-week schedule. If you'd like to take Data Processing as well, you will need to do the 4-week schedule, in order to leave enough time!
-
-**Semester 1**
-
-Deadlines for period 1:
-
-- Level 1: Wednesday, 11 September
-- Level 2: Tuesday, 24 September
-- Level 3: Monday, 7 October
-- Level 4: Friday, 18 October
-
-Deadlines for period 2:
-
-* Level 1: Wednesday, 6 November
-* Level 2: Tuesday,  19 September
-* Level 3: Monday, 2 December
-* Level 4: Friday, 13 December
-
-### Exam
-
-There are multiple opportunities to take the exam.
-
-**Semester 1**
-
-- Tuesday, 22 October
-- Tuesday, 17 December
-
-**Semester 2**
-
-- Monday, 2 March
-- Monday, 30 March
-
-The second exam can be seen as a "resit" to the first. However, it is not necessary to take the first exam to be allowed into the second.
-
-## Feedback
-
-Programming is like writing. You can gradually learn to write programs that are more beautiful, functional, short, elegant or simple. To learn this, you'll need some feedback, and it's mostly up to you to get it. You can show your programs in class to fellow students or your teacher; you can post a fragment of your code on Stack Overflow and ask for advice on improving; or you can send the staff an e-mail and we'll have a look (this might take a while though!).
+- can use native python data structures (like sets, dictionaries, and tuples)
+- analyze the complexity of an algorithm
+- quickly learn to use new python packages and know how to find documentation
+  for them
+- create your own packages
+- write proper documentation
+- use higher level functional programming concepts (such as map, reduce and filter)
+- import and analyze data
+- create advanced plots
 
 ## Books
 
@@ -185,7 +246,8 @@ BSc programme. Find them here in [English] and [Dutch].
 
 ## Acknowledgements
 
-This course has been designed by Martijn Stegeman and Ivo van Vulpen.
+This course was designed by Martijn Stegeman, Ivo van Vulpen, Simon Pauw and
+Tim Doolan.
 
 It is partially based on many great programming resources that have been published as Open Courseware under a [Creative Commons license](https://creativecommons.org). The resulting work itself is also published under the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a> <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. Feel free to re-use! If you would like to use the work commercially, please send an e-mail for arranging a license.
 
@@ -193,13 +255,11 @@ We have had lots of help from students as well as teaching assistants who tried 
 
 - Jelle van Assema (assignments and checkpy)
 - Marianne de Heer Kloots (revisions and testing)
-- Maarten Inja (DNA assignment)
-- Simon Pauw (revisions)
-- Quinten Post (translations)
 - Marleen Rijksen (revisions)
+- Wouter Vrielink (revisions)
+- Quinten Post (translations)
 - Huub Rutjes (films)
 - Vera Schild (test automation)
-- Luca Verhees (artwork "semester of code")
 
 We have used materials from the following sources:
 
