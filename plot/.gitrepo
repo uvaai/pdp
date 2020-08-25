@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:spcourse/plot.git
+	branch = main
+	commit = f5804f547debe1fe515b428c1a07eb11f43edfc8
+	parent = c683c2074ba63177c9b55e8010b3d98e6cd81711
+	method = merge
+	cmdver = 0.4.1
