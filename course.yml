@@ -3,6 +3,4 @@ short_name: PDP
 language: en
 
 links:
-    '[question-square] Forum': https://us.edstem.org/courses/341
-    '[camera-video] Tutoring': https://calendly.com/mprog-parttime/assistentie
     '[brush] Style guide': /python/en/style
