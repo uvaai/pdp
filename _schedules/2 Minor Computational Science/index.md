@@ -15,7 +15,9 @@ Tim Doolan (coordinator)
 
 Simon Pauw (teacher)  
 
-Kiki van Rongen (TA)
+Kiki van Rongen (teaching assistant)
+
+Natasja Wezel (teaching assistant)
 
 You can reach us at <scientific@mprog.nl> for any practical matters or other
 questions.
@@ -30,22 +32,23 @@ questions.
 All assignments in a module should be handed in by *Friday 23:59*.
 
 If you think you will not make a deadline, send us an email *before* the
-deadline has expired, so we can try to find a suitable solution. 
+deadline has expired, so we can try to find a suitable solution.
 
 ## Asking question on Ed Forum
 
 If you have questions about the material of this course, you should ask these
-on the [Ed forum](https://us.edstem.org/). Details on using *Ed* can be
-found in the Welcome post there. 
+on the Ed forum. You receive an invitation for this forum at the start of the course. If you didn't recieve it, you can send us an email (<scientific@mprog.nl>). Once you're invited you can find the forum for the course here: [Ed](https://us.edstem.org/courses/2335/).
+
+Not all questions can always be asked or answered on Ed. You can also make an appointment for live (zoom) help. On most weekdays there is help available between 15:00 and 17:00: [Plan zoom meeting](https://calendly.com/uvascipro/help).
 
 ## Passing the course
 
-Your grade for this course will consist of several elements
+Your grade for this course will consist of several elements:
 
 ### Modules 1 & 2
 
 Module 1 and Module 2 of this course will be graded on a pass/fail basis. If
-you recieve a failing grade for one of these modules, you will have have to
+you receive a failing grade for one of these modules, you will have to
 improve your code and submit the assignment again. You must receive a pass
 grade for both assignments in order to pass the course. There are 2 main
 reasons for this:
@@ -79,7 +82,7 @@ Style
 
 : This is about how readable your code is for other people. For example, using
 clear variable names, adding comments and adding whitespace to separate blocks
-of code, all can help with the readibility.
+of code, all can help with the readability.
 
 If you've completed the entire module and your code produces the correct
 output, your grade starts at 6. The remainder of your grade is then
@@ -98,7 +101,7 @@ determined as follows:
 ### Exam
 
 Once you've completed all 7 modules there will be an oral exam. This exam will
-be scheduled indivually with the course staff and will also be *pass/fail*.
+be scheduled individually with the course staff and will also be *pass/fail*.
 
 Once you've passed the exam, your final grade will be computed as the average
 of all your grades for modules 3, 4, 5, 6 and 7.
@@ -170,7 +173,7 @@ Below are rules of thumb that (inexhaustively) characterize acts that the course
 
 - Asking a classmate to see his or her solution to a problem set's problem before (re-)submitting your own.
 
-- Decompiling, deobfuscating, or disassembling the staff's solutions to problem sets.
+- Decompiling, de-obfuscating, or disassembling the staff's solutions to problem sets.
 
 - Failing to cite (as with comments) the origins of code or techniques that you discover outside of the course's own lessons and integrate into your own work, even while respecting this policy's other constraints.
 
