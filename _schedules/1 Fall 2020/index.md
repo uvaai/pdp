@@ -32,7 +32,7 @@ questions.
 All assignments in a module should be handed in by *Friday 23:59*.
 
 If you think you will not make a deadline, send us an email *before* the
-deadline has expired, so we can try to find a suitable solution. 
+deadline has expired, so we can try to find a suitable solution.
 
 ## Asking questions
 
@@ -81,12 +81,12 @@ of the formats above, you can email the course staff at <minorai@mprog.nl>
 
 ## Passing the course
 
-Your grade for this course will consist of several elements
+Your grade for this course will consist of several elements:
 
 ### Modules 1 & 2
 
 Module 1 and Module 2 of this course will be graded on a pass/fail basis. If
-you recieve a failing grade for one of these modules, you will have have to
+you receive a failing grade for one of these modules, you will have to
 improve your code and submit the assignment again. You must receive a pass
 grade for both assignments in order to pass the course. There are 2 main
 reasons for this:
@@ -120,17 +120,17 @@ Style
 
 : This is about how readable your code is for other people. For example, using
 clear variable names, adding comments and adding whitespace to separate blocks
-of code, all can help with the readibility.
+of code, all can help with the readability.
 
 If you've completed the entire module and your code produces the correct
 output, your grade starts at 6. The remainder of your grade is then
 determined as follows:
 
-* 0 - Style and design of the code should be improved. Code does produce correct output and open questions have been answered.
+* 0 - Style and design of the code are of insufficient quality. Code does produce correct output and open questions have been answered.
 
 * 1 - Style and design have had some attention, but there are still clear improvements to be made. Answers to any open questions are mostly correct.
 
-* 2 - Style and design are OK, answers to open questions are correct.
+* 2 - Style and design are of sufficient quality, answers to open questions are correct.
 
 * 3 - Style and design are very good, answers are correct and show understanding.
 
@@ -139,7 +139,7 @@ determined as follows:
 ### Exam
 
 Once you've completed all 7 modules there will be an oral exam. This exam will
-be scheduled indivually with the course staff and will also be *pass/fail*.
+be scheduled individually with the course staff and will also be *pass/fail*.
 
 Once you've passed the exam, your final grade will be computed as the average
 of all your grades for modules 3, 4, 5, 6 and 7.
@@ -211,7 +211,7 @@ Below are rules of thumb that (inexhaustively) characterize acts that the course
 
 - Asking a classmate to see his or her solution to a problem set's problem before (re-)submitting your own.
 
-- Decompiling, deobfuscating, or disassembling the staff's solutions to problem sets.
+- Decompiling, de-obfuscating, or disassembling the staff's solutions to problem sets.
 
 - Failing to cite (as with comments) the origins of code or techniques that you discover outside of the course's own lessons and integrate into your own work, even while respecting this policy's other constraints.
 

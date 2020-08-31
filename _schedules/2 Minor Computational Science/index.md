@@ -105,11 +105,11 @@ If you've completed the entire module and your code produces the correct
 output, your grade starts at 6. The remainder of your grade is then
 determined as follows:
 
-* 0 - Style and design of the code should be improved. Code does produce correct output and open questions have been answered.
+* 0 - Style and design of the code are of insufficient quality. Code does produce correct output and open questions have been answered.
 
 * 1 - Style and design have had some attention, but there are still clear improvements to be made. Answers to any open questions are mostly correct.
 
-* 2 - Style and design are OK, answers to open questions are correct.
+* 2 - Style and design are of sufficient quality, answers to open questions are correct.
 
 * 3 - Style and design are very good, answers are correct and show understanding.
 
