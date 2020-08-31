@@ -36,6 +36,8 @@ deadline has expired, so we can try to find a suitable solution.
 
 So the deadlines for this semester are:
 
+Module   | Date
+---------|-------------------
 Module 1 | Fri, Sept 4, 23:59
 ---------|------------------
 Module 2 | Fri, Sept 11, 23:59
