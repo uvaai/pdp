@@ -34,6 +34,23 @@ All assignments in a module should be handed in by *Friday 23:59*.
 If you think you will not make a deadline, send us an email *before* the
 deadline has expired, so we can try to find a suitable solution.
 
+So the deadlines for this semester are:
+
+Module 1 | Fri, Sept 4, 23:59
+---------|------------------
+Module 2 | Fri, Sept 11, 23:59
+---------|-------------------
+Module 3 | Fri, Sept 18, 23:59
+---------|-------------------
+Module 4 | Fri, Sept 25, 23:59
+---------|-------------------
+Module 5 | Fri, Oct 2, 23:59
+---------|-------------------
+Module 6 | Fri, Oct 9, 23:59
+---------|-------------------
+Module 7 | Fri, Oct 16, 23:59
+
+
 ## Asking question on Ed Forum
 
 If you have questions about the material of this course, you should ask these
