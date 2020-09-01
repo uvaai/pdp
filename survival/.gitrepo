@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/spcourse/survival.git
 	branch = main
-	commit = 9907ee6a296c54f2f837ad7fbd7cbca83943d60c
-	parent = 7f6431c605fd9a88538778d87fb411244a1fdc8d
+	commit = bc6a38e5e02958b58cdc3495c8c73c16b7f02b57
+	parent = cf20d8b3438c50044bd29df570def00d1465af6f
 	method = merge
 	cmdver = 0.4.1
