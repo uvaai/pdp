@@ -3,26 +3,34 @@ Welcome:
     Install python: /python/en/installing
 
 Module 1:
+  ".":
     - algorithms
     - notebook
     - plotting
+  Submit your solutions: /submit/algorithms
 
 # Module 2:
+#   ".":
 #     - integrals
-# 
+#   Submit your solutions: /submit/integrals
+#
 # Module 3:
+#   ".":
 #     - dictionaries
 #     - animation
 #     - populations
-# 
+#   Submit your solutions: /submit/populations
+#
 # Module 4:
+#   ".":
 #     - bigdata-en
-# 
+#   Submit your solutions: /submit/bigdata-en
+#
 # Module 5:
 #     - complexity
-# 
+#
 # Module 6:
 #     - news
-# 
+#
 # Module 7:
 #     - survival
