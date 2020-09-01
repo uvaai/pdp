@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:spcourse/plot.git
 	branch = main
-	commit = f5804f547debe1fe515b428c1a07eb11f43edfc8
-	parent = c683c2074ba63177c9b55e8010b3d98e6cd81711
+	commit = 0f006a6aa299fc382274ba23a863b44597d36ff0
+	parent = 1644e099df9693269511d2ded9011c07d8031db8
 	method = merge
 	cmdver = 0.4.1
