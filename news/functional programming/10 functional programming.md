@@ -1,5 +1,7 @@
 # Functional programming
 
+Functional programming is the process of building software by composing so-called "pure" functions. These functions avoid having interactions outside of their own scope and as such have no side-effects. All these functions do, is somehow transform an input into an output. We will discuss some higher-order functions that abide by the principles of functional programming that can be used to manipulate lists.
+
 When manipulating lists, we often find ourselves writing more or less the same code in different applications. In fact most list operations can be categorized in three main patterns: *map*, *filter* and *reduce*. Here, we will discuss those patterns one by one and understand their use cases.
 
 > Note that in the examples below the functions `my_map`, `my_filter` and `my_reduce` do not exist. Those are purely hypothetical examples.
@@ -180,3 +182,9 @@ Method 4, map and lambda:
         return map(lambda s: s.isupper(), t)
 
 So, which is better? That depends on the goal, personal taste, and context. I tend to prefer functional solutions because the resulting code looks cleaner. But I tend to avoid lambda functions because they don't help the readability of the code. So in this case I would probably opt for method 3. But there are many good arguments to make for the other methods. The most important is to be consistent. Try to choose one style of programming and stick to it throughout the project.
+
+## Notes on MapReduce
+
+ >MapReduce is a programming paradigm used in many programming libraries to enable users to apply functions to large swathes of data at once. Since it basically provides a general strategy for split-apply-combine, it enables the library to apply the function in parallel, thereby increasing efficiency by solving parts of the task at the same time before combining results. You will come by multiple Python libraries that utilize it in the future.
+
+ In the coming exercises you will practice with map, reduce, and filter operations extensively. Note that **everything** in these exercises could have also been done with regular for-loops, but the goal of the exercise is to use those as little as possible to train this alternative method of solving problems.
