@@ -2,6 +2,12 @@
 
 A list in Python is a useful way of grouping data so they can be interacted with as a whole. This way calculations can be performed on the entire collection in one go instead of each number individually.
 
+This video, in Dutch, explains some of a lists simple applications.
+
+![embed](https://player.vimeo.com/video/287247201)
+
+In English, read about [lists](http://greenteapress.com/thinkpython/html/thinkpython011.html) at Think Python.
+
 ## Reference
 
 The following code creates a new list called `staff` filled with strings (names):
@@ -35,6 +41,3 @@ You can loop through the elements of a list using `for`:
     for measurement in measurements_science_park:
         print(f"the measurement was {measurement} degrees.")
 
-## For more details:
-
-In English, read about [lists](http://greenteapress.com/thinkpython/html/thinkpython011.html) at Think Python.

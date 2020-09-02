@@ -2,9 +2,9 @@
 
 Computers truly shine when the solution to a problem cannot (or is hard to) be expressed by a formula. Programmers work to devise and implement *algorithms*, that exactly specify the step-by-step plan to solve a problem. An important aspect of algorithms is that they have to work for different inputs.
 
-<!-- In the video below the algorithm has to find the correct solution if there are 0, 1, 2, 3, 4, or more people in the room.
+In the video below the algorithm has to find the correct solution if there are 0, 1, 2, 3, 4, or more people in the room.
 
-![embed](https://www.youtube.com/embed/6hfOvs8pY1k) -->
+![embed](https://www.youtube.com/embed/6hfOvs8pY1k)
 
 In the chapter [basics](/python/basics) you've learned a number of **instructions** that can be used in Python:
 
@@ -18,9 +18,9 @@ Aside from that, you've gotten acquainted with operators that are used to compri
 
 The preceding programs were scripts that were meant to be executed line for line from top to bottom. A sort of step by step guide. Programs get more interesting when we intend to write *exceptions*.
 
-<!-- In Dutch, we introduce `if`-statements with a couple of examples:
+In Dutch, we introduce `if`-statements with a couple of examples:
 
-![embed](https://player.vimeo.com/video/287244672) -->
+![embed](https://player.vimeo.com/video/287244672)
 
 An `if`-statement in Python is structured as follows:
 
