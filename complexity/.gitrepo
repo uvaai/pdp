@@ -4,7 +4,7 @@
 ; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
 ;
 [subrepo]
-	remote = https://github.com/spcourse/complexity.git
+	remote = git@github.com:spcourse/complexity.git
 	branch = main
 	commit = 73bf547b3048b8831119fa09d26de753216465a8
 	parent = 456052587bbca9d8e1921cc779dc8d7e5425fb76

@@ -4,7 +4,7 @@
 ; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
 ;
 [subrepo]
-	remote = https://github.com/spcourse/survival.git
+	remote = git@github.com:spcourse/survival.git
 	branch = main
 	commit = bc6a38e5e02958b58cdc3495c8c73c16b7f02b57
 	parent = cf20d8b3438c50044bd29df570def00d1465af6f
