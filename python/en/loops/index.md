@@ -6,7 +6,7 @@ Please create a file called `practicing_loops.py` and use it to implement the va
 
 ## Loops to repeat instructions
 
-<!-- ![embed](https://player.vimeo.com/video/287247060) -->
+![embed](https://player.vimeo.com/video/287247060)
 
 A `for`-loop is used when you want to repeat a set of instructions. For example, if you want to print the numbers from 1 to 10 on the screen you could do that with ten separate print-statements, but you could also use the following construction:
 
@@ -60,13 +60,13 @@ is equal to the following `while-loop`:
 
 The reason that the `for`-loop is more often used is that it is a bit more compact and also easier readable. However this can only be done is you know beforehand how often this needs to be executed. In other cases, and also with user input it can almost only be done with a while construction.
 
-<!-- ![embed](https://player.vimeo.com/video/287247106) -->
+![embed](https://player.vimeo.com/video/287247106)
 
 ## Computing things using loops
 
 In the first example we had only a single instruction in the loop itself, 'print the value of x on the screen', but you could have multiple instructions for every value x takes.
 
-<!-- ![embed](https://player.vimeo.com/video/287247088) -->
+![embed](https://player.vimeo.com/video/287247088)
 
 In the next example we add the value of x to another variable that we have set to zero at the beginning of the program. At the end of the program this variable contains the sum of the values from 1 to 10. Once we have that, it is easy to get the sum of numbers from 1 to 712643 rather than from 1 to 10 of course.
 
@@ -91,7 +91,8 @@ As soon as all instructions have been executed forthe highest value the variable
 
 ## Filtering using loops
 
-<!-- ![embed](https://player.vimeo.com/video/287247135) -->
+![embed](https://player.vimeo.com/video/287247135)
+
 
 Within the set of instructions you can also use conditionals. For example, if you want the loop to go from 1 to 20, but want to only print the numbers that are larger than 15 or numbers if it is divisible by three you could use the following code:
 
