@@ -9,11 +9,11 @@ Module 1:
     - plotting
   Submit your solutions: /submit/algorithms
 
-# Module 2:
-#   ".":
-#     - integrals
-#   Submit your solutions: /submit/integrals
-#
+Module 2:
+  ".":
+    - integrals
+  Submit your solutions: /submit/integrals
+
 # Module 3:
 #   ".":
 #     - dictionaries
