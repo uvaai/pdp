@@ -3,6 +3,9 @@ content:
 
     Introduction: .
 
+    Lists: 
+        Learn to gather information into lists: /python/en/lists
+
     Roots:
         Learn about functions in Python: /python/en/functions
         Determine the roots of a polynomial: roots
