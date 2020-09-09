@@ -1,0 +1,9 @@
+grades:
+    algorithms:
+        type: pass
+        subgrades:
+            checkpy: integer
+        automatic:
+            checkpy: correctness_score
+        calculation: checkpy < 13 && 0 || -1
+
