@@ -14,13 +14,13 @@ Module 2:
     - integrals
   Submit your solutions: /submit/integrals
 
-# Module 3:
-#   ".":
-#     - dictionaries
-#     - animation
-#     - monopoly-en
-#   Submit your solutions: /submit/monopoly
-#
+Module 3:
+  ".":
+    - dictionaries
+    - animation
+    - monopoly-en
+  Submit your solutions: /submit/monopoly
+
 # Module 4:
 #   ".":
 #     - bigdata-en
