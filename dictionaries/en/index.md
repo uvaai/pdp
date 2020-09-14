@@ -6,7 +6,7 @@ data structure comes already built into Python and is very often useful. We'll
 go much more into detail on why and when it useful in a couple of weeks, but
 for now we'll just going to cover the very basics of how to use it. 
 
-[../data/dictionaries.ipynb](Right-click and save the notebook here.)
+[Right-click and save the notebook here.](../data/dictionaries.ipynb)
 
 Open your terminal in the same folder where you saved this notebook and run the
 command `jupyter notebook`. Open the file in the browser and follow the steps
