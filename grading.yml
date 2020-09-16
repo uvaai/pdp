@@ -1,3 +1,16 @@
+templates:
+    3: &manual
+        type: float
+        subgrades:
+            points: integer
+        calculation: points + 6
+    5: &check_off
+        type: pass
+        subgrades:
+            done: boolean
+        calculation: done
+        hide_calculated: true
+
 grades:
     algorithms:
         type: pass
@@ -7,4 +20,24 @@ grades:
             checkpy: correctness_score
         calculation: checkpy < 13 && 0 || -1
         hide_subgrades: true
+    integrals: *check_off
+    monopoly: &manual
+    bigdata: &manual
+    complexity: &manual
+    news: &manual
+    survival: &manual
 
+calculation:
+    final:
+      programming: 100
+
+programming:
+    show_progress: true
+    submits:
+        algorithms: 0
+        integrals: 0
+        monopoly: 1
+        bigdata: 1
+        complexity: 1
+        news: 1
+        survival: 1
