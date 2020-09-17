@@ -14,11 +14,11 @@ templates:
 grades:
     algorithms: *check_off
     integrals: *check_off
-    monopoly: &manual
-    bigdata: &manual
-    complexity: &manual
-    news: &manual
-    survival: &manual
+    monopoly: *manual
+    bigdata: *manual
+    complexity: *manual
+    news: *manual
+    survival: *manual
 
 calculation:
     final:
