@@ -12,14 +12,7 @@ templates:
         hide_calculated: true
 
 grades:
-    algorithms:
-        type: pass
-        subgrades:
-            checkpy: integer
-        automatic:
-            checkpy: correctness_score
-        calculation: checkpy < 13 && 0 || -1
-        hide_subgrades: true
+    algorithms: *check_off
     integrals: *check_off
     monopoly: &manual
     bigdata: &manual
@@ -29,9 +22,9 @@ grades:
 
 calculation:
     final:
-      programming: 100
+      assignments: 100
 
-programming:
+assignments:
     show_progress: true
     submits:
         algorithms: 0
