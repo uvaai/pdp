@@ -13,6 +13,6 @@ command `jupyter notebook`. Open the file in the browser and follow the steps
 there.
 
 *You do not need to hand in your solution for this assignment.* The assignment
-is only ment as practice, as you'll need to use a dictionary for the
+is only meant as practice, as you'll need to use a dictionary for the
 *Introduction to Machine Learning 1* assignment this week.
 
