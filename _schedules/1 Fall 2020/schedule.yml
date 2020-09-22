@@ -21,10 +21,10 @@ Module 3:
     - monopoly-en
   Submit your solutions: /submit/monopoly
 
-# Module 4:
-#   ".":
-#     - bigdata-en
-#   Submit your solutions: /submit/bigdata
+Module 4:
+  ".":
+    - bigdata-en
+  Submit your solutions: /submit/bigdata
 #
 # Module 5:
 #   ".":
