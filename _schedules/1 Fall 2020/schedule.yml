@@ -25,11 +25,11 @@ Module 4:
   ".":
     - bigdata-en
   Submit your solutions: /submit/bigdata
-#
-# Module 5:
-#   ".":
-#     - complexity
-#   Submit your solutions: /submit/complexity
+
+Module 5:
+  ".":
+    - complexity
+  Submit your solutions: /submit/complexity
 #
 # Module 6:
 #   ".":
