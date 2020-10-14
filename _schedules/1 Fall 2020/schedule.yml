@@ -30,13 +30,14 @@ Module 5:
   ".":
     - complexity
   Submit your solutions: /submit/complexity
+
+Module 6:
+  ".":
+    - survival
+  Submit your solutions: /submit/survival
 #
 # Module 6:
 #   ".":
 #     - news
 #   Submit your solutions: /submit/news
-#
-# Module 7:
-#   ".":
-#     - survival
-#   Submit your solutions: /submit/survival
+
