@@ -19,10 +19,12 @@ grades:
     complexity: *manual
     news: *manual
     survival: *manual
+    oral: *check_off
 
 calculation:
     final:
       assignments: 100
+      exam: 0
 
 assignments:
     show_progress: true
@@ -34,3 +36,8 @@ assignments:
         complexity: 1
         news: 1
         survival: 1
+
+exam:
+    show_progress: true
+    submits:
+      oral: 1
