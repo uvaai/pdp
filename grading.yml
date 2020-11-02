@@ -32,7 +32,6 @@ assignments:
         algorithms: 0
         integrals: 0
         monopoly: 1
-        monopoly-en: 1
         bigdata: 1
         complexity: 1
         news: 1
