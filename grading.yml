@@ -15,7 +15,6 @@ grades:
     algorithms: *check_off
     integrals: *check_off
     monopoly: *manual
-    monopoly-en: *manual
     bigdata: *manual
     complexity: *manual
     news: *manual
