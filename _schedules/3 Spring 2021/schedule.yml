@@ -3,41 +3,40 @@ Welcome:
     Install python: /python/en/installing
 
 Module 1:
-  ".":
-    - algorithms
-    - notebook
-    - plotting
-  Submit your solutions: /submit/algorithms
+    ".":
+        - algorithms
+        - notebook
+        - plotting
+    Submit your solutions: /submit/algorithms
 
 Module 2:
-  ".":
-    - integrals
-  Submit your solutions: /submit/integrals
+    ".":
+        - integrals
+    Submit your solutions: /submit/integrals
 
 Module 3:
-  ".":
-    - dictionaries
-    - animation
-    - monopoly-en
-  Submit your solutions: /submit/monopoly
+    ".":
+        - dictionaries
+        - animation
+        - monopoly-en
+    Submit your solutions: /submit/monopoly
 
 Module 4:
-  ".":
-    - bigdata-en
-  Submit your solutions: /submit/bigdata
+    ".":
+        - bigdata-en
+    Submit your solutions: /submit/bigdata
 
 Module 5:
-  ".":
-    - complexity
-  Submit your solutions: /submit/complexity
+    ".":
+        - complexity
+    Submit your solutions: /submit/complexity
 
 Module 6:
-  ".":
-    - survival
-  Submit your solutions: /submit/survival
+    ".":
+        - survival
+    Submit your solutions: /submit/survival
 #
 # Module 6:
 #   ".":
 #     - news
 #   Submit your solutions: /submit/news
-
