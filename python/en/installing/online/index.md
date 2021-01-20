@@ -26,7 +26,7 @@ Toward the bottom of the screen you may find the **terminal**, where you can typ
 
     ls
 
-The `ls` command is short for "list". This command shows a list of all files and folders that can be seen from your "current" folder. By default the terminal starts in the folder `~/workspace`, and by executing the command `ls` you should only see the folder `week1` that you've just created. Let's now change the "current folder" by executing the following command:
+The `ls` command is short for "list". This command shows a list of all files and folders that can be seen from your "current" folder. By default the terminal starts in the folder `~/workspace`, and by executing the command `ls` you should only see the folder `module1` that you've just created. Let's now change the "current folder" by executing the following command:
 
     cd week1
 
@@ -70,7 +70,7 @@ To download both `matplotlib` and `checkpy` you have to run the following comman
     pip install checkpy
     checkpy -d uva-sp/sp1
 
-It can take quite a while for each command and a lot of text will move over your screen. In case there is relatively little text on your screen, try to find a message stating something went wrong or ask for assistance! 
+It can take quite a while for each command and a lot of text will move over your screen. In case there is relatively little text on your screen, try to find a message stating something went wrong or ask for assistance!
 
 To test if everything is in working order and whether `hello.py` is implemented correctly, run the following command in the terminal:
 

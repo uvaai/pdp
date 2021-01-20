@@ -1,22 +1,24 @@
 # Python on your own computer
 
-To be able to program on your own computer you need two different programs: the interpreter itself and a good editor:
+To be able to program on your own computer you need a couple different programs:
 
 1. **Anaconda**, a version of Python that is easy to install. There are *a lot* of packages included, which contain functionalities for graphs, statistics and a host of other features.
 
 2. **Atom**, an *editor* to write code in. This is, in a way, just a text writing program, but specifically meant for programming code. For example, it highlights particular parts of your code in specific colors, so you maintain oversight over your code.
 
+3. Finally, you will need a *command line interface* from which will provide you with methods to start and interact with your programs. One comes pre-installed with macOS, but Windows users will need to install one.
+
 Stuck? Consult an assistant!
 
 ### Step 1: Anaconda
 
-This package can be downloaded at their [website](https://www.anaconda.com/download/). Choose to download the "**Graphical Installer**" for the latest **Python-version**. The download is over 500MB large, so it could take a while before it's done! You do not need to provide your mail address, even without it you're allowed to use Anaconda.
+This package can be downloaded at their [website](https://www.anaconda.com/download/). Choose to download the "**Graphical Installer**" for the latest **Python-version**. The download is over 500MB large, so it could take a while before it's done! _You do not need to provide your mail address, even without it you're allowed to use Anaconda._
 
 ![Choose the "Graphical installer" for the latest Python version](download.png){:style="max-width:35%"}
 
 As soon as the download is finished, you have to execute the downloaded file (double click?). Follow the installation instructions and choose "Install for me only" where you can; if everything is okay you don't need to alter anything else.
 
-Note: for Windows always choose the "advanced" installation and tick the following box! If you did not, you have to reinstall anaconda!
+**Note: for Windows always choose the "advanced" installation and tick the following box! If you did not, you have to reinstall anaconda!**
 
 ![Tick the box: "Add to PATH" when installing Anaconda](anaconda_vinkje.gif)
 
@@ -28,27 +30,35 @@ The installation can take a while.
 
 This package can be downloaded at their [website](https://atom.io/). Once again you have to execute the downloaded file. This time though you do not have to alter any settings during the installation process. Are you on a Mac? Just move the file to your applications folder. From there you can simply run it.
 
-## Testing
+### Step 3: Command Line Interface
 
-Now that you have installed both Anaconda and Visual Studio Code, we can see if everything runs smoothly. Follow the examples from the video:
+As a programmer, you will be using a command line interface (also often called terminal or shell) frequently. Through your terminal, you will be able to start and interact with programs, view outcomes of code you've written, and otherwise interact with your computer. What to do now depends on whether you work on a Mac or a Windows machine:
 
-![embed](https://player.vimeo.com/video/287248505)
+On Mac, the terminal is included with the Operating System, and comes pre-installed. You will be able to open a terminal by clicking on Spotlight (the small magnifying glass) in the upper right corner of your screen, and typing "Terminal" then pressing enter. No further actions are required for this step.
 
-### Terminal
+On Windows, it is slightly more complicated and you will want to download and install Git Bash using the [instructions from this website](https://www.stanleyulili.com/git/how-to-install-git-bash-on-windows/). After installation, you will be able to open a terminal by clicking the windows button in the lower left corner, and typing "bash" then pressing enter.
 
-As a programmer, you will be using a terminal frequently.
+Navigating through your computer using the command line will be a vital skill. Watch the video below to get more familiar with command line commands (_ignore any mentions of nano, as we will be using the much more user-friendly Atom to edit our files_):
 
-In Visual Studio Code you can open a terminal with the key combination **ctrl**+**\`**. That means pressing both **ctrl** and **\`** (this key is often found next to the 1 or the Z key on your keyboard) at the same time.
+![embed](https://www.youtube.com/watch?v=aKRYQsKR46I)
 
-Some keyboard shortcuts that might save you some time:
+### Quick installation test
 
-* Use  **ctrl**+**\`** to switch from editor to terminal and vice versa
-* If you type a file name in the terminal you can use **tab** for autocomplete
-* Want to use a previous command? Use arrow keys (up and down) to navigate through previous commands
+To test whether each of our steps has gone correctly, we will write a small program named "hello". Open Atom and create a new file named `hello.py`. In this program, place the following code:
+
+	print('Hello, world!')
+
+Save your program in a folder that is easily accessable (we recommend you create a folder that will contain all your code from here on out) and open a terminal.
+
+Using your terminal, navigate to the folder containing the file `hello.py`. Remember, use `cd` to change directory, `pwd` to print your current directory, and `ls` to verify that `hello.py` is in the folder you are currently in. Now, run the following command:
+
+	python hello.py
+
+If everything was done correctly, your command line will now show the text `Hello, world!`. Congratulations on your first program!
 
 ### Install `checkpy`
 
-To help you verify whether a program functions in compliance with the specifications of an assignment, we have written a program of our own called **checkpy**. This program can be installed from the terminal using the following command (make sure to have Python and PiP installed):
+To help you verify whether a program functions in compliance with the specifications of an assignment, we have written a program of our own called **checkpy**. This program can be installed from a terminal using the following command (make sure to have Python and PiP installed):
 
 	pip install checkpy
 
@@ -56,7 +66,7 @@ This can take a while and you will see some text move over your screen. Afterwar
 
 	checkpy -d uva-sp/sp1
 
-To test that your installation of `checkpy` was successful, you can test `hello.py`. If you haven't written that program yet, check out the introductory video above. Then execute the following command:
+To test whether your installation of `checkpy` was successful, you can test `hello.py`. If you haven't written that program yet, check out the introductory video above. Then execute the following command:
 
 	checkpy hello
 
