@@ -28,15 +28,15 @@ Toward the bottom of the screen you may find the **terminal**, where you can typ
 
 The `ls` command is short for "list". This command shows a list of all files and folders that can be seen from your "current" folder. By default the terminal starts in the folder `~/workspace`, and by executing the command `ls` you should only see the folder `module1` that you've just created. Let's now change the "current folder" by executing the following command:
 
-    cd week1
+    cd module1
 
-The command `cd` is an abbreviation of the word compact disc... uh, no... *change directory*. It changes the current folder to another folder, in this case the folder `week1`. If you were to execute `ls` again, there would be no results yet (so you will be shown no visible results). Let's change that fact by running the following command:
+The command `cd` is an abbreviation of the word compact disc... uh, no... *change directory*. It changes the current folder to another folder, in this case the folder `module1`. If you were to execute `ls` again, there would be no results yet (so you will be shown no visible results). Let's change that fact by running the following command:
 
     touch hello.py
 
-Now we've created a file called `hello.py` inside of the folder `week1`. To verify that actually happened, you can execute another `ls`. The command `touch` checks whether a file (in this case `hello.py`) already exists, and if not creates that file.
+Now we've created a file called `hello.py` inside of the folder `module1`. To verify that actually happened, you can execute another `ls`. The command `touch` checks whether a file (in this case `hello.py`) already exists, and if not creates that file.
 
-To open the file `hello.py` you have to use your mouse pointer to open the folder icon at the left hand side of the screen. First open the folder `~/workspace`, by clicking the triangle in front of it. Then do the same thing for the folder `week1`, and finally double click the file `hello.py`. Now a new tab has opened up called `hello.py` and this is where we can start programming!
+To open the file `hello.py` you have to use your mouse pointer to open the folder icon at the left hand side of the screen. First open the folder `~/workspace`, by clicking the triangle in front of it. Then do the same thing for the folder `module1`, and finally double click the file `hello.py`. Now a new tab has opened up called `hello.py` and this is where we can start programming!
 
 Add the following line of code to the `hello.py` file:
 
@@ -56,9 +56,9 @@ Good to know is that you can also move one folder back up with `cd`:
 
 Here `..` stands for the folder directly 'above' the current one. Want to go back even further up? You can with `../..`. You can also tell `cd` not to move relatively to your current position, but instead move to an 'absolute' path in respect to your login folder:
 
-    cd ~/workspace/week1
+    cd ~/workspace/module1
 
-That immediately brings you back to the folder `week1` inside of `workspace`.
+That immediately brings you back to the folder `module1` inside of `workspace`.
 
 ## Installing Matplotlib and Checkpy
 
