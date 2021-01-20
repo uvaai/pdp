@@ -4,7 +4,7 @@ To be able to program on your own computer you need two different programs: the 
 
 1. **Anaconda**, a version of Python that is easy to install. There are *a lot* of packages included, which contain functionalities for graphs, statistics and a host of other features.
 
-2. **Visual Studio Code**, an *editor* to write code in. This is, in a way, just a text writing program, but specifically meant for programming code. For example, it highlights particular parts of your code in specific colors, so you maintain oversight over your code.
+2. **Atom**, an *editor* to write code in. This is, in a way, just a text writing program, but specifically meant for programming code. For example, it highlights particular parts of your code in specific colors, so you maintain oversight over your code.
 
 Stuck? Consult an assistant!
 
@@ -24,9 +24,9 @@ The installation can take a while.
 
 ![](wait2.gif){:style="max-width:25%"}
 
-### Step 2: Visual Studio Code
+### Step 2: Atom
 
-This package can be downloaded at their [website](https://code.visualstudio.com/download). Once again you have to execute the downloaded file. This time though you do not have to alter any settings during the installation process. Do you have a Mac? Just move the file to your applications folder. From there you can simply run it.
+This package can be downloaded at their [website](https://atom.io/). Once again you have to execute the downloaded file. This time though you do not have to alter any settings during the installation process. Are you on a Mac? Just move the file to your applications folder. From there you can simply run it.
 
 ## Testing
 
@@ -38,10 +38,10 @@ Now that you have installed both Anaconda and Visual Studio Code, we can see if 
 
 In Visual Studio Code you can open a terminal with the key combination **ctrl**+**\`**. That means pressing both **ctrl** and **\`** (this key is often found next to the 1 or the Z key on your keyboard) at the same time.
 
-Some keyboard shortcuts that might save you some time: 
+Some keyboard shortcuts that might save you some time:
 
 * Use  **ctrl**+**\`** to switch from editor to terminal and vice versa
-* If you type a file name in the terminal you can use **tab** for autocomplete 
+* If you type a file name in the terminal you can use **tab** for autocomplete
 * Want to use a previous command? Use arrow keys (up and down) to navigate through previous commands
 
 ### Install `checkpy`
