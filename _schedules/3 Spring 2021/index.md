@@ -37,13 +37,15 @@ Deadlines for each of the modules can be found in their respective schedules. If
 you think you will not make a deadline, send us an email *before* the deadline
 has expired, so we can try to find a suitable solution.
 
+TODO TIM uitstelregeling
+
 ### Morning meetings
 
 To further assist you in working consistently, following a schedule, and to
 provide you with some necessary social contact, we will organize daily morning
 meetings.
 
-TODO TIM
+TODO TIM verder aanvullen
 
 ## Asking questions
 
