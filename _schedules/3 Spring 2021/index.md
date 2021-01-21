@@ -25,12 +25,25 @@ questions.
 1. Read more of the syllabus, below.
 2. [Install](/python/en/installing) Python.
 
-## Deadlines
+## Deadlines and schedule
 
-Deadlines for each of the modules can be found in their respective overview pages.
+It can be difficult to work consistently, especially when you are working from
+home and also, being unfamiliar with a subject, unsure how much work something
+will take. This is why we will provide you with a day-by-day schedule for each
+of the modules. Hopefully, this will enable you to better spread the load.
+The schedule for each of the modules can be found on the overview-page.
 
-If you think you will not make a deadline, send us an email *before* the
-deadline has expired, so we can try to find a suitable solution.
+Deadlines for each of the modules can be found in their respective schedules. If
+you think you will not make a deadline, send us an email *before* the deadline
+has expired, so we can try to find a suitable solution.
+
+### Morning meetings
+
+To further assist you in working consistently, following a schedule, and to
+provide you with some necessary social contact, we will organize daily morning
+meetings.
+
+TODO TIM
 
 ## Asking questions
 
@@ -43,7 +56,7 @@ The first place you should try and ask your question is on the Ed
 [Ed forum](https://us.edstem.org/courses/2334/). Details on using *Ed* can be
 found in the pinned Welcome post there.
 
-### Videocall on Discord
+### Videocall on Discord; QuestionQueue
 
 If you have a very specific question, something that would require sharing
 a large portion of your solution, or you are unsure how exactly to phrase your
@@ -56,13 +69,16 @@ followed by your question, you will be added to the queue. The staff will take
 videocalls from the queue in the order they are asked, and you will be notified
 by the *QuestionQueue* bot when it is your turn.
 
-### Werkcollege
+### Seminars
 
-TODO
+During each of the modules there will be several short seminars. Each of these
+seminars will have a topic and will take about 1 hour. During the seminar you
+are free (and encouraged) to ask questions on the topic at hand. Every seminar
+will take place at 11:00 on the dates listed in the schedule for each module.
+_During seminars, the QuestionQueue will be closed._
 
-### Daily standups
-
-TODO
+To further encourage participation in these seminars, we will record presence.
+Students that are present more often will get priority in the QuestionQueue.
 
 ### Email the staff
 
