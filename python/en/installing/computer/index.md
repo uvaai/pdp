@@ -71,3 +71,27 @@ To test whether your installation of `checkpy` was successful, you can test `hel
 	checkpy hello
 
 Is everything colored green and do you see only happy smileys? That means you've done a-okay, and that you've met our requirements for the assignment! Should there still be some red smileys, no worries! Carefully examine your code and verify it with each of the specifications. And don't forget you can always send us an email if you're stuck.
+
+### Install other Python libraries
+
+During the course, we will use some other Python libraries. We will download and install all these libraries through conda and place them in their own "environment". This makes sure that everything will work for all the exercises in the coming courses.
+
+First, open a terminal and run the following command:
+
+	conda init bash
+
+This will instruct your terminal to list the current Conda environment it is in. Close the terminal, and open a new one. This will make sure that everything is started correctly. To verify this, you can see if your terminal shows something like `(base)` in front of every line.
+
+Now, with your new terminal, run the following commands:
+
+  curl https://pdp.mprog.nl/course/python/en/installing/computer/environment.env > environment.yml
+  conda env create -f environment.yml
+  rm environment.yml
+
+This downloads a formatted description of what libraries to download and install, then installs the libraries, and then removes the description (as we no longer need it).
+
+From here on out when you open a terminal we can use the following command to enter the environment, and enable the use of all the libraries we installed:
+
+  conda activate minAI
+
+If everything worked, you will now see that your terminal shows `(minAI)`. *Remember, if you want to use these libraries and `import` them in your code, you will have to have _this_ environment active.*
