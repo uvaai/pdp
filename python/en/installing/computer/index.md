@@ -40,7 +40,7 @@ On Windows, it is slightly more complicated and you will want to download and in
 
 Navigating through your computer using the command line will be a vital skill. Watch the video below to get more familiar with command line commands (_ignore any mentions of nano, as we will be using the much more user-friendly Atom to edit our files_):
 
-![embed](https://www.youtube.com/watch?v=aKRYQsKR46I)
+![embed](https://www.youtube.com/embed/aKRYQsKR46I)
 
 ### Quick installation test
 
