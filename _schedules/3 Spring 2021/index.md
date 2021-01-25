@@ -33,9 +33,9 @@ The deadlines for each module can be found on the overview page of that module.
 We've found that it can be difficult for students to plan when to work on what
 part of the material, especially with two complete new courses, that together
 require a full-time time investment. Being unfamiliar with a subject makes it a
-lot harder to estimate how long something might take and working from home
-might also make structuring your work harder. To help with all of this, we've
-made a day-to-day schedule for each module, which indicated what elements
+lot harder to estimate how long something might take, while working from home
+might also make structuring your work more difficult. To help with all of this,
+we've made a day-to-day schedule for each module, which indicates what elements
 should be completed each day.
 
 ### Extension policy
@@ -44,11 +44,10 @@ If there are circumstances that require you to have a deadline extension, you
 must request this at least 1 hour *before* the deadline expires. The staff will
 then determine if extension is permissible and make an alternative schedule
 with you. Submissions after the deadline without prior permission will not be
-accepted. To avoid late extension requests, is strongly suggested that you
-consult the module schedule regularly to see if you are on track for the
-module, and if not, to already contact the staff early. For discussing your
-module progress or requesting an extension, you can reach us at
-<minorai@mprog.nl>.
+accepted. To avoid late extension requests, it is strongly suggested that you
+consult the module's schedule regularly to see if you are on track for the
+module, and if not, to contact the staff early. For discussing your module
+progress or requesting an extension, you can reach us at <minorai@mprog.nl>.
 
 *Note:* While it is of course possible for circumstances to arise that require
 you to need an extension, consecutive extension requests are usually not
@@ -65,7 +64,7 @@ modules is *not* possible in this curriculum.
 An essential part of working completely online will be to get to know your
 fellow students. For this purpose we'll host morning meetings every day at
 **09:00** for all of you. Here you'll divide into smaller groups of 4 or 5
-student, and have a cup of coffee and start the day together. The meeting can
+students, and have a cup of coffee and start the day together. The meeting can
 be joined at [Wonder.me](https://www.wonder.me/r?id=c6cdcb4d-7901-44dc-9b9f-fe90898c22a5).
 
 These meetings will also be useful to discuss your progress and what you're
@@ -98,7 +97,7 @@ If you have general question about the material or the assignment, please make
 it a public question, so other students can also read the answer. Private
 questions are intended for questions that share specific portions of a
 solution, which you obviously shouldn't do publicly. Further details on using
-*Ed* can be found in the pinned Welcome post on the forum.
+*Ed* can be found in the pinned "Welcome" post on the forum.
 
 ### Seminars
 
@@ -123,8 +122,8 @@ questions, which might have already been answered during those same seminars.
 
 ### Videocall on Discord: QuestionQueue
 
-Sometimes it is hard to phrase your specific question exactly in writing on the
-forum, especially when you are just starting out with programming. For some
+Sometimes it is hard to phrase your specific question precisely in writing on
+the forum, especially when you are just starting out with programming. For some
 problems it is also easier if the staff can see your screen and ask you
 questions. For these cases we also offer the option of videocalls on Discord.
 Requests for videocalls are managed using the the *QuestionQueue* bot.
@@ -145,9 +144,6 @@ you will be notified by the *QuestionQueue* bot when it is your turn.
 
 If you have personal matters to discuss or other questions that do not fit any
 of the formats above, you can email the course staff at <minorai@mprog.nl>
-
-
-
 
 
 ## Passing the course
