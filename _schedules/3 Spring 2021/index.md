@@ -25,67 +25,129 @@ questions.
 1. Read more of the syllabus, below.
 2. [Install](/python/en/installing) Python.
 
-## Deadlines and schedule
 
-It can be difficult to work consistently, especially when you are working from
-home and also, being unfamiliar with a subject, unsure how much work something
-will take. This is why we will provide you with a day-by-day schedule for each
-of the modules. Hopefully, this will enable you to better spread the load.
-The schedule for each of the modules can be found on the overview-page.
+## Deadlines and schedules
 
-Deadlines for each of the modules can be found in their respective schedules. If
-you think you will not make a deadline, send us an email *before* the deadline
-has expired, so we can try to find a suitable solution.
+The deadlines for each module can be found on the overview page of that module.
 
-TODO TIM uitstelregeling
+We've found that it can be difficult for students to plan when to work on what
+part of the material, especially with two complete new courses, that together
+require a full-time time investment. Being unfamiliar with a subject makes it a
+lot harder to estimate how long something might take and working from home
+might also make structuring your work harder. To help with all of this, we've
+made a day-to-day schedule for each module, which indicated what elements
+should be completed each day.
 
-### Morning meetings
+### Extension policy
 
-To further assist you in working consistently, following a schedule, and to
-provide you with some necessary social contact, we will organize daily morning
-meetings.
+If there are circumstances that require you to have a deadline extension, you
+must request this at least 1 hour *before* the deadline expires. The staff will
+then determine if extension is permissible and make an alternative schedule
+with you. Submissions after the deadline without prior permission will not be
+accepted. To avoid late extension requests, is strongly suggested that you
+consult the module schedule regularly to see if you are on track for the
+module, and if not, to already contact the staff early. For discussing your
+module progress or requesting an extension, you can reach us at
+<minorai@mprog.nl>.
 
-TODO TIM verder aanvullen
+*Note:* While it is of course possible for circumstances to arise that require
+you to need an extension, consecutive extension requests are usually not
+granted. If you are given an extension, we will also discuss an alternative
+schedule, which is intended to get you back on track for the regular schedule.
+If the situation is such that this is not feasible, then an alternative
+schedule will be constructed in which you follow fewer courses over a longer
+period of time. Due to the content of each module being heavily dependent on
+the content of the previous modules, skipping or only partially completing
+modules is *not* possible in this curriculum.
+
+## Morning meetings
+
+An essential part of working completely online will be to get to know your
+fellow students. For this purpose we'll host morning meetings every day at
+**09:00** for all of you. Here you'll divide into smaller groups of 4 or 5
+student, and have a cup of coffee and start the day together. The meeting can
+be joined at [Wonder.me](https://www.wonder.me/r?id=c6cdcb4d-7901-44dc-9b9f-fe90898c22a5).
+
+These meetings are also very useful to discuss your progress and what you're
+planning to do for the day. If, for example, you find you're stuck on the same
+part of an assignment as other students, you can then decide to take a look at
+your approach for a problem together after the meeting. We encourage you to
+discuss approaches to problems together, as this is a very productive way to
+learn, but that can only occur if you know each other and what you are working
+on. This is primary purpose of these meetings.
+
+*Note:* This meaning working together on analysis and approach of a problem,
+not directly sharing code togehter! For a complete description of what forms of
+collaboration are reasonable and unreasonable, see the end of this document.
 
 ## Asking questions
 
 If you have any question about the material, there are several ways to get
-assistance.
+assistance. An import part of following this course, is to understand all the
+different ways you can get help and when to use which one.
 
 ### Ed Q&A Forum
 
 The first place you should try and ask your question is on the Ed
-[Ed forum](https://us.edstem.org/courses/2334/). Details on using *Ed* can be
-found in the pinned Welcome post there.
+[Ed forum](https://edstem.org/us/courses/4208/discussion/). There the course
+staff and your fellow students will answer any specific questions you might
+have.
 
-### Videocall on Discord; QuestionQueue
-
-If you have a very specific question, something that would require sharing
-a large portion of your solution, or you are unsure how exactly to phrase your
-question for Ed, you can request a videocall with the staff. You can do so on
-Discord, using the *QuestionQueue* bot.
-
-The question queue will be open **every weekday from 9:30 to 12:30**. If you
-send the *QuestionQueue* bot a direction message starting with `!ask` and then
-followed by your question, you will be added to the queue. The staff will take
-videocalls from the queue in the order they are asked, and you will be notified
-by the *QuestionQueue* bot when it is your turn.
+If you have general question about the material or the assignment, please make
+it a public question, so other students can also read the answer. Private
+questions are intended for questions that share specific portions of a
+solution, which you obviously shouldn't do publicly. Further details on using
+*Ed* can be found in the pinned Welcome post on the forum.
 
 ### Seminars
 
-During each of the modules there will be several short seminars. Each of these
-seminars will have a topic and will take about 1 hour. During the seminar you
-are free (and encouraged) to ask questions on the topic at hand. Every seminar
-will take place at 11:00 on the dates listed in the schedule for each module.
-_During seminars, the QuestionQueue will be closed._
+There will be several planned seminars for each module, which will be listed as
+part of the weekly schedules, usually starting at **11:00** those days. The
+seminars serve as a central place to discuss material with all students, though
+the exact form will differ from topic to topic. The topic for each seminar will
+be listed together with the Zoom link for that seminar.
 
-To further encourage participation in these seminars, we will record presence.
-Students that are present more often will get priority in the QuestionQueue.
+While these seminars might cover some additional material, they also serve as a
+Q&A about assignments or topics from the theory. Attendance is not mandatory,
+but is definitely recommended, even if you've already completed that part of an
+assignment, as completing does not always mean full understanding too.
+
+*Note:* Attendance for each seminar is still kept track of and will impact your
+place in the *QuestionQueue* (see next section). If you did not attend the
+seminars, then you might have to wait longer to have your individual question
+answered. Answering questions centrally in a seminar is much more efficient
+than answering individual videocalls, so this measure serves specifically to
+discourage students who choose to not attend seminars, but still ask individual
+questions, which might have already been answered during those same seminars.
+
+### Videocall on Discord: QuestionQueue
+
+Sometimes it is hard to phrase your specific question exactly in writing on the
+forum, especially when you are just starting out with programming. For some
+problems it is also easier if the staff can see your screen and ask you
+questions. For these cases we also offer the option of videocalls on Discord.
+Requests for videocalls are managed using the the *QuestionQueue* bot.
+
+The question queue will open every weekday starting at **9:30**. Most days
+the queue will be open until *12:30*, but if there is a seminar that day, the
+queue closes before the seminar starts at *11:00*.
+
+To use the *QuestionQueue*, send a direct message to the bot on Discord, a
+starting with `!ask`, followed by your question, e.g.
+
+    !ask My water.py gives an error I don't understand.
+
+The staff will take videocalls from the queue in the order they are asked, and
+you will be notified by the *QuestionQueue* bot when it is your turn.
 
 ### Email the staff
 
 If you have personal matters to discuss or other questions that do not fit any
 of the formats above, you can email the course staff at <minorai@mprog.nl>
+
+
+
+
 
 ## Passing the course
 
