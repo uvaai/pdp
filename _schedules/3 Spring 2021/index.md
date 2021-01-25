@@ -68,17 +68,18 @@ fellow students. For this purpose we'll host morning meetings every day at
 student, and have a cup of coffee and start the day together. The meeting can
 be joined at [Wonder.me](https://www.wonder.me/r?id=c6cdcb4d-7901-44dc-9b9f-fe90898c22a5).
 
-These meetings are also very useful to discuss your progress and what you're
+These meetings will also be useful to discuss your progress and what you're
 planning to do for the day. If, for example, you find you're stuck on the same
 part of an assignment as other students, you can then decide to take a look at
-your approach for a problem together after the meeting. We encourage you to
-discuss approaches to problems together, as this is a very productive way to
-learn, but that can only occur if you know each other and what you are working
-on. This is primary purpose of these meetings.
+your approach for a problem together. We encourage you to discuss approaches to
+problems together, as this is an effective way to learn, but this can only
+occur if you know each other and what you are working on. Facilitating this is
+primary purpose of these meetings.
 
-*Note:* This meaning working together on analysis and approach of a problem,
-not directly sharing code togehter! For a complete description of what forms of
-collaboration are reasonable and unreasonable, see the end of this document.
+*Note:* This means working together on analysis and approach of a problem, not
+directly sharing code with each otehr! For a complete description of what it
+means to do your own work and forms of collaboration are reasonable and
+unreasonable, see the end of this document.
 
 ## Asking questions
 
