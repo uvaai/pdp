@@ -88,9 +88,9 @@ different ways you can get help and when to use which one.
 
 ### Ed Q&A Forum
 
-The first place you should try and ask your question is on the Ed
+The first place you should try and ask your question is on the 
 [Ed forum](https://edstem.org/us/courses/4208/discussion/). There the course
-staff and your fellow students will answer any specific questions you might
+staff or your fellow students will answer any specific questions you might 
 have.
 
 If you have general question about the material or the assignment, please make
