@@ -77,7 +77,7 @@ occur if you know each other and what you are working on. Facilitating this is
 primary purpose of these meetings.
 
 *Note:* This means working together on analysis and approach of a problem, not
-directly sharing code with each otehr! For a complete description of what it
+directly sharing code with each other! For a complete description of what it
 means to do your own work and forms of collaboration are reasonable and
 unreasonable, see the end of this document.
 
