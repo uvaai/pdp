@@ -4,7 +4,7 @@ To be able to program on your own computer you need a couple different programs:
 
 1. **Anaconda**, a version of Python that is easy to install. There are *a lot* of packages included, which contain functionalities for graphs, statistics and a host of other features.
 
-2. **Atom**, an *editor* to write code in. This is, in a way, just a text writing program, but specifically meant for programming code. For example, it highlights particular parts of your code in specific colors, so you maintain oversight over your code.
+2. **Atom**, an *editor* to write code in. This is, in a way, just a text writing program, but specifically meant for programming code. For example, it highlights particular parts of your code in specific colors, so can more easily distinguish which part of your code does what.
 
 3. Finally, you will need a *command line interface* from which will provide you with methods to start and interact with your programs. One comes pre-installed with macOS, but Windows users will need to install one.
 
@@ -78,20 +78,24 @@ During the course, we will use some other Python libraries. We will download and
 
 First, open a terminal and run the following command:
 
-	conda init bash
+    conda init bash
 
 This will instruct your terminal to list the current Conda environment it is in. Close the terminal, and open a new one. This will make sure that everything is started correctly. To verify this, you can see if your terminal shows something like `(base)` in front of every line.
 
 Now, with your new terminal, run the following commands:
 
-  curl https://pdp.mprog.nl/course/python/en/installing/computer/environment.env > environment.yml
-  conda env create -f environment.yml
-  rm environment.yml
+	curl https://pdp.mprog.nl/course/python/en/installing/computer/environment.env > environment.yml
+	conda env create -f environment.yml
+	rm environment.yml
+
 
 This downloads a formatted description of what libraries to download and install, then installs the libraries, and then removes the description (as we no longer need it).
 
 From here on out when you open a terminal we can use the following command to enter the environment, and enable the use of all the libraries we installed:
 
-  conda activate minAI
+    conda activate minAI
 
-If everything worked, you will now see that your terminal shows `(minAI)`. *Remember, if you want to use these libraries and `import` them in your code, you will have to have _this_ environment active.*
+If everything worked, you will now see that your terminal shows `(minAI)`. 
+
+**Important:** If you want to use all of the libraries you've just installed and `import` them in your own code, you will have to have *this* environment active. We recommend you *always* have this environment active when working on assignments for the minor.
+
