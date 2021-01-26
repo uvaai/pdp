@@ -33,7 +33,7 @@ The deadlines for each module can be found on the overview page of that module.
 We've found that it can be difficult for students to plan when to work on what
 part of the material, especially with two complete new courses, that together
 require a full-time time investment. Being unfamiliar with a subject makes it a
-lot harder to estimate how long something might take, while working from home
+lot harder to estimate how long something might take, and working from home
 might also make structuring your work more difficult. To help with all of this,
 we've made a day-to-day schedule for each module, which indicates what elements
 should be completed each day.
