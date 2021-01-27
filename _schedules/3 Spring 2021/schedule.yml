@@ -16,13 +16,14 @@ Module 2:
         Submit your solutions: /submit/module2
 
 Module 3:
-    "Dictionaries":
+    Overview: /bigdata/en
+    Dictionaries:
         - dictionaries
     Monte Carlo:
         Learn about functions as arguments of other functions: /python/en/functions2
         Learn more about the Monte-Carlo method: monte-carlo/explanation
         Use random values to calculate integrals with the Monte Carlo method: monte-carlo/integrals
-    "Big Data":
+    Big Data:
         - bigdata-en
     Submit:
         Submit your solutions: /submit/module3

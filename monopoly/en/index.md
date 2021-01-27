@@ -1,4 +1,4 @@
-# Monopoly (level 3)
+# Monopoly 
 
 ![](MonopolyBordInternationaal.jpg){:.inline}{: style="width:50%"}
 
