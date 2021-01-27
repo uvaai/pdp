@@ -1,6 +1,5 @@
 name: bigdata-en
 content:
-
-    Overview: .
-    Learn to analyse and process a data set: /python/en/files
-    Dig around in KNMI temperature data: temperatures
+    Big data:
+        Learn to analyse and process a data set: /python/en/files
+        Dig around in KNMI temperature data: temperatures

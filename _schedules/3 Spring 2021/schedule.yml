@@ -14,17 +14,18 @@ Module 2:
     Submit your solutions: /submit/module2
 
 Module 3:
+    ".":
+        - dictionaries
     Monte Carlo:
       Learn about functions as arguments of other functions: /python/en/functions2
       Learn more about the Monte-Carlo method: monte-carlo/explanation
       Use random values to calculate integrals with the Monte Carlo method: monte-carlo/integrals
-    Big Data:
+    ".":
         - bigdata-en
     Submit your solutions: /submit/module3
 
 Module 4:
     ".":
-        - dictionaries
         - monopoly-en
     Submit your solutions: /submit/module4
 
