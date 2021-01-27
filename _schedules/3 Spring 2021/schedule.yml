@@ -6,12 +6,14 @@ Module 1:
     ".":
         - algorithms
         - plotting
-    Submit your solutions: /submit/module1
+    Submit:
+        Submit your solutions: /submit/module1
 
 Module 2:
     ".":
         - integrals
-    Submit your solutions: /submit/module2
+    Submit:
+        Submit your solutions: /submit/module2
 
 Module 3:
     "Dictionaries":
@@ -28,14 +30,17 @@ Module 3:
 Module 4:
     ".":
         - monopoly-en
-    Submit your solutions: /submit/module4
+    Submit:
+        Submit your solutions: /submit/module4
 
 Module 5:
     ".":
         - complexity
-    Submit your solutions: /submit/module5
+    Submit:
+        Submit your solutions: /submit/module5
 
 Module 6:
     ".":
         - survival
-    Submit your solutions: /submit/module6
+    Submit:
+        Submit your solutions: /submit/module6
