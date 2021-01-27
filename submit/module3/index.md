@@ -1,4 +1,4 @@
-# Submit Big Data
+# Submit module 3
 
 Here you can submit your solutions to the problems in your module. Take note:
 

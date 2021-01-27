@@ -93,9 +93,8 @@ This downloads a formatted description of what libraries to download and install
 
 From here on out when you open a terminal we can use the following command to enter the environment, and enable the use of all the libraries we installed:
 
-    conda activate minAI
+    conda activate progLab
 
-If everything worked, you will now see that your terminal shows `(minAI)`. 
+If everything worked, you will now see that your terminal shows `(progLab)`. 
 
 **Important:** If you want to use all of the libraries you've just installed and `import` them in your own code, you will have to have *this* environment active. We recommend you *always* have this environment active when working on assignments for the minor.
-

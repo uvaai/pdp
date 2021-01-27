@@ -5,38 +5,35 @@ Welcome:
 Module 1:
     ".":
         - algorithms
-        - notebook
         - plotting
-    Submit your solutions: /submit/algorithms
+    Submit your solutions: /submit/module1
 
 Module 2:
     ".":
         - integrals
-    Submit your solutions: /submit/integrals
+    Submit your solutions: /submit/module2
 
 Module 3:
+    Monte Carlo:
+      Learn about functions as arguments of other functions: /python/en/functions2
+      Learn more about the Monte-Carlo method: monte-carlo/explanation
+      Use random values to calculate integrals with the Monte Carlo method: monte-carlo/integrals
     ".":
-        - dictionaries
-        - animation
-        - monopoly-en
-    Submit your solutions: /submit/monopoly
+        - bigdata-en
+    Submit your solutions: /submit/module3
 
 Module 4:
     ".":
-        - bigdata-en
-    Submit your solutions: /submit/bigdata
+        - dictionaries
+        - monopoly-en
+    Submit your solutions: /submit/module4
 
 Module 5:
     ".":
         - complexity
-    Submit your solutions: /submit/complexity
+    Submit your solutions: /submit/module5
 
 Module 6:
     ".":
         - survival
-    Submit your solutions: /submit/survival
-#
-# Module 6:
-#   ".":
-#     - news
-#   Submit your solutions: /submit/news
+    Submit your solutions: /submit/module6

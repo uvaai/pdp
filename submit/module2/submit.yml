@@ -1,4 +1,4 @@
-name: integrals
+name: module2
 files:
     required:
         - roots.py
@@ -6,8 +6,7 @@ files:
         - randommaths.py
         - distance.py
         - histogram.py
-        - montecarlo.py
-        - twitter.py
+
 check:
     tool: checkpy
     repo: uva-sp/sp1

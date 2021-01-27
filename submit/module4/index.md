@@ -1,4 +1,4 @@
-# Submit Monopoly
+# Submit module 4
 
 Here you can submit your solutions to the problems in your module. Take note:
 

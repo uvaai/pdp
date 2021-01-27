@@ -1,4 +1,4 @@
-name: bigdata
+name: module3
 files:
     required:
         - car_ride.py

@@ -12,13 +12,12 @@ templates:
         hide_calculated: true
 
 grades:
-    algorithms: *check_off
-    integrals: *check_off
-    monopoly: *manual
-    bigdata: *manual
-    complexity: *manual
-    news: *manual
-    survival: *manual
+    module1: *check_off
+    module2: *check_off
+    module3: *manual
+    module4: *manual
+    module5: *manual
+    module6: *manual
     oral: *check_off
 
 calculation:
@@ -29,12 +28,12 @@ calculation:
 assignments:
     show_progress: true
     submits:
-        algorithms: 0
-        integrals: 0
-        monopoly: 1
-        bigdata: 1
-        complexity: 1
-        survival: 1
+        module1: 0
+        module2: 0
+        module3: 1
+        module4: 1
+        module5: 1
+        module6: 1
 
 exam:
     show_progress: true

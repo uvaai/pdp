@@ -1,4 +1,4 @@
-name: survival
+name: module6
 files:
     required:
         - pandas.ipynb

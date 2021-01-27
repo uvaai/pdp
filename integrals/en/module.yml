@@ -3,9 +3,6 @@ content:
 
     Introduction: .
 
-    Lists:
-        Learn to gather information into lists: /python/en/lists
-
     Roots:
         Learn about functions in Python: /python/en/functions
         Determine the roots of a polynomial: roots
@@ -19,9 +16,3 @@ content:
         Random fact: random/fact
         Calculate the average distance between two points in a square: random/distance
         Analyse with a histogram the output of the `random` function: random/histogram
-
-    Monte Carlo:
-        Learn about functions as arguments of other functions: /python/en/functions2
-        Learn more about the Monte-Carlo method: monte-carlo/explanation
-        Use random values to calculate integrals with the Monte Carlo method: monte-carlo/integrals
-        Calculate the surface of an odd shape: monte-carlo/egg

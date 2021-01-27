@@ -1,4 +1,4 @@
-name: monopoly
+name: module4
 files:
     required:
         - spiral.py
