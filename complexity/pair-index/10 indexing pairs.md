@@ -1,5 +1,5 @@
 
-## Assignment 3: Near word pairs
+## Near word pairs
 
 For this last assignment you will extend the indexing program from the previous
 assignment, so it can support a more interesting type of search. You should

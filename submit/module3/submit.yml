@@ -1,7 +1,7 @@
 name: module3
 files:
     required:
-        - car_ride.py
+        - montecarlo.py
         - temperature.py
 check:
     tool: checkpy

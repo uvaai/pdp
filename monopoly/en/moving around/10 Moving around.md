@@ -68,7 +68,7 @@ Repeatedly throw two dice and keep track on what property the player landed. `Pr
 
 Note: make sure the position is always denoted as an integer between 0 and 39, even when you've lapped the board multiple times. You could use the modulo (`%`) to achieve this, like earlier in module 1.
 
-## Moving around the actual game board
+## Moving around the board
 
 Not every position on the board corresponds with a property (street, station or utility). The corners of the board are not for sale and also the "Chance" and "Community Chest" cards and taxes are not for sale (and also taxes are not deducted). Make a list of length 40, in which each position on the board is represented by its value. The first eleven positions would look like this:
 

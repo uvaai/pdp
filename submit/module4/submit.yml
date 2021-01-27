@@ -1,8 +1,6 @@
 name: module4
 files:
     required:
-        - spiral.py
-        - student.py
         - monopoly.py
         - monopoly_realistic.py
 check:
