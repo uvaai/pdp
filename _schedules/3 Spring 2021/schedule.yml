@@ -3,6 +3,7 @@ Welcome:
     Install python: /python/en/installing
 
 Module 1:
+    Schedule: /module_schedule/module_1
     ".":
         - algorithms
         - plotting
@@ -10,6 +11,7 @@ Module 1:
         Submit your solutions: /submit/module1
 
 Module 2:
+    Schedule: /module_schedule/module_2
     ".":
         - integrals
     Submit:
