@@ -10,7 +10,7 @@ The schedule for this week is as follows:
 | Thursday 04/02  | A serious algorithm        | ELIZA                            |                                                                   |
 | Friday 05/02    | Plotting graphs            | ELIZA                            |                                                                   |
 
-*The deadline for both Data Processing and Introduction to Machine Learning is 17:59 on the last day of this schedule.*
+**The deadline for both Data Processing and Introduction to Machine Learning is 17:59 on the last day of this schedule.**
 
 In this module you'll dip your toes into the water by implementing a few algorithms. These algorithms generate different outputs depending on what we provide as input. Seen that way, the algorithms are *generic*, albeit limited a particular kind of input. This module should be accessible with a high-school level background in mathematics.
 
