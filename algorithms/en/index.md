@@ -1,6 +1,6 @@
-# Algorithms
+# Module 1
 
-The schedule for this week is as follows:
+The deadline for both Python for Data Processing and Introduction to Machine Learning is **Friday February 5th at 17:59**
 
 | Day             | Python for Data Processing | Introduction to Machine Learning | Seminars                                                          |
 |-----------------|----------------------------|----------------------------------|-------------------------------------------------------------------|
@@ -10,7 +10,23 @@ The schedule for this week is as follows:
 | Thursday 04/02  | A serious algorithm        | ELIZA                            |                                                                   |
 | Friday 05/02    | Plotting graphs            | ELIZA                            |                                                                   |
 
-**The deadline for both Data Processing and Introduction to Machine Learning is 17:59 on friday 05/02.**
+### Seminars
+
+There are two scheduled seminars for this module
+
+* **Introduction, Installation, terminal/editor basics and checkpy** on *Monday February 1st at 11:00*: <https://uva-live.zoom.us/j/86316839659>
+
+* **Where to start; how to decompose a problem** on *Wednesday February 3rd at 11:00*: <https://uva-live.zoom.us/j/88403339641>
+
+### Daily sessions
+
+These will be organised every day. The first session will be held on *Tuesday* this module, as Monday is the kick-off day.
+
+* Morning meetings at **09:00** on [Wonder.me](https://www.wonder.me/r?id=c6cdcb4d-7901-44dc-9b9f-fe90898c22a5)
+
+* Question Queue at **09:30** on [Discord](https://discord.gg/jYqmkD8yXx)
+
+## Algorithms
 
 In this module you'll dip your toes into the water by implementing a few algorithms. These algorithms generate different outputs depending on what we provide as input. Seen that way, the algorithms are *generic*, albeit limited a particular kind of input. This module should be accessible with a high-school level background in mathematics.
 
