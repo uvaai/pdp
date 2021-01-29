@@ -3,8 +3,10 @@ content:
 
     Overview: .
 
-    Roots:
+    Functions:
         Learn about functions in Python: /python/en/functions
+
+    Roots:
         Determine the roots of a polynomial: roots
 
     Riemann:

@@ -15,7 +15,7 @@ This is a function that `print`s the string `Hello` to the terminal. If you add 
 
     print_greeting()
 
-## Examples of declaring functions 
+## Examples of declaring functions
 
 ![embed](https://vimeo.com/album/5380760/embed)
 
@@ -28,3 +28,7 @@ Read more about functions here: [Think Python](http://greenteapress.com/thinkpyt
 Using functions improves readability of your code. With a well-chosen name for each function you can easily gain an overview of what the code is meant to do as a whole. It allows you to first quickly read all function names of a program before having to try and comprehend the functional code.
 
 Functions can also be expedient when you repeatedly have to use a more or less identical piece of code. Often times when you catch yourself copy pasting parts of your own code, you can better spend some time to find a way to efficiently reuse the code your copying by defining a function!
+
+## Programming basics book
+
+TODO
