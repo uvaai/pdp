@@ -24,5 +24,5 @@ These will be organised every day. The first session will be held on *Tuesday* t
 
 * Morning meetings at **09:00** on [Wonder.me](https://www.wonder.me/r?id=c6cdcb4d-7901-44dc-9b9f-fe90898c22a5)
 
-* Question Queue at **09:30** on [Discord](https://discord.gg/jYqmkD8yXx)
+* Question Queue at **09:30** on [Discord](https://discord.gg/y9BVSck5z5)
 
