@@ -54,7 +54,7 @@ Declare a new function `equilibrium()` in which you repeatedly call the function
 
 If you've ran a couple simulation, you'll have a small data-set with which you can reproduce the graph from earlier and you should be able to make a decent estimation of the amount of extra money player 2 requires in order to restore the equilibrium.
 
-There is of course a sum of money where the advantage switches towards player 2. Use that amount (and the amount before that) to make an estimation of the amount where the equilibrium is situated. Assume for this that the difference follows a linear course as function of the extra money player 2 receives. The answer has to be rounded to the nearest value of 50 euros.
+There is of course a sum of money where the advantage switches towards player 2. Use that amount (and the amount before that) to make an estimation of the amount where the equilibrium is situated. Assume for this that the difference grows linearly with the extra money player 2 receives. The answer has to be rounded to the nearest value of 50 euros.
 
 {: .language-python}
     Monopoly simulator: 2 players

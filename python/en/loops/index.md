@@ -1,6 +1,6 @@
 # Loops
 
-In a computer program you often encounter a (small) set of instructions that you want to execute multiple times. They way to do and steer that is by using loops. On this page we discuss the format and features of loops and we will also explore a few examples where loops can be very useful.
+In a computer program you often encounter a (small) set of instructions that you want to execute multiple times. They way to do that is by using loops. On this page we discuss the format and features of loops and we will also explore a few examples where loops can be very useful.
 
 Please create a file called `practicing_loops.py` and use it to implement the various examples and exercises on this page.
 
@@ -21,7 +21,7 @@ This program has as output:
     ...
     x now has the value 10
 
-The loop starts by setting the value of x to 1 and then executing *all* instructions in the loop one by one. After that, x is assigned the value 2 and again all instructions are executed. In this simple program there is only a single instruction: print the value of x, but we can of course expand the number of instructions. The most important notion is that the program automatically changes the variable `x`.
+The loop starts by setting the value of `x` to `1` and then executing *all* instructions in the loop one by one. This is called an _iteration_. After that, `x` is assigned the value `2` and again all instructions are executed. In this simple program there is only a single instruction: `print` the value of `x`, but we can of course expand the number of instructions. The most important notion is that the program changes the variable `x` after each cycle.
 
 
 ![](Loopsexplanation.png){: style="max-width:500px;"}
@@ -35,7 +35,7 @@ There are a few important things to note:
 
 -   With range you can also specify the step size. This is standard set to 1, but if you prefer to take steps of 10 you would use the following syntax:
 
-         for x in range (1, 100, 10):
+         for x in range(1, 100, 10):
 
     Please try this yourself to make sure you understand what values x takes in this program.
 
@@ -44,7 +44,7 @@ There are a few important things to note:
 
 In Python, just like in almost every other programming language, there are two different constructions to loop over a variable: the **for-loop** and the **while-loop**.
 
-A for-loop is used when you know beforehand how often you want to repeat the set of instructions. In cases where you do not know that in advance and want to evaluate at every step if you want to continuer not, you use the while-loop. In a while-loop, just like in the for-loop, all instructions are executed for a specific value of the variable. Ths difference is that each time the variable is changed, there is an evaluation wether or not to re-do the block again.
+A for-loop is used when you know beforehand how often you want to repeat the set of instructions. In cases where you do not know the number of repetitions in advance and want to re-evaluate at every iteration whether you want to continue you use the while-loop. In a while-loop, just like in the for-loop, all instructions are executed for a specific value of the variable. Ths difference is that each time the variable is changed, there is an evaluation wether or not to re-do the block again.
 
 In most cases, `for` and `while` are interchangeable. This for-loop:
 
@@ -58,19 +58,19 @@ is equal to the following `while-loop`:
 	        print("x now has the value ", x)
 	        x = x + 1
 
-The reason that the `for`-loop is more often used is that it is a bit more compact and also easier readable. However this can only be done is you know beforehand how often this needs to be executed. In other cases, and also with user input it can almost only be done with a while construction.
+The reason that the `for`-loop is more often used is that it is a bit more compact and also more easily readable. However this can only be done if you know beforehand how often the code needs to be executed. In other cases,  like with user input, the only way to do it is to use a `while`-loop.
 
 ![embed](https://player.vimeo.com/video/287247106)
 
 ## Computing things using loops
 
-In the first example we had only a single instruction in the loop itself, 'print the value of x on the screen', but you could have multiple instructions for every value x takes.
+In the first example we only had a single instruction in the loop itself, 'print the value of `x` on the screen', but you could have multiple instructions for every value `x` takes.
 
 ![embed](https://player.vimeo.com/video/287247088)
 
-In the next example we add the value of x to another variable that we have set to zero at the beginning of the program. At the end of the program this variable contains the sum of the values from 1 to 10. Once we have that, it is easy to get the sum of numbers from 1 to 712643 rather than from 1 to 10 of course.
+In the next example we add the value of x to another variable that we have set to zero at the beginning of the program. At the end of the program this variable contains the sum of the values from 1 to 10. Once we have that, it is easy to get the sum of numbers from 1 to 712643 by changing just one line.
 
-As soon as all instructions have been executed forthe highest value the variable x can take, the loop is 'finished' and the program continues with all instructions after the for-loop. In this case we have the program print the value of the sum of all numbers. Please pay close attention to the indentation/position of the last line.
+As soon as all instructions have been executed for the highest value the variable `x` will get from the `range` function, the loop is 'finished' and the program continues with all instructions after the for-loop. In this case we have the program print the value of the sum of all numbers. Please pay close attention to the indentation/position of the last line.
 
     total = 0
     for x in range(1, 11):
@@ -80,7 +80,7 @@ As soon as all instructions have been executed forthe highest value the variable
     print("The sum of all numbers from", 1, "to", 10, "=", total)
 
 
-**Exercise 1:** Please change this program by changing the indentation of the print-statement in such a way that it starts at the same position as the line 'sum = sum + x'. Run the program and try to understand what happens. problems with indentation is a very common mistake when using loops, so it is important to see these type of 'mistakes' so you can recognize them later.
+**Exercise 1:** Please change this program by changing the indentation of the print-statement in such a way that it starts at the same position as the line `sum = sum + x`. Run the program and try to understand what happens. problems with indentation is a very common mistake when using loops, so it is important to see these type of 'mistakes' so you can recognize them later.
 
 **Exercise 2:** At this moment we use the numbers from 1 to 10. Please try to adapt the program in such a way that you define a new variable once at the beginning of the program (so not in the range() function) that holds the maximum number.
 
@@ -102,7 +102,7 @@ Within the set of instructions you can also use conditionals. For example, if yo
         if number % 3 == 0:
 		   print("This number is exactly divisible by 3: ", number)
 
-We already mentioned that you can decide on the name of the variable. And as you see, in the above exampe we have changed the name of our variable 'x' to 'number'.
+We already mentioned that you can decide on the name of the variable. And as you see, in the above exampe we have changed the name of our variable `x` to `number`.
 
 **Exercise:** Try to adapt the above example in such a way that at the end of the loop, the program rints to the screen how many numbers were exactly divisible by 3. To do this you will have to define a so-called 'counter', a variable that is set to zero at the start of the program and that is incremented by 1 every time you encounter a number that is exactly divisible by 3. Also take some time to format the output to the screen and have tyour program print:
 
@@ -141,4 +141,4 @@ This program has as output:
 
 ## Practice and  debugging
 
-If you meet a for-loop somehwere in this course that you don;t understand very well, eithe rin the examples we give or in your own code, please come back to this page and read it again. Last tip: you can always use print-statements to verify if the loops are really doing what you think you have told them to do.
+If you meet a for-loop somewhere in this course that you don't understand very well, either in the examples we give or in your own code, please come back to this page and read it again. Last tip: you can always use print-statements to verify if the loops are really doing what you think they do.

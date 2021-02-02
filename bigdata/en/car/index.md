@@ -1,6 +1,6 @@
-# Assignment: Sensor data 
+# Assignment: Sensor data
 
-A mobile phone contains many delicate sensors that collect information about the position, speed and acceleration of the device. We have collected these inputs during a car ride and stored the data in a file with a frequency of 1[Hz]. We started collecting the data when the car was located on the A4 highway where it joins the A10 highway. We stopped collecting data when the car arrived at the Nikhef. 
+A mobile phone contains many delicate sensors that collect information about the position, speed and acceleration of the device. We have collected these inputs during a car ride and stored the data in a file with a frequency of 1[Hz]. We started collecting the data when the car was located on the A4 highway where it joins the A10 highway. We stopped collecting data when the car arrived at the Nikhef.
 
 ![Map of the route](../../assets/KaartAmsterdamKlein.png)
 
@@ -14,7 +14,7 @@ Write a program **car_ride.py** that traverses the data file, processes said dat
 
 ## Traveled distance
 
-Create a graph of the speed of the car (km/h) as a function of the time and use the data to estimate the traveled distance in total.
+Create a graph of the speed of the car (km/h) on the vertical axis and time on the horizontal axis and use the data to estimate the traveled distance in total.
 
 Create a graph of the position of the car and color the route green where the speed of the car was more than 50 km/hour. Color the route red where the speed of the car was less than 50 km/hour.
 
