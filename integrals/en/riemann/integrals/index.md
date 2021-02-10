@@ -39,7 +39,7 @@ integrals, you can try the unknown new integrals.
 
 $$\int_{0}^5 2x~dx = 25$$
 
-$$\int_{-2}^3 (-x^2 + 4x + 15)~dx \approx 73.33$$
+$$\int_{-2}^3 (-x^2 + 4x + 15)~dx \approx 73.44$$
 
 $$\int_{-2}^3 (-x^2 - 8x + 8)~dx \approx 8.33$$
 
