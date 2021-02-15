@@ -7,7 +7,7 @@ go much more into detail on why and when it useful in a couple of weeks, but
 for now we'll just going to cover the very basics of how to use it. Watch the
 video below, and then make the exercises in the notebook.
 
-![embed](https://vimeo.com/511670646/32d749d458)
+![embed](https://player.vimeo.com/video/511670646)
 
 [Right-click and save the notebook here.](../data/dictionaries.ipynb)
 
