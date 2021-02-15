@@ -9,6 +9,8 @@ video below, and then make the exercises in the notebook.
 
 ![embed](https://player.vimeo.com/video/511670646)
 
+### Practicing with dictionaries
+
 [Right-click and save the notebook here.](../data/dictionaries.ipynb)
 
 Open your terminal in the same folder where you saved this notebook and run the
