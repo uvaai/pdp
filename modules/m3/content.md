@@ -21,7 +21,7 @@ There are three scheduled seminars for this module
 
 * **Bayes' Rule & the Naive Bayes algorithm** on *Wednesday February 17th at 11:00*: <https://uva-live.zoom.us/j/86547152112>
 
-* **Implementing Likelihood, Prior & Posterior** on *Friday February 12th at 11:00*: <https://uva-live.zoom.us/j/88506761986>
+* **Implementing Likelihood, Prior & Posterior** on *Friday February 19th at 11:00*: <https://uva-live.zoom.us/j/88506761986>
 
 ### Daily sessions
 
