@@ -2,9 +2,9 @@
 
 ![](GoldenDollar.png){:.inline}{: style="width:20%"}
 
-In an official game of Monopoly you receive 1500 euros of money at the start and you earn 200 euros each time you pass or land on START. Such a finite amount of money has an effect on the speed with which you can buy streets. In this assignment we'll find out exactly what that effect is.
+In an official game of Monopoly you receive 1500 euros of money at the start and you earn 200 euros each time you pass or land on START. A finite amount of money has an effect on the speed with which you can buy streets. In this assignment we'll find out exactly what that effect is.
 
-**Note:** We're going to make an adjustment to your existing code from assignment 1; an expansion. You don't need to create a new file and at the end of the assignment you can just hand in the code from `monopoly.py`. It will contain both assignment 1 and 2.
+**Note:** We're going to make an adjustment to your existing code from assignment 1; an expansion. You don't need to create a new file and at the end of the assignment you can just hand in the code from `monopoly.py`. It will contain both assignment 1 and 2. It might however be a good plan to create a backup of your code from the last assignment.
 
 For your new program you'll have to edit the function `simulate_monopoly()`, in such a way that each game starts with a specified number of starting money and that you keep track of how much money the player has left after each purchase and lap. You'll also have to verify, each time you land on a property that is for sale, whether the player has enough money left to make the purchase. The expectation is that the game will take more turns before all streets are in possession of the player than in the first assignment where money was not a factor.
 
@@ -26,6 +26,6 @@ Use the difference between the average number of throws with 1000 euro or 2000 e
 
 **Tips:**
 
-   1. You're allowed to manually change the number of starting money each time.
+   1. You're allowed to manually change the amount of starting money each time.
 
    2. You can test your code by providing the player with a huge amount of starting money. With a million euros you effectively create the same situation as you did for Donald Trump mode in assignment 1.

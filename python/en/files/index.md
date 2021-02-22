@@ -56,7 +56,7 @@ Every line consists out of different elements, or, columns. You can retrieve the
         print(splitted_data)
     input_file.close()
 
-The line with 1988 is now splitted and turned into a list: 
+The line with 1988 is now splitted and turned into a list:
 
     ['198889', ' AC Milan', ' 33', ' 19\t\n']
 
@@ -74,9 +74,9 @@ We can save this information in a variable:
 
 ### Problem 1: unpacking the variables
 
-As yoy might have observed, the creators of the file name the season 1988-1889 as one number: 198889. Smart of them, but we are only interested in the year of the start of the season (1988). 
+As you might have observed, the creators of the file name the season 1988-1889 as one number: 198889. Smart, but we are only interested in the year of the start of the season (1988).
 
-Note that the data is still stored in the list as a `string`. Although `198889` can be cosidered to be a number, we treat it as a piece of text. The year we are looking for is stored in the first 4 characters of that string. To only save this part of the string, we need the first 4 characters.
+Note that the data is still stored in the list as a `string`. Although `198889` can be considered to be a number, we treat it as a piece of text. The year we are looking for is stored in the first 4 characters of that string. To only save this part of the string, we need the first 4 characters.
 
     season = splitted_data[0][0:4]
     goals = splitted_data[2]
@@ -113,8 +113,8 @@ We wanted to calculate the total number of goals van Basten has made for his clu
     print(f"TOTAAL: In total Van Basten scored {total_goals} clubgoals")
     input_file.close()
 
-Always use `close()` to close the file you worked with after use. 
+Always use `close()` to close the file you worked with after use.
 
 ## Exercise
 
-Download the file with the goals statistics of van Basten and try to reproduce the results above. 
+Download the file with the goals statistics of van Basten and try to reproduce the results above.
