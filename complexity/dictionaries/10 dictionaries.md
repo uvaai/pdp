@@ -103,14 +103,19 @@ we also get a *KeyError*
       File "<stdin>", line 1, in <module>
     KeyError: 'mango'
 
-We can also use the `get()` function instead of the square brackets, and as the
-second argument tell the dictionary what value we want if the key is not
+We can also use the `get()` function instead of the square brackets. This
+function will accept two arguments; the first is the key we want to get the
+value for, and the second is the value we want to get back if the key is not
 present in the dictionary
 
     >>> basket.get('mango', 0)
     0
+		>>> basket.get('orange', 0)
+		2
+		>>> basket.get('mango', 'We are all out of mango')
+		We are all out of mango
 
-So now we know that our fruit basket unfortunately contains zero mangoes, but in
+So now we know that our fruit basket unfortunately contains zero mangoes. In
 many situations this result is much more useful then producing an error.
 
 We can also explicitly ask if a key is present in the dictionary using `in`
