@@ -25,7 +25,7 @@ There are three scheduled seminars for this module
 
 ### Daily sessions
 
-These will be organised every day. The first session will be held on *Tuesday* this module, as Monday is the kick-off day.
+These will be organised every day.
 
 * Morning meetings at **09:00** on [Wonder.me](https://www.wonder.me/r?id=c6cdcb4d-7901-44dc-9b9f-fe90898c22a5)
 
