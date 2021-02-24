@@ -32,11 +32,6 @@ Each turn of the game starts with throwing two dice. That means two random numbe
     import random
     dice = random.randint(1, 6)
 
-**Declare** a function `throw_two_dice()` without parameters that `returns` the result of throwing two dice. You'll want to use this function in your code like this:
-
-      result = throw_two_dice()
-      print(f"Total value of throwing two dice: {result}.")
-
 **Declare** a function called `practice_with_dice()` to test your dice throws. Let it simulate a thousand throws and for each throw let it use two dice. `Print` for each throw the total value of the dice to the terminal and clearly display to the user when a 'double' has been thrown (the numbers on the two dices are identical). Keep track of the number of 'doubles' and `print` that number to the screen at the end of the function.
 
 {: .language-python}
@@ -50,6 +45,12 @@ Each turn of the game starts with throwing two dice. That means two random numbe
     throw 1000: total value of 2 dice = 3
 
     print "The percentage of double throws = xx,xx percent"
+
+**Declare** a simpler function `throw_two_dice()` without parameters that `returns` the sum of two thrown dice. It is not necessary to track doubles. You'll want to use this function in your code like this:
+
+      result = throw_two_dice()
+      print(f"Total value of throwing two dice: {result}.")
+
 
 Note: the function `practice_with_dice()` is not needed in the rest of the assignment. You can either remove it from your code or leave there, it's up to you.
 
