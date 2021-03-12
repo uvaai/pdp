@@ -73,7 +73,7 @@ Start by adding your solution for these 3 functions to the file.
 
 Next up is writing the function `build_pair_index()`, which should return an
 index similar to your old `build_index()` function, but searchable by word
-pairs, where a word pair is a tuple: `(word_1, word_2, line_number)`. Building
+pairs, where a word pair is a tuple: `(word_1, word_2)`. Building
 an indexing system in which you can search for word pairs can be a little
 tricky, so we will guide you through the steps.
 
