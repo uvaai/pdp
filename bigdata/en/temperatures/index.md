@@ -13,7 +13,7 @@ Download the files, open them and read the headers (at the top of the file) on h
 
 Create a program named **temperature.py**. Eventually, it should read the datafiles and answer the questions below.
 
-# Assignment 0: Reading the data
+### Assignment 0: reading the data
 
 The first lines in the datafile contain all sorts of clarification and extra information. It is important to keep this information in the file, to make sure that anyone who reads the file can understand its contents. However, our program should be implemented in such a way that it skips these lines when it processes the file.
 
@@ -34,7 +34,7 @@ Where `max_dates` and `min_dates` are both lists of dates like `'19670513'`, and
 
 What were the highest and lowest temperature that were measured in De Bilt since the start of the 20st century? What days were they measured?
 
-Write a function named `get_extremes()` that returns both the highest and the lowest temperatures and their respective dates. The function should accept four arguments: `max_dates`, `max_temps`, `min_dates`, and `min_temps`. Make sure your program calls the function, and then `print`s the dates properly to the screen. Don't print:
+Write two functions named `get_highest_temp()` and `get_lowest_temp()` that return the highest and the lowest temperatures and their respective dates. Each function should accept two arguments: a list of dates and a list of temperatures. Make sure your program calls the functions, and then `print`s the dates properly to the screen. Don't print:
 
      Max 34.5 at 19670513
 
@@ -46,25 +46,27 @@ but something like:
 
 **Tip:** make a separate function that takes a number like `19670513` and converts it into a more readable expression like `13 may 1967`. Make use of functions in a logical way!
 
-> If you need an extra challenge, find a way to reduce your duplicate code; the code that finds the minumum temperature and its date shouldn't be too different from the code that finds the maximum temperature and its date. _This is not a required part of the exercise._
+> If you need an extra challenge, find a way to reduce your duplicate code; the code that finds the minumum temperature and its date shouldn't be too different from the code that finds the maximum temperature and its date. Create a third function that can find both the maximum and minimum temperature depending on its inputs. Call this function in `get_highest_temp()` and `get_lowest_temp()`. _This is not a required part of the exercise._
 
 ### Assignment 2: cold colder coldest
 
-What is the longest period of uninterrupted days that had freezing temperatures (maximum temperature below 0◦C)? (If you would use the minimum temperature, you would find the longest period days that had temperatures below 0◦C). What was the date of the last day of this period of time?
+What is the longest period of uninterrupted days that had no temperatures above 0◦C (i.e. **maximum** temperature below 0◦C)? What was the date of the last day of this period of time?
 
 Write a function named `get_longest_freezing()` that returns both the longest number of days with uninterrupted freezing temperatures and the date of the last day of this period. The function should accept two arguments: `max_dates` and `max_temps`.
 
-Print the answer to both questions in one line, such that `check50` understands your output.
+Print the answer to both questions in one neatly formatted line, such that `check50` understands your output. Remember to reuse any formatting functions you wrote before.
 
-### Assignment 3: Summer days and tropical days
+### Assignment 3: summer days and tropical days
 
 A day is a summer day when the maximum temperature is 25 degrees Celsius or higher. On a tropical day that maximum temperature would even reach 30 degrees. All tropical days are also summer days. Make a graph where both the number of summer days and tropical days is displayed for each year. A neat solution would be to use a barchart. Write a function that creates this barchart and name it appropriately.
 
-### Assignment 4: First heat wave
+### Assignment 4: first heat wave
 
-In the Netherlands we speak of a heat wave when the maximum temperature has been higher than 25◦C (summer days) for at least five uninterrupted days of which at least three days had maximum temperatures of at least 30◦C (tropical days). Write a function named `get_first_heat_wave()` that returns the *first* year that a heatwave was found within the dataset following this definition. The function should accept two arguments: `max_dates` and `max_temps`.
+In the Netherlands we speak of a heat wave when the maximum temperature has been higher than 25◦C (summer days) for at least five uninterrupted days of which at least three days had maximum temperatures of at least 30◦C (tropical days).
 
-Print the result of the function.
+Write a function named `get_first_heat_wave()` that returns the *first* year that a heatwave was found within the dataset following this definition. The function should accept two arguments: `max_dates` and `max_temps`.
+
+Print the result of the function in a neatly formatted line.
 
 ### Clean code and clean output
 
@@ -72,7 +74,7 @@ Make sure the code of all your assignments is written in multiple functions. Bre
 
 You can see above that there are a couple of statements that need to be `print`ed and one graph has to be created. Make sure the requested information is `print`ed on separate lines, in the correct order.
 
-Try to collect all executing statements in one place; make sure you first define all functions, and then call each of them. 
+Try to collect all executing statements in one place; make sure you first define all functions, and then call each of them.
 
 ## Testing
 
