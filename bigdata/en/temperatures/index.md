@@ -11,7 +11,7 @@ Files:
 
 Download the files, open them and read the headers (at the top of the file) on how the data has been formatted. We can see the maximum (minimum) temperature at January 1st 1901 was -3.1 (-6.8) degrees Celsius.
 
-Create a program **temperature.py**. Eventually, it should read the datafiles and answer the questions below.
+Create a program named **temperature.py**. Eventually, it should read the datafiles and answer the questions below.
 
 # Assignment 0: Reading the data
 
@@ -21,10 +21,10 @@ Write a function named `read_data()` that accepts a `filename` and returns two l
 
 You should then be able to load all data through:
 
-```
-max_dates, max_temps = read_data('DeBiltTempMaxOLD.txt')
-min_dates, min_temps = read_data('DeBiltTempMinOLD.txt')
-```
+
+    max_dates, max_temps = read_data('DeBiltTempMaxOLD.txt')
+    min_dates, min_temps = read_data('DeBiltTempMinOLD.txt')
+
 
 Where `max_dates` and `min_dates` are both lists of dates like `'19670513'`, and `max_temps` and `min_dates` are lists of temperatures.
 
@@ -42,9 +42,9 @@ but something like:
 
      The highest temperature was 34.5 degrees Celsius and was measured at 13 may 1967.
 
-**You are not allowed to use built-in functions like `min()` or `max()` for this exercise.**
+*You are not allowed to use built-in functions like `min()` or `max()` for this exercise.*
 
-Tip: make a separate function that takes a number like `19670513` and converts it into a more readable expression like `13 may 1967`. Make use of functions in a logical way!
+**Tip:** make a separate function that takes a number like `19670513` and converts it into a more readable expression like `13 may 1967`. Make use of functions in a logical way!
 
 > If you need an extra challenge, find a way to reduce your duplicate code; the code that finds the minumum temperature and its date shouldn't be too different from the code that finds the maximum temperature and its date. _This is not a required part of the exercise._
 
@@ -71,6 +71,8 @@ Print the result of the function.
 Make sure the code of all your assignments is written in multiple functions. Break up functions where needed. Do not use global variables from within functions; make sure that required variables are always passed as parameters to the function (ask an assistant if this is not clear)!
 
 You can see above that there are a couple of statements that need to be `print`ed and one graph has to be created. Make sure the requested information is `print`ed on separate lines, in the correct order.
+
+Try to collect all executing statements in one place; make sure you first define all functions, and then call each of them. 
 
 ## Testing
 
