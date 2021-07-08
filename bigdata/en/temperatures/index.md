@@ -34,7 +34,12 @@ Where `max_dates` and `min_dates` are both lists of dates like `'19670513'`, and
 
 What were the highest and lowest temperature that were measured in De Bilt since the start of the 20st century? What days were they measured?
 
-Write two functions named `get_highest_temp()` and `get_lowest_temp()` that return the highest and the lowest temperatures and their respective dates. Each function should accept two arguments: a list of dates and a list of temperatures. Make sure your program calls the functions, and then `print`s the dates properly to the screen. Don't print:
+Write two functions named `get_highest_temp()` and `get_lowest_temp()` that return the highest and the lowest temperatures and their respective dates. Each function should accept two arguments: a list of dates and a list of temperatures". Calling the functions and getting their results should look as follows:
+
+    highest_temp_date, highest_temp = get_highest_temp(max_dates, max_temps)
+    lowest_temp_date, lowest_temp = get_lowest_temp(max_dates, max_temps)
+
+ Make sure your program calls the functions as above, and then `print`s the dates properly to the screen. Don't print:
 
      Max 34.5 at 19670513
 
@@ -42,7 +47,7 @@ but something like:
 
      The highest temperature was 34.5 degrees Celsius and was measured at 13 may 1967.
 
-*You are not allowed to use built-in functions like `min()` or `max()` for this exercise.*
+*You are not allowed to use built-in functions like `min()` or `max()` for this exercise. There should be no `print` statements within your `get_highest_temp()` and `get_lowest_temp()` functions.*
 
 **Tip:** make a separate function that takes a number like `19670513` and converts it into a more readable expression like `13 may 1967`. Make use of functions in a logical way!
 
@@ -52,9 +57,9 @@ but something like:
 
 What is the longest period of uninterrupted days that had no temperatures above 0◦C (i.e. **maximum** temperature below 0◦C)? What was the date of the last day of this period of time?
 
-Write a function named `get_longest_freezing()` that returns both the longest number of days with uninterrupted freezing temperatures and the date of the last day of this period. The function should accept two arguments: `max_dates` and `max_temps`.
+Write a function named `get_longest_freezing()` that returns both the longest number of days with uninterrupted freezing temperatures and the date of the last day of this period. The function should accept two arguments: `max_dates` and `max_temps`. Take a good look at the example of the calls to the functions in assignment 1, and think of logical variablenames.
 
-Print the answer to both questions in one neatly formatted line, such that `check50` understands your output. Remember to reuse any formatting functions you wrote before.
+Print the answer to both questions in one neatly formatted line, such that `check50` understands your output. Remember to reuse any formatting functions you wrote before, and do not put your `print` within the function `get_longest_freezing()`.
 
 ### Assignment 3: summer days and tropical days
 
