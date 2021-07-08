@@ -1,27 +1,25 @@
 
 # Module 3
 
-The deadline for both Python for Data Processing and Introduction to Machine Learning 1 is<br>**Tuesday February 23rd at 17:59**
+The deadline for both Python for Data Processing and Introduction to Machine Learning 1 is<br>**Friday September 24th at 17:59**
 
 | Day                | Python for<br>Data Processing      | Introduction to<br>Machine Learning | Seminars                                                       |
 |--------------------|------------------------------------|-------------------------------------|----------------------------------------------------------------|
-| Tuesday<br>16/02   | Monte Carlo                        | SOWISO + Theory videos              | Where to start; creating your own functions, doing things once |
-| Wednesday<br>17/02 | Monte carlo                        | Naive Bayes: Assignment 1 & 2       | Bayes' Rule & the Naive Bayes algorithm                        |
-| Thursday<br>18/02  | Reading files and processing data  | Naive Bayes: Assignment 3 & 4       |                                                                |
-| Friday<br>19/02    | Temperature data: Assignment 1     | Naive Bayes: Assignment 5           | Implementing Likelihood, Prior & Posterior                     |
-|                    |                                    |                                     |                                                                |
-| Monday<br>22/02    | Temperature data: Assignment 2 & 3 | Naive Bayes: Finish                 |                                                                |
-| Tuesday<br>23/02   | Temperature data: Assignment 4     | Written                             |                                                                |
+| Monday<br>20/09    | Monte Carlo                        | SOWISO + Theory videos              | Where to start; creating your own functions, doing things once |
+| Tuesday<br>21/09   | Monte carlo                        | Naive Bayes: Assignment 1 & 2       | Bayes' Rule & the Naive Bayes algorithm                        |
+| Wednesday<br>22/09 | Reading files and processing data  | Naive Bayes: Assignment 3 & 4       |                                                                |
+| Thursday<br>23/09  | Temperature data: Assignment 1, 2 & 3 | Naive Bayes: Finish              | Implementing Likelihood, Prior & Posterior                     |
+| Friday<br>24/09    | Temperature data: Assignment 4     | Written                             |                                                                |
 
 ### Seminars
 
-There are three scheduled seminars for this module
+There are three scheduled seminars for this module:
 
-* **Where to start; creating your own functions, doing things once** on *Tuesday February 16th at 11:00*: <https://uva-live.zoom.us/j/87012466422>
+* **Where to start; creating your own functions, doing things once** on *Monday September 20th at 11:00*: <https://uva-live.zoom.us/j/86348750456>
 
-* **Bayes' Rule & the Naive Bayes algorithm** on *Wednesday February 17th at 11:00*: <https://uva-live.zoom.us/j/86547152112>
+* **Bayes' Rule & the Naive Bayes algorithm** on *Tuesday September 21st at 11:00*: <https://uva-live.zoom.us/j/85073960902>
 
-* **Implementing Likelihood, Prior & Posterior** on *Friday February 19th at 11:00*: <https://uva-live.zoom.us/j/88506761986>
+* **Implementing Likelihood, Prior & Posterior** on *Thursday September 23rd at 11:00*: <https://uva-live.zoom.us/j/85073960902>
 
 ### Daily sessions
 

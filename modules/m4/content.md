@@ -1,28 +1,27 @@
 
 # Module 4
 
-The deadline for both Python for Data Processing and Introduction to Machine Learning 1 is<br>**Thursday March 4th at 17:59**
+The deadline for both Python for Data Processing and Introduction to Machine Learning 1 is<br>**Monday October 4th at 17:59**
 
 | Day                | Python for<br>Data Processing        | Introduction to<br>Machine Learning   | Seminars                                    |
 |--------------------|--------------------------------------|---------------------------------------|---------------------------------------------|
-| Wednesday<br>24/02 | Moving around the board              | SOWISO                                |                                             |
-| Thursday<br>25/02  | Moving around the board              | Theory videos +<br>Linear Regression:<br>Assignment 2a |                            |
-| Friday<br>26/02    | Buying properties                    | Linear Regression:<br>Assignment 3    | Linear regression &<br>Partial derivatives  |
-|                    |                                      |                                       |                                             |
-| Monday<br>01/03    | Buying properties                    | Linear Regression:<br>Assignment 5    | Cost function derivative &<br>Gradient descent |
-| Tuesday<br>02/03   | Starting money                       | Linear Regression:<br>Assignment 7    | Organizing code, duplicate<br>code prevention |
-| Wednesday<br>03/03 | Advantage of player 1                | Finish Linear Regression              |                                             |
-| Thursday<br>04/03  | Repairing the disadvantage           | Written Assignment: AlphaGo           |                                             |
+| Monday<br>27/09    | Moving around the board              | SOWISO                                |                                             |
+| Tuesday<br>28/09   | Moving around the board              | Theory videos +<br>Linear Regression:<br>Assignment 2 |                             |
+| Wednesday<br>29/09 | Buying properties                    | Linear Regression:<br>Assignment 5    | Linear regression &<br>Partial derivatives  |
+| Thursday<br>30/09  | Starting money                       | Linear Regression:<br>Assignment 7    | Gradient checking &<br>Gradient descent     |
+| Friday<br>01/10    | Advantage of player 1                | Finish Linear Regression              | Organizing code, duplicate<br>code prevention |
+|                    |                                      |                                       |                                               |
+| Monday<br>04/10    | Repairing the disadvantage           | Written Assignment: AlphaGo           |                                             |
 
 ### Seminars
 
-There are three scheduled seminars for this module
+There are three scheduled seminars for this module:
 
-* **Linear regression & Partial derivatives** on *Friday February 26th at 11:00*: <https://uva-live.zoom.us/j/85073960902>
+* **Linear regression & Partial derivatives** on *Wednesday September 29th at 11:00*: <https://uva-live.zoom.us/j/85073960902>
 
-* **Cost function derivative & Gradient descent** on *Monday March 1st at 11:00*: <https://uva-live.zoom.us/j/85073960902>
+* **Gradient checking & Gradient descent** on *Thursday September 30th at 11:00*: <https://uva-live.zoom.us/j/85073960902>
 
-* **Organizing code, duplicate code prevention** on *Tuesday March 2nd at 11:00*: <https://uva-live.zoom.us/j/86348750456>
+* **Organizing code, duplicate code prevention** on *Friday October 1st at 11:00*: <https://uva-live.zoom.us/j/86348750456>
 
 ### Daily sessions
 
