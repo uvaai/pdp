@@ -1,0 +1,98 @@
+Welcome:
+    Read the syllabus to get started: /syllabus
+    Install python: /python/en/installing
+
+Module 1:
+    Schedule: /modules/m1
+    Introduction: /algorithms/en/
+    Getting started:
+        Practice with the Python's basic elements: /python/en/basics
+        Check your water usage: /algorithms/en/water
+    A first algorithm:
+        Learn about algorithms: /python/en/algorithms
+        Learn about loops: /python/en/loops
+        Build a small piece of a Mario Pyramid: /algorithms/en/pyramid
+    A serious algorithm:
+        Understand how to write good code: /python/en/style
+        Calculate change with a Greedy algorithm: /algorithms/en/greedy
+    Plotting graphs:
+        Learn to gather information into lists: /python/en/lists
+        Learn how to use modules: /python/en/modules
+        Learn about plotting in Python: /python/en/plotting
+        Make data understandable by plotting graphs: /plot/en/
+    Submit:
+        Submit your solutions: /submit/module1
+
+Module 2:
+    Schedule: /modules/m2
+    Introduction: /integrals/en/
+    Roots:
+        Learn about functions in Python: /python/en/functions
+        Determine the roots of a polynomial: /integrals/en/roots
+    Riemann:
+        Learn more about the Riemann sum: /integrals/en/riemann/explanation
+        Harness the power of a computer to determine the Riemann sum: /integrals/en/riemann/integrals
+    Random:
+        Learn more about the use of random numbers: /python/en/random
+        Random fact: /integrals/en/random/fact
+        Calculate the average distance between two points in a square: /integrals/en/random/distance
+        Analyse with a histogram the output of the `random` function: /integrals/en/random/histogram
+    Submit:
+        Submit your solutions: /submit/module2
+
+Module 3:
+    Schedule: /modules/m3
+    Dictionaries:
+        A brief introduction to a new data structure: /dictionaries/en
+    Monte Carlo:
+        Learn about functions as arguments of other functions: /python/en/functions2
+        Learn more about the Monte-Carlo method: /integrals/en/monte-carlo/explanation
+        Use random values to calculate integrals with the Monte Carlo method: /integrals/en/monte-carlo/integrals
+    Big data:
+        Introduction: /bigdata/en/
+        Learn to analyse and process a data set: /python/en/files
+        Dig around in KNMI temperature data: /bigdata/en/temperatures
+    Submit:
+        Submit your solutions: /submit/module3
+
+Module 4:
+    Schedule: /modules/m4
+    Monopoly:
+        Introduction: /monopoly/en/
+        Learn about debugging simulations: /python/en/debugging
+        Moving around the board: /monopoly/en/moving-around
+        Using starting funds and buying stuff: /monopoly/en/money
+        Add a player and restore the balance: /monopoly/en/two-player
+    Submit:
+        Submit your solutions: /submit/module4
+
+Module 5:
+    Schedule: /modules/m5
+    Complexity:
+        Introduction: /complexity/
+        Learn about computational complexity:
+            Efficiency: /python/en/efficiency
+            Notebook questions: /complexity/notebook
+        Data structures and their efficiency:
+            Dictionaries: /python/en/dictionaries
+            Tuples: /python/en/tuples
+            Sets: /python/en/sets
+            List slicing and indexing: /python/en/slicing
+        How to write efficient code:
+            Applying big O in your code: /python/en/big-o
+            Improving count_occurrence: /python/en/big-o-example
+        Write your own efficient code:
+            Indexing words: /complexity/word-index
+            Indexing pairs : /complexity/pair-index
+    Submit:
+        Submit your solutions: /submit/module5
+
+Module 6:
+    Schedule: /modules/m6
+    Introduction: /survival/
+    Pandas:
+        Pandas: /survival/pandas
+    Survival:
+        Survival: /survival/survival
+    Submit:
+        Submit your solutions: /submit/module6

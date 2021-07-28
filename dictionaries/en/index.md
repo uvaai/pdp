@@ -1,7 +1,7 @@
 
 # Dictionaries
 
-First off this week we'll do a very short introduction on *dictionaries*. This
+This week we'll do a very short introduction on *dictionaries*. This
 data structure comes already built into Python and is very often useful. We'll
 go much more into detail on why and when it useful in a couple of weeks, but
 for now we'll just going to cover the very basics of how to use it. Watch the

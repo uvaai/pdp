@@ -1,0 +1,24 @@
+algorithms:
+    remote: https://github.com/spcourse/algorithms.git
+    branch: main
+bigdata:
+    remote: https://github.com/spcourse/bigdata.git
+    branch: main
+complexity:
+    remote: https://github.com/spcourse/complexity.git
+    branch: main
+integrals:
+    remote: https://github.com/spcourse/integrals.git
+    branch: main
+monopoly:
+    remote: https://github.com/spcourse/monopoly.git
+    branch: main
+plot:
+    remote: https://github.com/spcourse/plot.git
+    branch: main
+python:
+    remote: https://github.com/spcourse/sp1-python.git
+    branch: main
+survival:
+    remote: https://github.com/spcourse/survival.git
+    branch: main
