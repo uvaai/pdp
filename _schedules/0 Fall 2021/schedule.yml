@@ -50,6 +50,7 @@ Module 3:
         Use random values to calculate integrals with the Monte Carlo method: /integrals/en/monte-carlo/integrals
     Big data:
         Introduction: /bigdata/en/
+        Learn about file I/O: /python/en/file-io
         Learn to analyse and process a data set: /python/en/files
         Dig around in KNMI temperature data: /bigdata/en/temperatures
     Submit:
