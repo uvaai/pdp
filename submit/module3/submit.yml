@@ -2,6 +2,7 @@ name: module3
 files:
     required:
         - montecarlo.py
+        - football_analysis.py
         - temperature.py
 check:
     tool: checkpy
