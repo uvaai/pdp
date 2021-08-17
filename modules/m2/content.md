@@ -15,9 +15,9 @@ The deadline for both Python for Data Processing and Introduction to Machine Lea
 
 There are two scheduled seminars for this module:
 
-* **Where to start; how to debug & translating formulas to code** on *Tuesday September 14th at 11:00*: <https://uva-live.zoom.us/j/86348750456>
+* **Where to start; how to debug & translating formulas to code** on *Tuesday September 14th at 11:00* in room G2.10
 
-* **k-Nearest Neighbours: Additional theory and Q&A** on *Thursday September 16th at 11:00*: <https://uva-live.zoom.us/j/85073960902>
+* **k-Nearest Neighbours: Additional theory and Q&A** on *Thursday September 16th at 13:00* in room G3.02
 
 ### Daily sessions
 

@@ -7,17 +7,17 @@ The deadline for both Python for Data Processing and Introduction to Machine Lea
 |--------------------|-------------------------------|------------------------------------------|--------------------------------------------------------------------|
 | Monday<br>06/09    | Installation                  | Elements of AI:<br>Ch. 1 & 2             | Introduction, installation, terminal/<br>editor basics and checkpy |
 | Tuesday<br>07/09   | Getting started               | Elements of AI: Ch. 3<br>+ SOWISO        |                                                                    |
-| Wednesday<br>08/09 | A first algorithm             | Theory videos<br>+ Written Assignment    | Where to start; how to<br>decompose a problem                      |
-| Thursday<br>09/09  | A serious algorithm           | Notebook intro<br>+ ELIZA                |                                                                    |
+| Wednesday<br>08/09 | A first algorithm             | Theory videos<br>+ Written Assignment    |                                                                    |
+| Thursday<br>09/09  | A serious algorithm           | Notebook intro<br>+ ELIZA                | Where to start; how to<br>decompose a problem                      |
 | Friday<br>10/09    | Plotting graphs               | Finish ELIZA                             |                                                                    |
 
 ### Seminars
 
 There are two scheduled seminars for this module:
 
-* **Introduction, installation, terminal/editor basics and checkpy** on *Monday September 6th at 11:00*: <https://uva-live.zoom.us/j/86348750456>
+* **Introduction, installation, terminal/editor basics and checkpy** on *Monday September 6th at 11:00* in room F2.04
 
-* **Where to start; how to decompose a problem** on *Wednesday September 8th at 11:00*: <https://uva-live.zoom.us/j/86348750456>
+* **Where to start; how to decompose a problem** on *Thursday September 9th at 13:00* in room G2.10
 
 ### Daily sessions
 

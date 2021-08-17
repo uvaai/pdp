@@ -5,21 +5,19 @@ The deadline for both Python for Data Processing and Introduction to Machine Lea
 
 | Day                | Python for<br>Data Processing      | Introduction to<br>Machine Learning | Seminars                                                       |
 |--------------------|------------------------------------|-------------------------------------|----------------------------------------------------------------|
-| Monday<br>20/09    | Dictionaries +<br>Monte Carlo start | SOWISO +<br>Theory videos          | Where to start; creating your own functions, doing things once |
+| Monday<br>20/09    | Dictionaries +<br>Monte Carlo start | SOWISO +<br>Theory videos          |                                                                |
 | Tuesday<br>21/09   | Monte Carlo finish                 | Naive Bayes: Assignment 1 & 2       | Bayes' Rule & the Naive Bayes algorithm                        |
 | Wednesday<br>22/09 | Reading files +<br>Temperature data: Assignment 0 | Naive Bayes: Assignment 3 & 4 |                                                       |
-| Thursday<br>23/09  | Temperature data: Assignment 1, 2 & 3 | Naive Bayes: Finish              | Implementing Likelihood, Prior & Posterior                     |
+| Thursday<br>23/09  | Temperature data: Assignment 1, 2 & 3 | Naive Bayes: Finish              | Code design                                                    |
 | Friday<br>24/09    | Temperature data: Assignment 4     | Written                             |                                                                |
 
 ### Seminars
 
 There are three scheduled seminars for this module:
 
-* **Where to start; creating your own functions, doing things once** on *Monday September 20th at 11:00*: <https://uva-live.zoom.us/j/86348750456>
+* **Bayes' Rule & the Naive Bayes algorithm** on *Tuesday September 21st at 11:00* in room F2.04
 
-* **Bayes' Rule & the Naive Bayes algorithm** on *Tuesday September 21st at 11:00*: <https://uva-live.zoom.us/j/85073960902>
-
-* **Implementing Likelihood, Prior & Posterior** on *Thursday September 23rd at 11:00*: <https://uva-live.zoom.us/j/85073960902>
+* **Code design** on *Thursday September 23rd at 13:00* in room G1.18
 
 ### Daily sessions
 
