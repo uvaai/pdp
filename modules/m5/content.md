@@ -16,7 +16,7 @@ The deadline for both Python for Data Processing and Introduction to Machine Lea
 
 ### Seminars
 
-There are three scheduled seminars for this module:
+There are two scheduled seminars for this module:
 
 
 * **Multivariate linear & Vectorizing code** on *Thursday October 7th at 13:00* in room G3.02
