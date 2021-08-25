@@ -44,7 +44,7 @@ Module 1:
 Module 2:
     Schedule: /modules/m2
     Introduction: /integrals/en/
-    
+
     Roots:
         Learn about functions in Python [theory]: /python/en/functions
         Practice with functions in Python [practice]: /python/en/functions/practice
@@ -65,47 +65,47 @@ Module 2:
 
 Module 3:
     Schedule: /modules/m3
-    
+
     Dictionaries:
         A brief introduction to a new data structure: /dictionaries/en
-    
+
     Monte Carlo:
         Learn about functions as arguments of other functions [theory]: /python/en/functions2
         Learn about functions with multiple return values [theory]: /python/en/functions3
         Learn more about the Monte-Carlo method [theory]: /integrals/en/monte-carlo/explanation
         Calculate integrals with the Monte Carlo method [assignment]: /integrals/en/monte-carlo/integrals
-    
+
     Big data:
         Introduction: /bigdata/en/
         Learn about file I/O [theory]: /python/en/file-io
         Learn to analyse and process a data set [theory]: /python/en/files
         Dig around in KNMI temperature data [assignment]: /bigdata/en/temperatures
-    
+
     Submit:
         Read about design: /python/en/design
         Submit your solutions: /submit/module3
 
 Module 4:
     Schedule: /modules/m4
-    
+
     Monopoly:
         Introduction: /monopoly/en/
         Learn about debugging simulations [theory]: /python/en/debugging
         Moving around the board [assignment]: /monopoly/en/moving-around
         Using starting funds and buying stuff [assignment]: /monopoly/en/money
         Add a player and restore the balance [assignment]: /monopoly/en/two-player
-    
+
     Submit:
         Submit your solutions: /submit/module4
 
 Module 5:
-    Schedule: /modules/m5 
+    Schedule: /modules/m5
     Introduction: /complexity/
-    
+
     "Part 1: Learn about computational complexity":
         Efficiency: /python/en/efficiency
         Notebook questions (assignment): /complexity/notebook
-    
+
     "Part 2: Data structures and their efficiency":
         Dictionaries (theory): /python/en/dictionaries/use
         Dictionaries (practice): /python/en/dictionaries/use/practice
@@ -114,11 +114,11 @@ Module 5:
         Tuples: /python/en/tuples
         Sets: /python/en/sets
         List slicing and indexing: /python/en/slicing
-    
+
     "Part 3: How to write efficient code":
         Applying big O in your code: /python/en/big-o
         Improving count_occurrence: /python/en/big-o-example
-    
+
     "Part 4: Write your own efficient code":
         Indexing words (assignment): /complexity/word-index
         Indexing pairs (assignment): /complexity/pair-index
@@ -135,20 +135,20 @@ Module 5:
             Improving count_occurrence: /python/en/big-o-example
         Write your own efficient code:
             Indexing words: /complexity/word-index
-            Indexing pairs : /complexity/pair-index
-    
+            Indexing pairs: /complexity/pair-index
+
     Submit:
         Submit your solutions: /submit/module5
 
 Module 6:
     Schedule: /modules/m6
     Introduction: /survival/
-    
+
     Pandas:
         Pandas: /survival/pandas
-    
+
     Survival:
         Survival: /survival/survival
-    
+
     Submit:
         Submit your solutions: /submit/module6
