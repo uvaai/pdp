@@ -1,0 +1,143 @@
+Welcome:
+    Read the syllabus to get started: /syllabus
+    Install python: /python/en/installing
+
+Module 1:
+    Introduction: /algorithms/en/
+
+    Getting started:
+        Basic elements of Python [theory]: /python/en/basics
+        Basic elements of Python [practice]: /python/en/basics/practice
+        Check your water usage [assignment]: /algorithms/en/water
+
+    Algorithms:
+        Learn about algorithms [theory]: /python/en/algorithms
+        Practice with algorithms [practice]: /python/en/algorithms/practice
+
+    Loops:
+        Learn about for-loops [theory]: /python/en/loops/for
+        Practice with for-loops [practice]: /python/en/loops/for/practice
+        Learn about while-loops [theory]: /python/en/loops/while
+        Practice with while-loops [practice]: /python/en/loops/while/practice
+        Some typical uses of loops [theory]: /python/en/loops/practical-uses
+        Practice more with loops [practice]: /python/en/loops/practical-uses/practice
+
+    Pyramid:
+        Build a Mario Pyramid [assignment]: /algorithms/en/pyramid
+
+    Change:
+        Looking for trouble [theory]: /python/en/debugging-basics
+        Understand how to write good code [theory]: /python/en/style
+        Calculate change [assignment]: /algorithms/en/greedy
+
+    Plotting graphs:
+        Learn about lists [theory]: /python/en/lists
+        Practice with lists [practice]: /python/en/lists/practice
+        Learn how to use modules [theory]: /python/en/modules
+        Learn about plotting in Python [theory]: /python/en/plotting
+        Visualize data with plots [assignment]: /plot/en/
+
+    Submit:
+        Submit your solutions: /submit/module1
+
+Module 2:
+    Introduction: /integrals/en/
+
+    Roots:
+        Learn about functions in Python [theory]: /python/en/functions
+        Practice with functions in Python [practice]: /python/en/functions/practice
+        Determine the roots of a polynomial [assignment]: /integrals/en/roots
+
+    Riemann:
+        Learn more about the Riemann sum [theory]: /integrals/en/riemann/explanation
+        Compute the Riemann sum [assignment]: /integrals/en/riemann/integrals
+
+    Random:
+        Learn more about random numbers [theory]: /python/en/random
+        Random fact [assignment]: /integrals/en/random/fact
+        Calculate the average distance between two points in a square [assignment]: /integrals/en/random/distance
+        Analyse with a histogram the output of the `random` function [assignment]: /integrals/en/random/histogram
+
+    Submit:
+        Submit your solutions: /submit/module2
+
+Module 3:
+    Monte Carlo:
+        Learn about functions as arguments of other functions [theory]: /python/en/functions2
+        Learn about functions with multiple return values [theory]: /python/en/functions3
+        Learn more about the Monte-Carlo method [theory]: /integrals/en/monte-carlo/explanation
+        Calculate integrals with the Monte Carlo method [assignment]: /integrals/en/monte-carlo/integrals
+
+    Big data:
+        Introduction: /bigdata/en/
+        Learn about file I/O [theory]: /python/en/file-io
+        Learn to analyse and process a data set [theory]: /python/en/files
+        Dig around in KNMI temperature data [assignment]: /bigdata/en/temperatures
+
+    Submit:
+        Read about design: /python/en/design
+        Submit your solutions: /submit/module3
+
+Module 4:
+    Monopoly:
+        Introduction: /monopoly/en/
+        Learn about debugging simulations [theory]: /python/en/debugging
+        Moving around the board [assignment]: /monopoly/en/moving-around
+        Using starting funds and buying stuff [assignment]: /monopoly/en/money
+        Add a player and restore the balance [assignment]: /monopoly/en/two-player
+
+    Submit:
+        Submit your solutions: /submit/module4
+
+Module 5:
+    Introduction: /complexity/
+
+    "Part 1: Learn about computational complexity":
+        Efficiency: /python/en/efficiency
+        Notebook questions (assignment): /complexity/notebook
+
+    "Part 2: Data structures and their efficiency":
+        Dictionaries (theory): /python/en/dictionaries/use
+        Dictionaries (practice): /python/en/dictionaries/use/practice
+        Efficiency of dictionaries (theory): /python/en/dictionaries/complexity
+        Efficiency of dictionaries (practice): /python/en/dictionaries/complexity/practice
+        Tuples: /python/en/tuples
+        Sets: /python/en/sets
+        List slicing and indexing: /python/en/slicing
+
+    "Part 3: How to write efficient code":
+        Applying big O in your code: /python/en/big-o
+        Improving count_occurrence: /python/en/big-o-example
+
+    "Part 4: Write your own efficient code":
+        Indexing words (assignment): /complexity/word-index
+        Indexing pairs (assignment): /complexity/pair-index
+        Learn about computational complexity:
+            Efficiency: /python/en/efficiency
+            Notebook questions: /complexity/notebook
+        Data structures and their efficiency:
+            Dictionaries: /python/en/dictionaries
+            Tuples: /python/en/tuples
+            Sets: /python/en/sets
+            List slicing and indexing: /python/en/slicing
+        How to write efficient code:
+            Applying big O in your code: /python/en/big-o
+            Improving count_occurrence: /python/en/big-o-example
+        Write your own efficient code:
+            Indexing words: /complexity/word-index
+            Indexing pairs: /complexity/pair-index
+
+    Submit:
+        Submit your solutions: /submit/module5
+
+Module 6:
+    Introduction: /survival/
+
+    Pandas:
+        Pandas: /survival/pandas
+
+    Survival:
+        Survival: /survival/survival
+
+    Submit:
+        Submit your solutions: /submit/module6
