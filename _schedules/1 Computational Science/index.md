@@ -31,7 +31,7 @@ questions.
 
 ## Deadlines and schedules
 
-These are the deadlines for the modules of this course:
+These are the deadlines for the modules of this course (Fall, 2021):
 
 | module | date             | time  |
 |--------| ---------------- | ----- |
@@ -51,7 +51,7 @@ with you. Submissions after the deadline without prior permission will not be
 accepted. To avoid late extension requests, it is strongly suggested that you
 consult the module's schedule regularly to see if you are on track for the
 module, and if not, to contact the staff early. For discussing your module
-progress or requesting an extension, you can reach us at <minorai@mprog.nl>.
+progress or requesting an extension, you can reach us at <scientific@mprog.nl>.
 
 *Note:* While it is of course possible for circumstances to arise that require
 you to need an extension, consecutive extension requests are usually not
