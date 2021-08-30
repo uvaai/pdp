@@ -1,9 +1,8 @@
-# Python for Data Processing
+# Python for Data Processing (for the Minor Computational Science)
 
 University of Amsterdam / Programming Lab / 5082PFDP6Y
 
-**IMPORTANT: This course syllabus is not yet final, as some course components
-depend on the government measures that will be announced on August 13th.**
+**IMPORTANT: This course syllabus is not yet final.**
 
 ## Syllabus<br><small>Fall 2021</small>
 
@@ -22,7 +21,7 @@ Simon Pauw (teacher)
 
 Wouter Vrielink (teacher)
 
-You can reach us at <minorai@mprog.nl> for any practical matters or other
+You can reach us at <scientific@mprog.nl> for any practical matters or other
 questions.
 
 ## Getting started
@@ -32,15 +31,16 @@ questions.
 
 ## Deadlines and schedules
 
-The deadlines for each module can be found on the schedule page of that module.
+These are the deadlines for the modules of this course:
 
-We've found that it can be difficult for students to plan when to work on what
-part of the material, especially with two complete new courses, that together
-require a full-time time investment. Being unfamiliar with a subject makes it a
-lot harder to estimate how long something might take, and working from home
-might also make structuring your work more difficult. To help with all of this,
-we've made a day-to-day schedule for each module, which indicates what elements
-should be completed each day.
+| module | date             | time  |
+|--------| ---------------- | ----- |
+| 1      | Fri 10 september | 17:00 |
+| 2      | Fri 17 september | 17:00 |
+| 3      | Fri 24 september | 17:00 |
+| 4      | Fri 1  october   | 17:00 |
+| 5      | Wed 13 october   | 17:00 |
+| 6      | Fri 22 october   | 17:00 |
 
 ### Extension policy
 
@@ -62,6 +62,38 @@ schedule will be constructed in which you follow fewer courses over a longer
 period of time. Due to the content of each module being heavily dependent on
 the content of the previous modules, skipping or only partially completing
 modules is *not* possible in this curriculum.
+
+## Asking questions
+
+In this course you'll mostly work on assignments independently. But you're not on your own! We're here to help. There are three ways you can get help:
+
+**Helpdesk (Programmeerbalie)**: You'll get to talk directly to an assistant.
+
+* Help is both available on campus (Science Park A1.24) or online.
+* Help is available on many moments throughout the week.
+* To use the helpdesk, make an appointment here: TODO
+* The schedule will be posted here below.
+<!-- |         | Mon | Tue | Wed | Thu | Fri |
+|---------|:---:|:---:|:---:|:---:|:---:|
+| 9 -  11 |     |     |     |     |     |  
+| 11 - 13 |     |     |     |     |     |
+| 13 - 15 |     |     |     |     |     |
+| 15 - 17 |     |     |     |     |     | -->
+
+
+**Lab sessions**: You'll get to talk directly to an assistant and other students following the course.
+
+* There are lab sessions on campus (Wednesday between 13:00 and 14:30).
+* This is a good place to work on your assignments and get immediate help.
+* This is the main place where you can meet other students.
+* There is no online version of this. If you want to work online, you can always use the helpdesk to talk to an assistant.
+
+**Forum**: We use Ed as an online discussion platform. Here you can discuss the assignments with other students and also the staff.
+
+* You will receive an invite at the start of this course.
+* Use the forum: [Ed](https://edstem.org/us/courses/12543/discussion/).
+* Please keep the language in English on the forum, as not all students on this forum speak Dutch.
+* When you use Ed, try to formulate your question clearly. Use code fragments to illustrate the problem. But, *never copy your entire code* here (this would make it too tempting for your fellow students to copy your code).
 
 ## Passing the course
 
