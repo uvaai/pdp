@@ -14,9 +14,9 @@ The deadline for both Python for Data Processing and Introduction to Machine Lea
 | Thursday<br>21/10  | Survival: Exercise 5.2        | k-Means: Assignment 10                   | Distance metrics  |
 | Friday<br>22/10    | Survival: Exercise 5.2        | Written: Filter Bubbles                  |                   |
 
-### Seminars
+### Lectures
 
-There are three scheduled seminars for this module:
+There are three scheduled lectures for this module:
 
 * **Pandas & Survival** on *Thursday October 14th at 13:00* in room G2.10
 
@@ -24,11 +24,14 @@ There are three scheduled seminars for this module:
 
 * **Distance metrics** on *Thursday October 21st at 13:00* in room G2.10
 
-### Daily sessions
+### Online morning meetings
 
-These will be organised every day.
+For the students working from home, there will be a morning meeting organised
+every day at **09:00** where you can start your day together. You can join the
+meeting at
+[Wonder.me](https://www.wonder.me/r?id=c6cdcb4d-7901-44dc-9b9f-fe90898c22a5).
 
-* Morning meetings at **09:00** on [Wonder.me](https://www.wonder.me/r?id=c6cdcb4d-7901-44dc-9b9f-fe90898c22a5)
-
-* Question Queue at **09:30** on [Discord](https://discord.gg/y9BVSck5z5)
+There you can discuss planning for the day and potenially find other students
+that be starting the same part of an assignment as you, so you can
+then decide to take a look at your approach for a problem together.
 
