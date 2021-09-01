@@ -1,5 +1,9 @@
 # Coronamaatregelen en Python for Data Processing (Minor Computational Science)
 
+Voor je naar de UvA komt, zorg er uiteraard goed voor dat je op de hoogte bent van alle Coronamaatregelen die op de UvA gelden: [Coronamaatregelen](https://www.uva.nl/actueel/coronavirus/coronavirus.html).
+
+En paar dingen die ik wil belichten:
+
 - Het is de bedoeling dat zoveel mogelijk mensen gevaccineerd zijn en dat iedereen (die naar de UvA komt) zich regelmatig test. Je kan [hier](https://www.zelftestonderwijs.nl/) gratis zelftests bestellen.
 
 - Je kan niet naar de UvA komen als:
