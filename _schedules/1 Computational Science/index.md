@@ -93,8 +93,8 @@ In this course you'll mostly work on assignments independently. But you're not o
 ### Schedule for Helpdesk and Lab sessions:
 
 |               | Mon | Tue       | Wed         | Thu | Fri      |
-| 13:00 - 14:30 |     |           |             |     |          |
-| 15:00 - 17:00 |     | Helpdesk  | Lab session |     | Helpdesk |
+| 13:00 - 14:30 |     |           | Lab session |     |          |
+| 15:00 - 17:00 |     | Helpdesk  |             |     | Helpdesk |
 
 ## Passing the course
 
