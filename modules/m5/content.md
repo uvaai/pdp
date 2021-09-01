@@ -14,20 +14,23 @@ The deadline for both Python for Data Processing and Introduction to Machine Lea
 | Tuesday<br>12/10   | Indexing pairs                       | Finish Polynomial regression            |                                             |
 | Wednesday<br>13/10 | Indexing pairs                       | Written Assignment: Algorithmic Bias    |                                             |
 
-### Seminars
+### Lectures
 
-There are two scheduled seminars for this module:
+There are two scheduled lectures for this module:
 
 
 * **Multivariate linear & Vectorizing code** on *Thursday October 7th at 13:00* in room G3.02
 
 * **Polynomial regression & Model selection** on *Monday October 11th at 11:00* in room F2.04
 
-### Daily sessions
+### Online morning meetings
 
-These will be organised every day.
+For the students working from home, there will be a morning meeting organised
+every day at **09:00** where you can start your day together. You can join the
+meeting at
+[Wonder.me](https://www.wonder.me/r?id=c6cdcb4d-7901-44dc-9b9f-fe90898c22a5).
 
-* Morning meetings at **09:00** on [Wonder.me](https://www.wonder.me/r?id=c6cdcb4d-7901-44dc-9b9f-fe90898c22a5)
-
-* Question Queue at **09:30** on [Discord](https://discord.gg/y9BVSck5z5)
+There you can discuss planning for the day and potenially find other students
+that be starting the same part of an assignment as you, so you can
+then decide to take a look at your approach for a problem together.
 
