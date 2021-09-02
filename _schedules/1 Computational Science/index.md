@@ -21,6 +21,8 @@ Simon Pauw (teacher)
 
 Wouter Vrielink (teacher)
 
+Tamara Stoof (assistant)
+
 You can reach us at <scientific@mprog.nl> for any practical matters or other
 questions.
 
@@ -72,14 +74,7 @@ In this course you'll mostly work on assignments independently. But you're not o
 * Help is both available on campus (Science Park A1.24) or online.
 * Help is available on many moments throughout the week.
 * To use the helpdesk, make an appointment here: TODO
-* The schedule will be posted here below.
-<!-- |         | Mon | Tue | Wed | Thu | Fri |
-|---------|:---:|:---:|:---:|:---:|:---:|
-| 9 -  11 |     |     |     |     |     |  
-| 11 - 13 |     |     |     |     |     |
-| 13 - 15 |     |     |     |     |     |
-| 15 - 17 |     |     |     |     |     | -->
-
+* See the schedule for the helpdesk in the section below.
 
 **Lab sessions**: You'll get to talk directly to an assistant and other students following the course.
 
@@ -94,6 +89,12 @@ In this course you'll mostly work on assignments independently. But you're not o
 * Use the forum: [Ed](https://edstem.org/us/courses/12543/discussion/).
 * Please keep the language in English on the forum, as not all students on this forum speak Dutch.
 * When you use Ed, try to formulate your question clearly. Use code fragments to illustrate the problem. But, *never copy your entire code* here (this would make it too tempting for your fellow students to copy your code).
+
+### Schedule for Helpdesk and Lab sessions:
+
+|               | Mon | Tue       | Wed         | Thu | Fri      |
+| 13:00 - 14:30 |     |           | Lab session |     |          |
+| 15:00 - 17:00 |     | Helpdesk  |             |     | Helpdesk |
 
 ## Passing the course
 
