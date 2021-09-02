@@ -47,7 +47,7 @@ The deadlines for each module can also be found on the module schedule pages
 (the first item in the sidebar for each module).
 
 We've found that it can be difficult for students to plan when to work on what
-part of the material, especially with two complete new courses, that together
+part of the material, especially with two completely new courses, that together
 require a full-time time investment. Being unfamiliar with a subject makes it a
 lot harder to estimate how long something might take, and structuring your work
 can be more difficult, especially when working from home. To help with all of
@@ -99,15 +99,15 @@ your absence, so we can handle it accordingly.
 
 ## Asking questions
 
-If you have any question about the material, there are several ways to get
+If you have any questions about the material, there are several ways to get
 to ask them and get assistance. 
 
 ### Practical assistance
 
 Every weekday between 11 and 3, you can ask practical questions to the TA's of
 the minor. During these hours you can use the "Request assistance" feature on
-*Introduction to Machine Learning 1* [website](https://ml1.mprog.nl/), using
-the question mark symbol at the top of the sidebar there. Please use this
+the *Introduction to Machine Learning 1* [website](https://ml1.mprog.nl/),
+using the question mark symbol at the top of the sidebar there. Please use this
 feature instead of raising your hand in class, as it ensures that all questions
 get handled in the order that they are asked. Questions can of be about either
 the PDP or ML1 courses, just make sure to mention what assignment you're
@@ -134,7 +134,7 @@ Most weeks there will be 2 lectures, which will either be about a programming
 or machine learning topic. The exact topic is listed as part of the schedule
 and usually consists of some extra theory not covered in the theory videos or
 reading material. In addition, they will often serve as the central place to
-any ask questions or discuss that theory together with your fellow students.
+ask any questions or discuss that theory together with your fellow students.
 
 Questions about the theory can therefore best be asked during the lectures, or
 alternatively as public questions on the Ed forum, as described below. That
@@ -145,11 +145,11 @@ way, any clarification on the theory will benefit your fellow students too.
 In addition to the lectures and practicals, you can ask questions on
 the [Ed forum](https://edstem.org/us/courses/12022/discussion/). There the
 course staff or your fellow students will answer any specific questions you
-might have. Questions can be posted there any time, not just when there is
-practical, which makes it more versitle than waiting for the next practical or
+might have. Questions can be posted there any time, not just when there is a
+practical, which makes it more versatile than waiting for the next practical or
 lecture.
 
-If you have general question about the material or the assignment, please make
+If you have a general question about the material or the assignment, please make
 it a public question, so other students can also read the answer. Private
 questions are intended for questions that share specific portions of a
 solution, which you obviously shouldn't do publicly. Further details on using
@@ -169,7 +169,7 @@ part of an assignment as other students, you can then decide to take a look at
 your approach for a problem together. We encourage you to discuss approaches to
 problems together, as this is an effective way to learn, but this can only
 occur if you know each other and what you are working on. Facilitating this is
-primary purpose of these meetings.
+the primary purpose of these meetings.
 
 *Note:* This means working together on analysis and approach of a problem, not
 directly sharing code with each other! For a complete description of what it
@@ -197,8 +197,8 @@ reasons for this:
 are able to solve these assignments sufficiently before moving on to the next
 modules.
 
-2. Grading of the later modules will be done mostly on *style* and *design* of
-your code. For the first two modules you will still be learning what those
+2. Grading of the later modules will be done mostly on the *style* and *design*
+of your code. For the first two modules you will still be learning what those
 concepts are.
 
 When you've completed the module sufficiently, you will also get feedback on
@@ -209,8 +209,8 @@ aspects of your code before you are actually graded on them.
 
 These modules will each be graded on a 1 to 10 scale. Your grade will mainly
 depend on the style and design of your code. These concepts will be further
-introduced as you go through the modules, but here are a quick definitions to
-give you an idea
+introduced as you go through the modules, but here are some quick definitions
+to give you an idea
 
 Design
 
@@ -250,7 +250,7 @@ of all your grades for modules 3, 4, 5 and 6.
 
 ## Goals
 
-This the first few modules are a beginner's course. We will teach you the
+The first few modules are a beginner's course. We will teach you the
 basics of Python programming as well as several different ways of solving
 computational problems. After this course, we envision that you:
 
@@ -260,8 +260,8 @@ computational problems. After this course, we envision that you:
 - can make your programs simpler and easier to read by employing a few standard tactics
 - can trace and fix several common programming errors
 
-Starting from module 5, we'll introduce more some more advanced concepts. After
-which should be able to:
+Starting from module 5, we'll introduce some more advanced concepts. After
+which you should be able to:
 
 - use native python data structures (like sets, dictionaries, and tuples)
 - analyze the complexity of an algorithm
@@ -272,7 +272,9 @@ which should be able to:
 
 ## Books
 
-No books are required for this course. Embedded in some of the modules are parts of the book *Think Python* by Allen Downey. If you'd like, you can read the remainder of the book on [its website](https://greenteapress.com/wp/think-python/).
+No books are required for this course. Embedded in some of the modules are
+parts of the book *Think Python* by Allen Downey. If you'd like, you can read
+the remainder of the book on [this website](https://greenteapress.com/wp/think-python/).
 
 ## Academic honesty
 
@@ -300,7 +302,7 @@ Below are rules of thumb that (inexhaustively) characterize acts that the course
 
 - Turning to the course's heads for help or receiving help from the course's heads during the quiz or test.
 
-- Turning to the web or elsewhere for instruction beyond the course's own, for references, and for solutions to technical difficulties, but not for outright solutions to problem set's problems or your own final project.
+- Turning to the web or elsewhere for instruction beyond the course's own, for references, and for solutions to technical difficulties, but not for outright solutions to assignment problems or your own final project.
 
 - Whiteboarding solutions to problem sets with others using diagrams or pseudocode but not actual code.
 
