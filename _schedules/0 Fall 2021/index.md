@@ -143,7 +143,7 @@ way, any clarification on the theory will benefit your fellow students too.
 ### Ed Q&A Forum
 
 In addition to the lectures and practicals, you can ask questions on
-the [Ed forum](https://edstem.org/us/courses/12022/discussion/). There the
+the [Ed forum](https://edstem.org/us/join/AHf42U). There the
 course staff or your fellow students will answer any specific questions you
 might have. Questions can be posted there any time, not just when there is a
 practical, which makes it more versatile than waiting for the next practical or
