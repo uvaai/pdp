@@ -73,7 +73,9 @@ In this course you'll mostly work on assignments independently. But you're not o
 
 * Help is both available on campus (Science Park A1.24) or online.
 * Help is available on many moments throughout the week.
-* To use the helpdesk, make an appointment here: https://balie.mprog.nl/planner/5-mcs-python-for-data-processing
+* To use the helpdesk, make an appointment here: [helpdesk appointment](https://balie.mprog.nl/planner/5-mcs-python-for-data-processing)
+* The helpdesk is located at A1.22.
+* If you prefer to meet online, you can join here: [online scientific programming lab](https://www.wonder.me/r?id=e57e2eb3-a410-4833-98f5-01b2d982d488).
 * See the schedule for the helpdesk in the section below.
 
 **Lab sessions**: You'll get to talk directly to an assistant and other students following the course.
