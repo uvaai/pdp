@@ -73,7 +73,7 @@ In this course you'll mostly work on assignments independently. But you're not o
 
 * Help is both available on campus (Science Park A1.24) or online.
 * Help is available on many moments throughout the week.
-* To use the helpdesk, make an appointment here: TODO
+* To use the helpdesk, make an appointment here: https://balie.mprog.nl/planner/5-mcs-python-for-data-processing
 * See the schedule for the helpdesk in the section below.
 
 **Lab sessions**: You'll get to talk directly to an assistant and other students following the course.
@@ -92,9 +92,9 @@ In this course you'll mostly work on assignments independently. But you're not o
 
 ### Schedule for Helpdesk and Lab sessions:
 
-|               | Mon | Tue       | Wed         | Thu | Fri      |
-| 13:00 - 14:30 |     |           | Lab session |     |          |
-| 15:00 - 17:00 |     | Helpdesk  |             |     | Helpdesk |
+|               | Mon | Tue              | Wed                 | Thu | Fri      |
+| 13:00 - 14:30 |     |                  | Lab session (A1.06) |     |          |
+| 15:00 - 17:00 |     | Helpdesk (A1.22) |                     |     | Helpdesk (A1.22) |
 
 ## Passing the course
 
