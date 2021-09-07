@@ -69,8 +69,6 @@ modules is *not* possible in this curriculum.
 
 In this course you'll mostly work on assignments independently. But you're not on your own! We're here to help. There are three ways you can get help:
 
-In this course you'll mostly work on assignments independently. But you're not on your own! We're here to help. There are three ways you can get help:
-
 - Helpdesk (Programmeerbalie): Online or on campus. Book a slot to get help
 - Lab sessions: Only on campus. Work in a classroom together with other students
 - Forum: Only online.
