@@ -69,34 +69,13 @@ modules is *not* possible in this curriculum.
 
 In this course you'll mostly work on assignments independently. But you're not on your own! We're here to help. There are three ways you can get help:
 
-**Helpdesk (Programmeerbalie)**: You'll get to talk directly to an assistant.
+In this course you'll mostly work on assignments independently. But you're not on your own! We're here to help. There are three ways you can get help:
 
-* Help is both available on campus (Science Park A1.24) or online.
-* Help is available on many moments throughout the week.
-* To use the helpdesk, make an appointment here: [helpdesk appointment](https://balie.mprog.nl/planner/5-mcs-python-for-data-processing)
-* The helpdesk is located at A1.22.
-* If you prefer to meet online, you can join here: [online scientific programming lab](https://www.wonder.me/r?id=e57e2eb3-a410-4833-98f5-01b2d982d488).
-* See the schedule for the helpdesk in the section below.
+- Helpdesk (Programmeerbalie): Online or on campus. Book a slot to get help
+- Lab sessions: Only on campus. Work in a classroom together with other students
+- Forum: Only online.
 
-**Lab sessions**: You'll get to talk directly to an assistant and other students following the course.
-
-* There are lab sessions on campus (Wednesday between 13:00 and 14:30).
-* This is a good place to work on your assignments and get immediate help.
-* This is the main place where you can meet other students.
-* There is no online version of this. If you want to work online, you can always use the helpdesk to talk to an assistant.
-
-**Forum**: We use Ed as an online discussion platform. Here you can discuss the assignments with other students and also the staff.
-
-* You will receive an invite at the start of this course.
-* Use the forum: [Ed](https://edstem.org/us/courses/12543/discussion/).
-* Please keep the language in English on the forum, as not all students on this forum speak Dutch.
-* When you use Ed, try to formulate your question clearly. Use code fragments to illustrate the problem. But, *never copy your entire code* here (this would make it too tempting for your fellow students to copy your code).
-
-### Schedule for Helpdesk and Lab sessions:
-
-|               | Mon | Tue              | Wed                 | Thu | Fri      |
-| 13:00 - 14:30 |     |                  | Lab session (A1.06) |     |          |
-| 15:00 - 17:00 |     | Helpdesk (A1.22) |                     |     | Helpdesk (A1.22) |
+See for more info: [Help](/help)
 
 ## Passing the course
 
