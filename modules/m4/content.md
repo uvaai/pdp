@@ -19,7 +19,7 @@ There are three scheduled lectures for this module:
 
 * **Organizing code, duplicate code prevention** on *Tuesday September 28th at 13:00* in room G3.02
 
-* **Linear regression & Partial derivatives** on *Wednesday September 29th at 11:00*: <https://uva-live.zoom.us/j/85073960902>
+* **Linear regression & Partial derivatives** on *Wednesday September 29th at 11:00* in room G3.02
 
 * **Gradient checking & Gradient descent** on *Thursday September 30th at 13:00* in room G2.10
 
