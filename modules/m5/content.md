@@ -7,12 +7,12 @@ The deadline for both Python for Data Processing and Introduction to Machine Lea
 |--------------------|--------------------------------------|-----------------------------------------|---------------------------------------------|
 | Tuesday<br>05/10   | Learn about computational complexity | SOWISO 5a, 5b, 5c                       |                                             |
 | Wednesday<br>06/10 | Data structures and their efficiency | SOWISO 5d,  5e +<br>Theory videos       |                                             |
-| Thursday<br>07/10  | How to write efficient code          | Polynomial regression:<br>Assignment 3  | Multivariate linear &<br>Vectorizing code   |
-| Friday<br>08/10    | Indexing words: Filtering words      | Polynomial regression:<br>Assignment 6  |                                             |
+| Thursday<br>07/10  | Data structures and their efficiency | Polynomial regression:<br>Assignment 3  | Multivariate linear &<br>Vectorizing code   |
+| Friday<br>08/10    | How to write efficient code          | Polynomial regression:<br>Assignment 6  |                                             |
 |                    |                                      |                                         |                                             |
-| Monday<br>11/10    | Indexing words: Indexing words       | Polynomial regression:<br>Assignment 10 | Polynomial regression &<br>Model selection  |
-| Tuesday<br>12/10   | Indexing pairs                       | Finish Polynomial regression            |                                             |
-| Wednesday<br>13/10 | Indexing pairs                       | Written Assignment: Algorithmic Bias    |                                             |
+| Monday<br>11/10    | How to write efficient code          | Polynomial regression:<br>Assignment 10 | Polynomial regression &<br>Model selection  |
+| Tuesday<br>12/10   | Indexing words                       | Finish Polynomial regression            |                                             |
+| Wednesday<br>13/10 | Indexing words                       | Written Assignment: Algorithmic Bias    |                                             |
 
 ### Lectures
 
