@@ -27,15 +27,31 @@ calculation:
         assignments: 100
         exam: 0
 
+modules:
+    module_1:
+        - module1
+    module_2:
+        - module2
+    module_3:
+        - module3
+    module_4:
+        - module4
+    module_5:
+        - q1_complexity
+        - q2_complexity
+        - module5
+    module_6:
+        - module6
+
 assignments:
     show_progress: true
     submits:
-        module1: 0
-        module2: 0
-        module3: 1
-        module4: 1
-        module5: 1
-        module6: 1
+        module_1: 0
+        module_2: 0
+        module_3: 1
+        module_4: 1
+        module_5: 1
+        module_6: 1
 
 exam:
     show_progress: true
