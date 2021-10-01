@@ -22,13 +22,6 @@ grades:
     module6: *manual
     oral: *check_off
 
-    module_1: *manual
-    module_2: *manual
-    module_3: *manual
-    module_4: *manual
-    module_5: *manual
-    module_6: *manual
-
 calculation:
     final:
         assignments: 100
@@ -53,12 +46,14 @@ modules:
 assignments:
     show_progress: true
     submits:
-        module_1: 0
-        module_2: 0
-        module_3: 1
-        module_4: 1
-        module_5: 1
-        module_6: 1
+        module1: 0
+        module2: 0
+        module3: 1
+        module4: 1
+        q1_complexity: 0
+        q2_complexity: 0
+        module5: 1
+        module6: 1
 
 exam:
     show_progress: true
