@@ -3,7 +3,7 @@ templates:
         type: float
         subgrades:
             points: integer
-        calculation: points + 6
+        calculation: points
     5: &check_off
         type: pass
         subgrades:
@@ -16,6 +16,8 @@ grades:
     module2: *check_off
     module3: *manual
     module4: *manual
+    q1_complexity: *check_off
+    q2_complexity: *check_off
     module5: *manual
     module6: *manual
     oral: *check_off
