@@ -13,41 +13,41 @@ In fact, you don't even need all of them. In theory, only a small subset would s
 
 #### Operators
 
-- `+`, `-`, `*`, `/`, `//`, `%`, `**`: [more](/python/en/basics#operators)
-- `=`: [more](/python/en/basics#variables)
-- `==`, `!=`, `<`, `>`, `<=`, `>=`: [more](/python/en/algorithms#more-operators)
-- `not`, `and`, `or`: [more](/python/en/algorithms#combining-conditions)
+- `+`, `-`, `*`, `/`, `//`, `%`, `**`: [operators](/python/en/basics#operators)
+- `=`: [variables](/python/en/basics#variables)
+- `==`, `!=`, `<`, `>`, `<=`, `>=`: [more operators](/python/en/algorithms#more-operators)
+- `not`, `and`, `or`: [combining conditions](/python/en/algorithms#combining-conditions)
 
 #### Datatypes
 
-- `string`: [more](/python/en/basics#printing) and [more](/python/en/basics#types)
-- `int`, `float`: [more](/python/en/basics#types)
-- `list`: [more](/python/en/lists)
-- `dict`: [more](/python/en/dictionaries/use)
-- `tuple`: [more](/python/en/tuples)
-- `set`: [more](/python/en/sets)
+- `string`: [printing](/python/en/basics#printing) and [types](/python/en/basics#types)
+- `int`, `float`: [types](/python/en/basics#types)
+- `list`: [lists](/python/en/lists)
+- `dict`: [dictionaries](/python/en/dictionaries/use)
+- `tuple`: [tuples](/python/en/tuples)
+- `set`: [sets](/python/en/sets)
 
 #### Input/Output
 
-- `print`: [more](/python/en/basics#printing)
-- `input`: [more](/python/en/basics#user-input)
-- Plotting with `plt`: [more](/python/en/plotting)
-- File I/O: [more](/python/en/file-io)
-- File I/O applied on an example: [more](/python/en/files)
+- `print`: [printing](/python/en/basics#printing)
+- `input`: [user input](/python/en/basics#user-input)
+- Plotting with `plt`: [plotting](/python/en/plotting)
+- File I/O: [file I/O](/python/en/file-io)
+- File I/O applied on an example: [file reading](/python/en/files)
 
 #### Algorithmic
 
-- `if`, `elif`, `else`: [more](/python/en/algorithms#conditional-instructions)
-- `for`, `while`: [more](/python/en/loops/for) and [more](/python/en/loops/while)
-- Practical examples of loops: [more](/python/en/loops/practical-uses)
+- `if`, `elif`, `else`: [conditional instructions](/python/en/algorithms#conditional-instructions)
+- `for`, `while`: [for](/python/en/loops/for) and [while](/python/en/loops/while)
+- Practical examples of loops: [practical usecases loops](/python/en/loops/practical-uses)
 
 #### Functions
 
-- `def`, `return`: [more](/python/en/functions)
-- Functions as arguments to functions: [more](/python/en/functions2)
-- Multiple return values: [more](/python/en/functions3)
+- `def`, `return`: [functions](/python/en/functions)
+- Functions as arguments to functions: [advanced functions](/python/en/functions2)
+- Multiple return values: [functions with multiple return values](/python/en/functions3)
 
 #### Using external modules
 
-- `import`: [more](/python/en/modules)
-- Random numbers: [more](/python/en/random)
+- `import`: [external modules](/python/en/modules)
+- Random numbers: [random](/python/en/random)
