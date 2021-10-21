@@ -18,6 +18,7 @@ grades:
     module4: *manual
     q1_complexity: *check_off
     q2_complexity: *check_off
+    q3_complexity: *check_off
     module5: *manual
     module6: *manual
     oral: *check_off
