@@ -39,6 +39,7 @@ modules:
     module_5:
         - q1_complexity
         - q2_complexity
+        - q3_complexity
         - module5
     module_6:
         - module6
@@ -50,8 +51,6 @@ assignments:
         module2: 0
         module3: 1
         module4: 1
-        q1_complexity: 0
-        q2_complexity: 0
         module5: 1
         module6: 1
 
