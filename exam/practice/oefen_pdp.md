@@ -110,7 +110,7 @@ Should print:
 
 # 4. More cars
 
-[Download the `mgp.csv` file](/exam/data/mpg.csv)
+[Download the `mgp.csv` file.](/../data/mpg.csv)
 
 The file `mpg.csv` ("mpg" stands for "miles per gallon") contains data of cars from three different areas of the world: Europe, Japan, and USA. In this exercise, you will use `mpg.csv` to answer a question about the data. The contents of the file look as follows:
 
