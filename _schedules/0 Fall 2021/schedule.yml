@@ -141,9 +141,9 @@ Module 6:
 Practice exam:
     Overview: /exam
     Practice exam: /exam/practice
-    Submit: /exam/practice/submit
+    Submit: /submit/practice-exam
 
 Exam:
     Overview: /exam
     Exam:  /exam/exam1
-    Submit: /exam/exam1/submit
+    Submit: /submit/exam1

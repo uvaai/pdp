@@ -12,7 +12,7 @@ During the exam, it is not allowed to use the internet and there is no help from
 - You are not allowed to use `numpy` or other libraries in this exam
 - Make sure the output for every exercise is printed to the screen when running your program. This is required to get the points for an exercise.
 
-## Hints
+### Hints
 
 The following steps should help you find solutions to the exercises:
 
