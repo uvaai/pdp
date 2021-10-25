@@ -143,6 +143,8 @@ Practice exam:
     Practice exam: /exam/practice
     Submit: /submit/practice-exam
 
+    Solution file: /exam/practice/solution.py
+
 Exam:
     Overview: /exam
     Exam:  /exam/exam1
