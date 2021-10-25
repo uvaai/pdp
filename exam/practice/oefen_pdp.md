@@ -81,7 +81,7 @@ Of course, the intended solution is to create the table programmatically (using 
 
 Write a function `find_alliterations(text, letter)` that accepts two strings as input: `text` and `letter`. The function should find all words in `text` starting with `letter`, and return them as a list. You can assume that `letter` is never more than one letter.
 
-    example_text = "David Donald Doo dreamed a dozen doughnuts and a duck-dog, too."
+    example_text = "David Donald Doo dreamed a dozen doughnuts and a duck-dog too."
     alliterations = find_alliterations(example_text, "d")
 
     print(alliterations)
