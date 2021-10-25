@@ -28,23 +28,6 @@ calculation:
         assignments: 100
         exam: 0
 
-modules:
-    module_1:
-        - module1
-    module_2:
-        - module2
-    module_3:
-        - module3
-    module_4:
-        - module4
-    module_5:
-        - q1_complexity
-        - q2_complexity
-        - q3_complexity
-        - module5
-    module_6:
-        - module6
-
 assignments:
     show_progress: true
     submits:
@@ -55,7 +38,12 @@ assignments:
         module5: 1
         module6: 1
 
+practice-exam:
+    show_progress: true
+    submits:
+        practice-exam: 0
+
 exam:
     show_progress: true
     submits:
-        oral: 1
+        exam1: 1
