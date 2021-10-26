@@ -28,7 +28,7 @@ The following steps should help you find solutions to the exercises:
 
 # 1. Car expenses
 
-Driving a car is expensive. To help you choose between different cars, and better understand the costs of your different options, you will write a program that can calculate the cost of driving a car. The price of fuel is €1.95 per liter, and the price of a new set of tires is €400. A tire wears out after 25.000km. Write a function `car_price_month(kilometers, fuel_economy)` that can calculate, given the driven kilometers per month (float, e.g. 2500), and the average fuel economy in liters per kilometer (float, e.g. 0.05), the monthly cost of driving a car in euros.
+Driving a car is expensive. To help you choose between different cars, and better understand the costs of your different options, you will write a program that can calculate the cost of driving a car. The price of fuel is €1.95 per liter, and the price of a new set of tires is €400. A tire wears out after 25.000km. Write a function `car_price_month(kilometers, fuel_economy)` that can calculate, given the driven kilometers per month (float, e.g. 2500), and the average fuel economy in liters per kilometer (float, e.g. 0.05), the average monthly cost of driving a car in euros.
 
     expense_total = car_price_month(2500, 0.05)
     print(expense_total)
