@@ -100,7 +100,7 @@ The file `mpg.csv` ("mpg" stands for "miles per gallon") contains data of cars f
 
 Write a function `avg_mpg_origin(filename, origin)` that given a string containing the `origin` (`'usa'`, `'europe'`, or `'japan'`) can calculate the average `'mpg'` for all cars of that specific origin. You are allowed to assume that only existing origins get passed to the function.
 
-    filename = 'data/mpg.csv'
+    filename = 'mpg.csv'
     country = 'japan'
     avg_japan = avg_mpg_origin(filename, country)
     print(f'The average mpg for {country} is: {avg_japan}')
