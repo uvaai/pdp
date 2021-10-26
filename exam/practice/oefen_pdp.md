@@ -90,6 +90,8 @@ Expected output:
 
     ['david', 'donald', 'doo', 'dreamed', 'dozen', 'doughnuts', 'duck-dog']
 
+**Hint:** Use `str.lower()` to get the lower-case version of a string!
+
 # 3. Water of life
 
 A whisky lover has made a Python dictionary of their favorite whiskies. In this dictionary, for a couple of brands, the region of origin is noted. However, now they would like to know for each origin what brands there are. It is way too much work to search through each of the regions every time, so they have decided that they need another dictionary that is ordered the other way around. Write a function `values_to_keys()` that accepts a dictionary with brand names as keys and for each key a region as value. It should create a new dictionary that has the regions as keys, and a list of the brands that are from that region as values.
