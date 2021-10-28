@@ -75,19 +75,15 @@ Write a function  `euros_to_percentage()` that accepts a dictionary containing t
 
 Have a look a this example:
 
-```
-expenses_january_in_euros = {'rent': 735, 'utlities': 221,
-                             'food': 167, 'social activities': 185,
-                             'internet + netflix + spotify': 58, 'phone': 25}
-expenses_january_in_percentages = euros_to_percentage(expenses_january_in_euros)
-print(expenses_january_in_percentages)
-```
+    expenses_january_in_euros = {'rent': 735, 'utlities': 221,
+                                 'food': 167, 'social activities': 185,
+                                 'internet + netflix + spotify': 58, 'phone': 25}
+    expenses_january_in_percentages = euros_to_percentage(expenses_january_in_euros)
+    print(expenses_january_in_percentages)
 
 This should produce the output:
 
-```
-{'rent': 52.83968368080517, 'utlities': 15.88785046728972, 'food': 12.005751258087706, 'social activities': 13.299784327821712, 'internet + netflix + spotify': 4.169662113587347, 'phone': 1.7972681524083394}
-```
+    {'rent': 52.83968368080517, 'utlities': 15.88785046728972, 'food': 12.005751258087706, 'social activities': 13.299784327821712, 'internet + netflix + spotify': 4.169662113587347, 'phone': 1.7972681524083394}
 
 **Note:** the order in which this result is printed does not need to be the same as the example above. Check whether each category has the right value. If this is the case, your code probably works!
 
@@ -120,22 +116,18 @@ As you can see, there are fields separated by commas. For each car the file cont
 
 Write a function `max_cylinders(filename, origin)` that can find the maximum amount of cylinders that any car of a given `origin` has. E.g., cars from Europe have a maximum of 6 cylinders (in this dataset), but from the USA there are cars with 8 cylinders.
 
-```
-filename = 'mpg.csv'
-max_cylinders_usa  = max_cylinders(filename, 'usa')
-max_cylinders_europe  = max_cylinders(filename, 'europe')
-max_cylinders_japan = max_cylinders(filename, 'japan')
-print('The car with te most cylinders in...')
-print(f'- the USA has {max_cylinders_usa} cylinders')
-print(f'- the Europe has {max_cylinders_europe} cylinders')
-print(f'- the Japan has {max_cylinders_japan} cylinders')
-```
+    filename = 'mpg.csv'
+    max_cylinders_usa  = max_cylinders(filename, 'usa')
+    max_cylinders_europe  = max_cylinders(filename, 'europe')
+    max_cylinders_japan = max_cylinders(filename, 'japan')
+    print('The car with te most cylinders in...')
+    print(f'- the USA has {max_cylinders_usa} cylinders')
+    print(f'- the Europe has {max_cylinders_europe} cylinders')
+    print(f'- the Japan has {max_cylinders_japan} cylinders')
 
 Should print:
 
-```
-The car with te most cylinders in...
-- the USA has 8 cylinders
-- the Europe has 6 cylinders
-- the Japan has 6 cylinders
-```
+    The car with te most cylinders in...
+    - the USA has 8 cylinders
+    - the Europe has 6 cylinders
+    - the Japan has 6 cylinders
