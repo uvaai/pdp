@@ -1,4 +1,4 @@
-<!-- # Exam
+# Exam
 
 This is a digital exam. The exam consists of programming exercises that are purely based on input, output, and calculations. You will use these exercises to show that you can create a program from scratch.
 
@@ -139,4 +139,4 @@ The car with te most cylinders in...
 - the USA has 8 cylinders
 - the Europe has 6 cylinders
 - the Japan has 6 cylinders
-``` -->
+```
