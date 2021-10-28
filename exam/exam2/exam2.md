@@ -122,7 +122,7 @@ As you can see, there are fields separated by commas. For each car the file cont
 Write a function `max_cylinders(filename, origin)` that can find the maximum amount of cylinders that any car of a given `origin` has. E.g., cars from Europe have a maximum of 6 cylinders (in this dataset), but from the USA there are cars with 8 cylinders.
 
 ```
-filename = 'data/mpg.csv'
+filename = 'mpg.csv'
 max_cylinders_usa  = max_cylinders(filename, 'usa')
 max_cylinders_europe  = max_cylinders(filename, 'europe')
 max_cylinders_japan = max_cylinders(filename, 'japan')
