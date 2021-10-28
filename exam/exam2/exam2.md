@@ -32,23 +32,22 @@ A supermarket often has products with the promotion: "three for the price of two
 
 You have to implement the function `compute_three_for_two_discount(product_price, number_of_items)` that computes the discount. The function accepts a float `product_price` (the price of a specific product), and an integer `number_of_items` (the amount of items the client bought). Think what to do when the number of items are not divisible by three: You only get a discount for every three items.
 
-```
-avocado_price = 2.35
-discount1 = compute_three_for_two_discount(avocado_price, 3)
-discount2 = compute_three_for_two_discount(avocado_price, 6)
-discount3 = compute_three_for_two_discount(avocado_price, 7)
-print(f'The amount of discount for 3 avocados: {discount1}')
-print(f'The amount of discount for 6 avocados: {discount2}')
-print(f'The amount of discount for 7 avocados: {discount3}')
-```
+    avocado_price = 2.35
+    discount1 = compute_three_for_two_discount(avocado_price, 3)
+    discount2 = compute_three_for_two_discount(avocado_price, 6)
+    discount3 = compute_three_for_two_discount(avocado_price, 7)
+    print(f'The amount of discount for 3 avocados: {discount1}')
+    print(f'The amount of discount for 6 avocados: {discount2}')
+    print(f'The amount of discount for 7 avocados: {discount3}')
+
 
 The expected output:
 
-```
-The amount of discount for 3 avocados: 2.35
-The amount of discount for 6 avocados: 4.7
-The amount of discount for 7 avocados: 4.7
-```
+
+    The amount of discount for 3 avocados: 2.35
+    The amount of discount for 6 avocados: 4.7
+    The amount of discount for 7 avocados: 4.7
+
 
 # 2. Short stories
 
