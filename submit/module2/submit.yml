@@ -10,4 +10,4 @@ files:
 check:
     tool: checkpy
     repo: uva-sp/sp1
-    args: -m integrals
+    args: roots riemann randommaths distance histogram
