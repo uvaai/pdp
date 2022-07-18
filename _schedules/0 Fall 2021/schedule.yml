@@ -81,7 +81,7 @@ Module 3:
         Introduction: /bigdata/en/
         Learn about file I/O [theory]: /python/en/file-io
         Learn to analyse and process a data set [practice]: /python/en/files
-        For loop design: /python/en/loops/element-vs-index
+        For loop design [theory]: /python/en/loops/element-vs-index
         Dig around in KNMI temperature data [assignment]: /bigdata/en/temperatures
 
     Submit:
