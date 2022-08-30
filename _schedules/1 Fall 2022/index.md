@@ -209,6 +209,40 @@ determined as follows:
 
 * 4 - Exceptional style and design, answers are beyond expectations.
 
+### Attendance
+
+We expect you to be present and working on campus every weekday from 9 to 5.
+The material of these course covers a lot of practical skills, which cannot
+just be learned from reading a book or watching a video. This means we expect
+you'll need to ask plenty questions while working on assignments, as you try and
+master these different skills. This is why we offer a lot practical assistance,
+so there is a chance for you to ask the questions you have about the
+scheduled material *every day*.
+
+In spite of this, we maintain a soft attendance requirement. This means that 
+there is no hard rule stating that if you miss a certain percentage of days,
+you will fail the course, i.e. attendance does not directly affect your final
+grade.
+
+However, indirectly attendance definitely will affect your grade. The material 
+requires you to work regularly on the assignments and ask questions along the
+way so you don't get stuck. This means if you are not on campus, you are much
+more likely to get stuck longer and thus end up with too little time before the
+deadline.
+
+In addition, we will still take attendence samples regularly in the room. This
+does not affect whether you pass or fail the course, but is used as metric to
+give us an indication of the effort you are putting into following the courses
+as intended. If you request an extension or exception, or ask for extra
+help or resources for the material, we'll always take your attendance into
+account when considering your request. Requests from students who miss attendance
+are generally much less likely to be granted.
+
+If you are done with all the material for the module before the day of the deadline,
+you should show your assignments to a TA *during practical assistance*. The TA
+will check if they agree every element has been properly completed, and if so
+ you'll be granted exemption from the attendance checks for the rest of the module.
+
 ### Exam
 
 The exam at the end of the course will consist of multiple short programming exercises based on the modules of this course. This exam will be *pass/fail*. More details on the exam will follow later.
