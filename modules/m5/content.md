@@ -10,7 +10,7 @@ The deadline for both Python for Data Processing and Introduction to Machine Lea
 | Friday<br>07/10    | Data structures and their efficiency | SOWISO 5d, 5e +<br>Polynomial regression:<br>Assignment 6  | Q & A lecture               |
 |                    |                                      |                                                            |                             |
 | Monday<br>10/10    | How to write efficient code          | Polynomial regression:<br>Assignment 10    | Group seminar                               |
-| Tuesday<br>11/10   | Indexing words                       | Finish Polynomial regression            |                                             |
+| Tuesday<br>11/10   | Indexing words                       | Finish Polynomial regression            | Q & A lecture                               |
 | Wednesday<br>12/10 | Indexing words                       | Written Assignment:<br>Algorithmic Bias    |                                             |
 
 
