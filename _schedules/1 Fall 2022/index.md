@@ -116,7 +116,7 @@ and get assistance.
 
 There are 3 hours scheduled every day where you can ask practical
 questions to the TA's of the minor. During these hours you can use the
-"Request assistance" feature on the *Introduction to Machine Learning 1* [website](https://ml1.mprog.nl/), 
+"Request assistance" feature on the *Introduction to Machine Learning 1* [website](https://ml1.proglab.nl/), 
 using the question mark symbol at the top of the sidebar. Please use this feature instead of raising your hand
 in class, as it ensures that all questions get handled in the order that they 
 are asked. Questions can of be about either the PDP or ML1 courses, just make 
