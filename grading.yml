@@ -21,8 +21,7 @@ grades:
     q3_complexity: *check_off
     module5: *manual
     module6: *manual
-    practice-exam: *check_off
-    exam1: *check_off
+    exam: *check_off
     oral: *check_off
 
 calculation:
