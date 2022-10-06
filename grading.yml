@@ -39,12 +39,7 @@ assignments:
         module5: 1
         module6: 1
 
-practice-exam:
-    show_progress: true
-    submits:
-        practice-exam: 0
-
 exam:
     show_progress: true
     submits:
-        exam1: 1
+        exam: 1
