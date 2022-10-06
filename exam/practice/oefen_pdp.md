@@ -26,7 +26,7 @@ The following steps should help you find solutions to the exercises:
 5. Test your program extensively using the examples you thought of in step 2, and see if you can find any edge cases where the program gives an unexpected output.
 6. Finish your program and submit your solutions. *Before you leave the exam room, check with the proctor that your submission was correctly submitted!*
 
-# 1. Salary
+# 1. Supermarket discounts
 
 A supermarket often has products with the promotion: "three for the price of two". When a client buys a specific number of such a product, the supermarket needs to compute the total discount.
 
