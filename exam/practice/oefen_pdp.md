@@ -52,9 +52,7 @@ The expected output:
 
 Write a function `find_short_words(text, max_length)` that accepts a string and an integer as input: `text` and `max_length`. The function should find all words in `text` that are at most as long as `max_length`, and return them as a list. Assume that the text has no punctuation and that all words are separated by spaces.
 
-    example_text = "The story so far in the beginning the universe was created " \
-                   "This has made a lot of people very angry and been widely " \
-                   "regarded as a bad move"
+    example_text = "The story so far in the beginning the universe was created This has made a lot of people very angry and been widely regarded as a bad move"
     short_words = find_short_words(example_text, 3)
     print(short_words)
 
@@ -62,7 +60,7 @@ Expected output:
 
     ['The', 'so', 'far', 'in', 'the', 'the', 'was', 'has', 'a', 'lot', 'of', 'and', 'as', 'a', 'bad']
 
-Hint: You can split a text into a list of words using the `.split()` method.
+Hint: You can split a text with spaces into a list of words using the `.split(' ')` method.
 
 # 3. Water of life
 
