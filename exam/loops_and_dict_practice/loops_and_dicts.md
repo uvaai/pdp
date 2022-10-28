@@ -1,0 +1,104 @@
+### Symmetric difference
+
+The symmetric difference of two sets contains all elements that appear in one of the two sets, but not in both. So the symmetric difference of `{5, 9}` and `{9, 2}` is `{2, 5}`, as `2` appears only in the first set and `5` appears only in the second set. `9` is not part of the symmetric difference as it is part of both input sets.
+
+Write a function `symmetric_difference(set1, set2)` that computes the symmetric difference between two sets.
+
+Have a look a this example:
+
+    ex1 = symmetric_difference({5, 9}, {9, 2})
+    ex2 = symmetric_difference({1, 4, 2, 6, 12}, {4, 1, 8, 6, 3})
+
+This should produce the output:
+
+    {2, 5}
+    {8, 2, 3, 12}
+
+### Speech synthesis
+
+A number can be divided into digits. For example, the number 423 consists of the digits 4, 2 and 3. We want to use a speech synthesizer to pronounce numbers, digit by digit. So the number 423 should be pronounced as "four", "two", "three". Write a function `number_speech(number)` that accepts a number as an argument, and splits the number into separate digits. The function should return the separate digits as a list, and the result can then be printed as follows:
+
+    number_list = number_speech(1903)
+    for number in number_list:
+        print(number)
+
+Which should print the following:
+
+    one
+    nine
+    zero
+    three
+
+**Hint:** remember that you can access the individual characters in a _string_ in the same way you can get the individual elements from a list.
+
+### Secret message
+
+Write a function `find_secret_message(text)` that accepts a `text`, and finds all characters that directly follow the letter `'p'`. The function should return a list containing these characters.
+
+    text = 'Apophenia is not paranoia, it requires sharpness of mind and patience.'
+    family = find_secret_message(text)
+    print("The secret message is: {family}")
+
+Should print:
+
+    The secret message is: ['o', 'h', 'a', 'n', 'a']
+
+### Library
+
+We have loaded information about book genres into a dictionary called `library`. The dictionary has the titles of the books as keys and the genres as values (see usage example below). We would like to group the titles by genre. Write a function called `group_titles_by_genre(library)`, that takes the dictionary and outputs a new dictionary where each key is a genre and each value is a list of all titles that belong to the given genre.
+
+Example usage:
+
+    library = {"Life of Pi": "Adventure",
+               "One World The Water Dancer": "Fantasy",
+               "The Three Musketeers": "Adventure",
+               "To Kill a Mockingbird": "Classics",
+               "Circe": "Fantasy",
+               "The Call of the Wild": "Adventure",
+               "Little Women": "Classics"}
+
+    grouped = group_titles_by_genre(library)
+    print(grouped)
+
+Expected output:
+
+    {'Adventure': ['Life of Pi', 'The Three Musketeers', 'The Call of the Wild'], 'Fantasy': ['One World The Water Dancer', 'Circe'], 'Classics': ['To Kill a Mockingbird', 'Little Women']}
+
+### Booklist
+
+For school, you are required to read books from a prescribed booklist. Instead of asking you to read at least 5 books from that list, the teacher asks you to read at least 1000 pages. Of course, even though you are an eager student, you don't want to read way too much. Write a function `count_pages(books_page_count, read_books)` that, given a dictionary of books (with the title of the book as a key, and the number of pages in that book as value) and a list of titles you have read, can calculate the total number of pages in the books that you have read. The function doesn't need to take into account invalid book titles.
+
+    books_page_count = {'Nineteen Eighty-Four': 328, 'The Very Hungry Caterpillar': 22, 'Gulliver\'s Travels': 352, 'Frankenstein': 280, 'David Copperfield': 624, 'Moby-Dick': 736, 'Ulysses': 730, 'Lord of the Flies': 224, 'To Kill a Mockingbird': 281, 'The Picture of Dorian Gray': 272,'The Hobbit': 310}
+
+    read_books = ['The Very Hungry Caterpillar', 'The Hobbit', 'Frankenstein', 'Lord of the Flies']
+
+    page_total = count_pages(books_page_count, read_books)
+    print(f'The books {read_books} have {page_total} pages in total.')
+
+
+Should print:
+
+    The books ['The Very Hungry Catterpillar', 'The Hobbit', 'Frankenstein', 'Lord of the Flies'] have 836 pages in total.
+
+
+### Expense
+
+You're writing a program that keeps track of your expenses. You're using a dictionary that keeps track of the monthly expenses in euros per category (_food_, _rent_, _internet_, _utilities_, _social activities_, etc.). Now you would like to know what percentages of you monthly expenses these categories represent.
+
+Write a function  `euros_to_percentage(expenses)` that accepts a dictionary containing the expenses in euros. It should create a new dictionary containing the expenses in percentages.
+
+Have a look a this example:
+
+    expenses_january_in_euros = {'rent': 735, 'utlities': 221,
+                                 'food': 167, 'social activities': 185,
+                                 'internet + netflix + spotify': 58, 'phone': 25}
+    expenses_january_in_percentages = euros_to_percentage(expenses_january_in_euros)
+    print(expenses_january_in_percentages)
+
+This should produce the output:
+
+
+    {'rent': 52.83968368080517, 'utlities': 15.88785046728972, 'food': 12.005751258087706, 'social activities': 13.299784327821712, 'internet + netflix + spotify': 4.169662113587347, 'phone': 1.7972681524083394}
+
+
+**Note:** the order in which this result is printed does not need to be the same as the example above. Check whether each category has the right value. If this is the case, your code probably works!
