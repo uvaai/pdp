@@ -1,18 +1,12 @@
-### Symmetric difference
+### Gaussian logic
 
-The symmetric difference of two sets contains all elements that appear in one of the two sets, but not in both. So the symmetric difference of `{5, 9}` and `{9, 2}` is `{2, 5}`, as `2` appears only in the first set and `5` appears only in the second set. `9` is not part of the symmetric difference as it is part of both input sets.
+Johann Karl Friedrich Gauss famously outsmarted one of his teacher at a the age of 10, when the teacher asked for the sum of all the numbers 1 to 100. He came up with a general method to solve this for a (even length) sequence of n numbers, which is: `total_sum = n*(n+1)/2`.
 
-Write a function `symmetric_difference(set1, set2)` that computes the symmetric difference between two sets.
+This works because we can take `n/2` different pairs of numbers and each pair should sum up to `n+1`, like so:
 
-Have a look a this example:
+![](sum_numbers.png)
 
-    ex1 = symmetric_difference({5, 9}, {9, 2})
-    ex2 = symmetric_difference({1, 4, 2, 6, 12}, {4, 1, 8, 6, 3})
-
-This should produce the output:
-
-    {2, 5}
-    {8, 2, 3, 12}
+Write the function `check_pairs(n)` that takes as input an even number `n`, generates the list from `1` to `n` (inclusive), and checks if all `n/2` possible pairs do indeed sum to `n + 1`. The function should return `True` if Gauss' definition works for all the `n/2` pairs in the sequence and False otherwise
 
 ### Speech synthesis
 
@@ -89,7 +83,7 @@ Write a function  `euros_to_percentage(expenses)` that accepts a dictionary cont
 
 Have a look a this example:
 
-    expenses_january_in_euros = {'rent': 735, 'utlities': 221,
+    expenses_january_in_euros = {'rent': 735, 'utilities': 221,
                                  'food': 167, 'social activities': 185,
                                  'internet + netflix + spotify': 58, 'phone': 25}
     expenses_january_in_percentages = euros_to_percentage(expenses_january_in_euros)
@@ -98,7 +92,7 @@ Have a look a this example:
 This should produce the output:
 
 
-    {'rent': 52.83968368080517, 'utlities': 15.88785046728972, 'food': 12.005751258087706, 'social activities': 13.299784327821712, 'internet + netflix + spotify': 4.169662113587347, 'phone': 1.7972681524083394}
+    {'rent': 52.83968368080517, 'utilities': 15.88785046728972, 'food': 12.005751258087706, 'social activities': 13.299784327821712, 'internet + netflix + spotify': 4.169662113587347, 'phone': 1.7972681524083394}
 
 
 **Note:** the order in which this result is printed does not need to be the same as the example above. Check whether each category has the right value. If this is the case, your code probably works!
