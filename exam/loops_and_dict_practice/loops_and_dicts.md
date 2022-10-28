@@ -12,7 +12,7 @@ Should print:
 
 ### Gaussian logic
 
-Johann Karl Friedrich Gauss famously outsmarted one of his teacher at a the age of 10, when the teacher asked for the sum of all the numbers 1 to 100. He came up with a general method to solve this for a (even length) sequence of n numbers, which is: $total\_sum = \frac{n}{2}(n+1)$.
+Johann Karl Friedrich Gauss famously outsmarted one of his teacher at a the age of 10, when the teacher asked for the sum of all the numbers 1 to 100. He came up with a general method to solve this for a (even length) sequence of n numbers, which is: $total/_sum = \frac{n}{2}(n+1)$.
 
 This works because we can take $\frac{n}{2}$ different pairs of numbers and each pair should sum up to $n+1$, like so:
 
@@ -73,8 +73,16 @@ For school, you are required to read books from a prescribed booklist. Instead o
 
 Should print:
 
-    The books ['The Very Hungry Catterpillar', 'The Hobbit', 'Frankenstein', 'Lord of the Flies'] have 836 pages in total.
+    The books ['The Very Hungry Caterpillar', 'The Hobbit', 'Frankenstein', 'Lord of the Flies'] have 836 pages in total.
 
 #### Finish the booklist
 
 Write a new function named `done_reading(books_page_count, read_books)`. Using the `count_pages` function from before, check if the list total of the books meets the 1000 page requirement. If this is the case, the function should print `"Total pages is {total}. All done"`. If not, find the single shortest book that would put the total over 1000 and recommend that to the user.
+
+    done_reading(['The Picture of Dorian Gray'])
+    done_reading(['Nineteen Eighty-Four', 'Gulliver\'s Travels', 'The Hobbit'])
+
+Should output:
+
+    Your current total is 272. Read Ulysses of 730 pages to complete your list.
+    Your current total is 990. Read The Very Hungry Caterpillar of 22 pages to complete your list.
