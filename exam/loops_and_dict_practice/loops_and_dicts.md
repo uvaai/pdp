@@ -53,6 +53,9 @@ Should print:
 
     The books ['The Very Hungry Catterpillar', 'The Hobbit', 'Frankenstein', 'Lord of the Flies'] have 836 pages in total.
 
+#### Finish the booklist
+
+Write a new function named `done_reading(books_page_count, read_books)`. Using the `count_pages` function from before, check if the list total of the books meets the 1000 page limit. If this is the case, the function should print `"Total pages is {total}. All done"`. If not, find the single shortest book that would put the total over 1000 and recommend that to the user.
 
 ### Expense
 
