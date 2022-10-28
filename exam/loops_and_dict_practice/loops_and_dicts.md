@@ -1,12 +1,24 @@
+### Secret message
+
+Write a function `find_secret_message(text)` that accepts a `text`, and finds all characters that directly follow the letter `'p'`. The function should return a list containing these characters.
+
+    text = 'Apophenia is not paranoia, it requires sharpness of mind and patience.'
+    family = find_secret_message(text)
+    print("The secret message is: {family}")
+
+Should print:
+
+    The secret message is: ['o', 'h', 'a', 'n', 'a']
+
 ### Gaussian logic
 
-Johann Karl Friedrich Gauss famously outsmarted one of his teacher at a the age of 10, when the teacher asked for the sum of all the numbers 1 to 100. He came up with a general method to solve this for a (even length) sequence of n numbers, which is: `total_sum = n*(n+1)/2`.
+Johann Karl Friedrich Gauss famously outsmarted one of his teacher at a the age of 10, when the teacher asked for the sum of all the numbers 1 to 100. He came up with a general method to solve this for a (even length) sequence of n numbers, which is: $total_sum = \frac{n}{2}(n+1)$.
 
-This works because we can take `n/2` different pairs of numbers and each pair should sum up to `n+1`, like so:
+This works because we can take $\frac{n}{2}$ different pairs of numbers and each pair should sum up to $n+1$, like so:
 
 ![](sum_numbers.png)
 
-Write the function `check_pairs(n)` that takes as input an even number `n`, generates the list from `1` to `n` (inclusive), and checks if all `n/2` possible pairs do indeed sum to `n + 1`. The function should return `True` if Gauss' definition works for all the `n/2` pairs in the sequence and False otherwise
+Write the function `check_pairs(n)` that takes as input an even number $n$, generates the list from `1` to `n` (inclusive), and checks if all $\frac{n}{2}$ possible pairs do indeed sum to $n + 1$. The function should return `True` if Gauss' definition works for all the $\frac{n}{2}$ pairs in the sequence and `False` otherwise
 
 ### Speech synthesis
 
@@ -24,39 +36,6 @@ Which should print the following:
     three
 
 **Hint:** remember that you can access the individual characters in a _string_ in the same way you can get the individual elements from a list.
-
-### Secret message
-
-Write a function `find_secret_message(text)` that accepts a `text`, and finds all characters that directly follow the letter `'p'`. The function should return a list containing these characters.
-
-    text = 'Apophenia is not paranoia, it requires sharpness of mind and patience.'
-    family = find_secret_message(text)
-    print("The secret message is: {family}")
-
-Should print:
-
-    The secret message is: ['o', 'h', 'a', 'n', 'a']
-
-### Library
-
-We have loaded information about book genres into a dictionary called `library`. The dictionary has the titles of the books as keys and the genres as values (see usage example below). We would like to group the titles by genre. Write a function called `group_titles_by_genre(library)`, that takes the dictionary and outputs a new dictionary where each key is a genre and each value is a list of all titles that belong to the given genre.
-
-Example usage:
-
-    library = {"Life of Pi": "Adventure",
-               "One World The Water Dancer": "Fantasy",
-               "The Three Musketeers": "Adventure",
-               "To Kill a Mockingbird": "Classics",
-               "Circe": "Fantasy",
-               "The Call of the Wild": "Adventure",
-               "Little Women": "Classics"}
-
-    grouped = group_titles_by_genre(library)
-    print(grouped)
-
-Expected output:
-
-    {'Adventure': ['Life of Pi', 'The Three Musketeers', 'The Call of the Wild'], 'Fantasy': ['One World The Water Dancer', 'Circe'], 'Classics': ['To Kill a Mockingbird', 'Little Women']}
 
 ### Booklist
 
