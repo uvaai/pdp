@@ -14,7 +14,7 @@ Should print:
 
 Johann Karl Friedrich Gauss famously outsmarted one of his teacher at a the age of 10, when the teacher asked for the sum of all the numbers 1 to 100. He came up with a general method to solve this for a (even length) sequence of n numbers, which is:
 
-$$\text{total sum} = \frac{n}{2}(n+1)$$$
+$$\text{total_sum} = \frac{n}{2}(n+1)$$
 
 This works because we can take $\frac{n}{2}$ different pairs of numbers and each pair should sum up to $n+1$, like so:
 
