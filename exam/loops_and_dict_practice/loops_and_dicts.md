@@ -12,7 +12,7 @@ Should print:
 
 ### Gaussian logic
 
-Johann Karl Friedrich Gauss famously outsmarted one of his teacher at a the age of 10, when the teacher asked for the sum of all the numbers 1 to 100. He came up with a general method to solve this for a (even length) sequence of n numbers, which is: $total_sum = \frac{n}{2}(n+1)$.
+Johann Karl Friedrich Gauss famously outsmarted one of his teacher at a the age of 10, when the teacher asked for the sum of all the numbers 1 to 100. He came up with a general method to solve this for a (even length) sequence of n numbers, which is: $total\_sum = \frac{n}{2}(n+1)$.
 
 This works because we can take $\frac{n}{2}$ different pairs of numbers and each pair should sum up to $n+1$, like so:
 
@@ -37,26 +37,6 @@ Which should print the following:
 
 **Hint:** remember that you can access the individual characters in a _string_ in the same way you can get the individual elements from a list.
 
-### Booklist
-
-For school, you are required to read books from a prescribed booklist. Instead of asking you to read at least 5 books from that list, the teacher asks you to read at least 1000 pages. Of course, even though you are an eager student, you don't want to read way too much. Write a function `count_pages(books_page_count, read_books)` that, given a dictionary of books (with the title of the book as a key, and the number of pages in that book as value) and a list of titles you have read, can calculate the total number of pages in the books that you have read. The function doesn't need to take into account invalid book titles.
-
-    books_page_count = {'Nineteen Eighty-Four': 328, 'The Very Hungry Caterpillar': 22, 'Gulliver\'s Travels': 352, 'Frankenstein': 280, 'David Copperfield': 624, 'Moby-Dick': 736, 'Ulysses': 730, 'Lord of the Flies': 224, 'To Kill a Mockingbird': 281, 'The Picture of Dorian Gray': 272,'The Hobbit': 310}
-
-    read_books = ['The Very Hungry Caterpillar', 'The Hobbit', 'Frankenstein', 'Lord of the Flies']
-
-    page_total = count_pages(books_page_count, read_books)
-    print(f'The books {read_books} have {page_total} pages in total.')
-
-
-Should print:
-
-    The books ['The Very Hungry Catterpillar', 'The Hobbit', 'Frankenstein', 'Lord of the Flies'] have 836 pages in total.
-
-#### Finish the booklist
-
-Write a new function named `done_reading(books_page_count, read_books)`. Using the `count_pages` function from before, check if the list total of the books meets the 1000 page requirement. If this is the case, the function should print `"Total pages is {total}. All done"`. If not, find the single shortest book that would put the total over 1000 and recommend that to the user.
-
 ### Expense
 
 You're writing a program that keeps track of your expenses. You're using a dictionary that keeps track of the monthly expenses in euros per category (_food_, _rent_, _internet_, _utilities_, _social activities_, etc.). Now you would like to know what percentages of you monthly expenses these categories represent.
@@ -78,3 +58,23 @@ This should produce the output:
 
 
 **Note:** the order in which this result is printed does not need to be the same as the example above. Check whether each category has the right value. If this is the case, your code probably works!
+
+### Booklist
+
+For school, you are required to read books from a prescribed booklist. Instead of asking you to read at least 5 books from that list, the teacher asks you to read at least 1000 pages. Of course, even though you are an eager student, you don't want to read way too much. Write a function `count_pages(books_page_count, read_books)` that, given a dictionary of books (with the title of the book as a key, and the number of pages in that book as value) and a list of titles you have read, can calculate the total number of pages in the books that you have read. The function doesn't need to take into account invalid book titles.
+
+    books_page_count = {'Nineteen Eighty-Four': 328, 'The Very Hungry Caterpillar': 22, 'Gulliver\'s Travels': 352, 'Frankenstein': 280, 'David Copperfield': 624, 'Moby-Dick': 736, 'Ulysses': 730, 'Lord of the Flies': 224, 'To Kill a Mockingbird': 281, 'The Picture of Dorian Gray': 272,'The Hobbit': 310}
+
+    read_books = ['The Very Hungry Caterpillar', 'The Hobbit', 'Frankenstein', 'Lord of the Flies']
+
+    page_total = count_pages(books_page_count, read_books)
+    print(f'The books {read_books} have {page_total} pages in total.')
+
+
+Should print:
+
+    The books ['The Very Hungry Catterpillar', 'The Hobbit', 'Frankenstein', 'Lord of the Flies'] have 836 pages in total.
+
+#### Finish the booklist
+
+Write a new function named `done_reading(books_page_count, read_books)`. Using the `count_pages` function from before, check if the list total of the books meets the 1000 page requirement. If this is the case, the function should print `"Total pages is {total}. All done"`. If not, find the single shortest book that would put the total over 1000 and recommend that to the user.
