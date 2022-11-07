@@ -4,7 +4,7 @@ Write a function `find_secret_message(text)` that accepts a `text`, and finds al
 
     text = 'Apophenia is not paranoia, it requires sharpness of mind and patience.'
     family = find_secret_message(text)
-    print("The secret message is: {family}")
+    print(f"The secret message is: {family}")
 
 Should print:
 
