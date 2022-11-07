@@ -100,7 +100,7 @@ This should produce the output:
 
 ### 4. BTTS
 
-For this assignment you need to use the file [barca.txt](barca.txt). This contains the results for football matches of F.C. Barcelona (from seasons 11/12 to 13/14). The file contains the following data:
+For this assignment you need to use the file [barca.txt](../data/barca.csv). This contains the results for football matches of F.C. Barcelona (from seasons 11/12 to 13/14). The file contains the following data:
 
     29/08/11,Villarreal,won,5,0,home
     10/09/11,Sociedad,draw,2,2,away
@@ -129,7 +129,7 @@ Expected output:
 
     0.57
 
-You can use the file [barca_short.txt](barca_short.txt) to test and debug your own code. This file contains only 4 matches.
+You can use the file [barca_short.txt](../data/barca_short.csv) to test and debug your own code. This file contains only 4 matches.
 
 Example usage:
 
