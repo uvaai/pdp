@@ -22,6 +22,7 @@ grades:
     module5: *manual
     module6: *manual
     exam: *check_off
+    exam2: *check_off
     oral: *check_off
 
 calculation:
@@ -43,3 +44,8 @@ exam:
     show_progress: true
     submits:
         exam: 1
+
+exam2:
+    show_progress: true
+    submits:
+        exam2: 1

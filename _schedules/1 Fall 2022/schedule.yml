@@ -150,3 +150,8 @@ Exam:
     Overview: /exam
     Exam:  /exam/exam
     Submit: /submit/exam
+
+Retake exam:
+    Overview: /exam
+    Exam: /exam/exam2
+    Submit: /submit/exam2
