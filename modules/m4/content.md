@@ -1,17 +1,17 @@
 
 # Module 4
 
-The deadline for both Python for Data Processing and Introduction to Machine Learning 1 is<br>**Tuesday October 4th at 17:59**
+The deadline for both Python for Data Processing and Introduction to Machine Learning 1 is<br>**Monday March 6th at 17:59**
 
 | Day                | Python for<br>Data Processing        | Introduction to<br>Machine Learning   | Seminars                                    |
 |--------------------|--------------------------------------|---------------------------------------|---------------------------------------------|
-| Tuesday<br>27/09   | Moving around the board              | SOWISO                                |                                             |
-| Wednesday<br>28/09 | Moving around the board              | Theory videos +<br>Linear Regression:<br>Assignment 2 |                             |
-| Thursday<br>29/09  | Buying properties                    | Linear Regression:<br>Assignment 5    | Q & A lecture                               |
-| Friday<br>30/09    | Starting money                       | Linear Regression:<br>Assignment 7    |                                             |
+| Monday<br>27/02    | Moving around the board              | SOWISO                                | Group seminar                               |
+| Tuesday<br>28/02   | Moving around the board              | Theory videos +<br>Linear Regression:<br>Assignment 2 |                             |
+| Wednesday<br>01/03 | Buying properties                    | Linear Regression:<br>Assignment 5    | Q & A lecture                               |
+| Thursday<br>02/03  | Starting money                       | Linear Regression:<br>Assignment 7    |                                             |
+| Friday<br>03/03    | Advantage of player 1                | Finish Linear Regression              |                                             |
 |                    |                                      |                                       |                                             |
-| Monday<br>03/10    | Advantage of player 1                | Finish Linear Regression              | Group seminar                               |
-| Tuesday<br>04/10   | Repairing the disadvantage           | Written Assignment: AlphaGo           |                                             |
+| Monday<br>06/03    | Repairing the disadvantage           | Written Assignment: AlphaGo           | Group seminar                               |
 
 
 
