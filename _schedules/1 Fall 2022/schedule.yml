@@ -34,6 +34,7 @@ Module 1:
     Plotting graphs:
         Learn about lists [theory]: /python/en/lists
         Practice with lists [practice]: /python/en/lists/practice
+        For loop strategies [theory]: /python/en/loops/element-vs-index
         Learn how to use modules [theory]: /python/en/modules
         Learn about plotting in Python [theory]: /python/en/plotting
         Visualize data with plots [assignment]: /plot/en/
@@ -81,7 +82,7 @@ Module 3:
     Big data:
         Introduction: /bigdata/en/
         Learn about file I/O [theory]: /python/en/file-io
-        Learn to analyse and process a data set [practice]: /python/en/files
+        Learn to analyse and process a data set [assignment]: /python/en/files
         For loop design [theory]: /python/en/loops/element-vs-index
         Dig around in KNMI temperature data [assignment]: /bigdata/en/temperatures
 
@@ -140,14 +141,17 @@ Module 6:
     Submit:
         Submit your solutions: /submit/module6
 
-# Practice exam:
-#     Overview: /exam
-#     Practice exam: /exam/practice
-#     Submit: /submit/practice-exam
-#
-#     Solution file: /course/exam/practice/solution.py
+Practice exam:
+    Overview: /exam
+    Practice exam: /exam/practice
+    More practice: /exam/loops_and_dict_practice
 
 Exam:
     Overview: /exam
-    Exam:  /exam/exam1
-    Submit: /submit/exam1
+    Exam:  /exam/exam
+    Submit: /submit/exam
+
+Retake exam:
+    Overview: /exam
+    Exam: /exam/exam2
+    Submit: /submit/exam2

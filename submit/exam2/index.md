@@ -1,4 +1,4 @@
-# Submit practice exam
+# Submit exam
 
 Here you can submit your solutions to the exam. Take note:
 
@@ -10,4 +10,4 @@ Here you can submit your solutions to the exam. Take note:
 
 - You may submit and re-submit without limit up until the deadline.
 
-- Before you leave the exam room, check with the proctor that your submission was correctly submitted!
+- Before you leave the exam room, **check with the proctor that your submission was correctly submitted!**

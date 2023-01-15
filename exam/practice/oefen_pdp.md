@@ -26,71 +26,41 @@ The following steps should help you find solutions to the exercises:
 5. Test your program extensively using the examples you thought of in step 2, and see if you can find any edge cases where the program gives an unexpected output.
 6. Finish your program and submit your solutions. *Before you leave the exam room, check with the proctor that your submission was correctly submitted!*
 
-# 1. Temperatures
+# 1. Supermarket discounts
 
-Kelvin $$K$$ and degrees Celsius $$C$$ are related by $$273+C=K$$. Degrees Celsius $$C$$ and degrees Fahrenheit $$F$$ are related by $$\frac{18C + 320}{10}=F$$. Write a function `degree_table()` that **prints** a neat table with three columns (Celsius, Kelvin, and Fahrenheit) from which you can read the corresponding temperature values. _This function should not return anything._ The table starts at 40 degrees Celsius below zero, increases in steps of 5 degrees and ends at (it should include) the boiling point of water at normal pressure (i.e. 100 degrees Celsius).
+A supermarket often has products with the promotion: "three for the price of two". When a client buys a specific number of such a product, the supermarket needs to compute the total discount.
 
-    degree_table()
+You have to implement the function `compute_three_for_two_discount(product_price, number_of_items)` that computes the discount. The function accepts a float `product_price` (the price of a specific product), and an integer `number_of_items` (the amount of items the client bought). Think what to do when the number of items are not divisible by three: You only get a discount for every three items.
 
-Should print the following:
+    avocado_price = 2.35
+    discount1 = compute_three_for_two_discount(avocado_price, 3)
+    discount2 = compute_three_for_two_discount(avocado_price, 6)
+    discount3 = compute_three_for_two_discount(avocado_price, 7)
+    print(f'The amount of discount for 3 avocados: {discount1}')
+    print(f'The amount of discount for 6 avocados: {discount2}')
+    print(f'The amount of discount for 7 avocados: {discount3}')
 
-    Celsius Kelvin  Fahrenheit
-    -40      233     -40
-    -35      238     -31
-    -30      243     -22
-    -25      248     -13
-    -20      253     -4
-    -15      258     5
-    -10      263     14
-    -5       268     23
-    0        273     32
-    5        278     41
-    10       283     50
-    15       288     59
-    20       293     68
-    25       298     77
-    30       303     86
-    35       308     95
-    40       313     104
-    45       318     113
-    50       323     122
-    55       328     131
-    60       333     140
-    65       338     149
-    70       343     158
-    75       348     167
-    80       353     176
-    85       358     185
-    90       363     194
-    95       368     203
-    100      373     212
+The expected output:
 
-**Hint:** You can neatly format the table using tabs, which can be printed using `'\t'`. The first two lines of the output above, for example, can be formatted as follows:
+    The amount of discount for 3 avocados: 2.35
+    The amount of discount for 6 avocados: 4.7
+    The amount of discount for 7 avocados: 4.7
 
-    print(f'Celsius\tKelvin\tFahrenheit')
+**Hint:** Integer division `//` automatically rounds down the result of a division.
 
-    celsius = -40
-    kelvin = 233
-    fahrenheit = -40
+# 2. Short stories
 
-    print(f'{celsius}\t{kelvin}\t{fahrenheit}')
+Write a function `find_short_words(text, max_length)` that accepts a string and an integer as input: `text` and `max_length`. The function should find all words in `text` that are at most as long as `max_length`, and return them as a list. Assume that the text has no punctuation and that all words are separated by spaces.
 
-Of course, the intended solution is to create the table programmatically (using a loop and calculations), and not to hardcode the table into a set of prints.
-
-# 2. First letters
-
-Write a function `find_alliterations(text, letter)` that accepts two strings as input: `text` and `letter`. The function should find all words in `text` starting with `letter`, and return them as a list. You can assume that `letter` is never more than one letter.
-
-    example_text = "David Donald Doo dreamed a dozen doughnuts and a duck-dog too."
-    alliterations = find_alliterations(example_text, "d")
-
-    print(alliterations)
+    example_text = "The story so far in the beginning the universe was created This has made a lot of people very angry and been widely regarded as a bad move"
+    short_words = find_short_words(example_text, 3)
+    print(short_words)
 
 Expected output:
 
-    ['david', 'donald', 'doo', 'dreamed', 'dozen', 'doughnuts', 'duck-dog']
+    ['The', 'so', 'far', 'in', 'the', 'the', 'was', 'has', 'a', 'lot', 'of', 'and', 'as', 'a', 'bad']
 
-**Hint:** Use `str.lower()` to get the lower-case version of a string!
+Hint: You can split a text with spaces into a list of words using the `.split(' ')` method.
 
 # 3. Water of life
 
@@ -109,6 +79,7 @@ Should print:
     Roses', 'Bulleit']}
 
 **Note:** the order in which this result is printed does not need to be the same as the example above. Check whether each origin has all of it's brands. If this is the case, your code probably works!
+
 
 # 4. More cars
 
