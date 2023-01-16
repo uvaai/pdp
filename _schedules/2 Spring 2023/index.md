@@ -2,7 +2,7 @@
 
 University of Amsterdam / Programming Lab / 5082PFDP6Y
 
-## Syllabus<br><small>Fall 2022</small>
+## Syllabus<br><small>Spring 2023</small>
 
 Welcome to this programming course! In the weeks ahead, you'll use the Python
 programming language while learning to solve scientific problems from several
@@ -59,20 +59,34 @@ even offer extra help or resources, if needed. In general, it is a good idea to
 already contact us if are more than 1 day behind on the schedule, so we can
 look at possible solutions early.
 
+#### Part-time students
+
+If you are a part-time student, you can just follow the part of the daily
+schedule intended for your half of the program. You should still attend the
+group seminars with the other students, but can otherwise choose which days
+you are present and which days of practical assistance combine best
+with your own schedule.
+
 ### Absences and calling in sick
 
 If you are sick or are otherwise unable to come to campus, you should inform 
-your group TA by sending them a message on Slack. When you are feeling better,
-inform your TA again, so a new planning for that module can be made. Any exceptions
-or extensions required for this will need to be discussed with course staff (so not 
-your TA). See the extension policy below for more details.
+your group TA you will be absent by sending them a message on Slack. When you
+are feeling better, inform your TA again, so your period of absence can be
+registered.
 
-If you are experiencing coronavirus-related symptoms, but are feeling fit enough
-otherwise, you should do a self-test. If the self-test is negative, you can and
-should still come to campus. If the self-test is positive, you should report in sick,
-like described above, but work from home instead. When contacting your group TA, do
-also mention that you are absent because of a positive self-test, so we know you are
-working from home.
+Depending on how long you were sick, and if you are behind with the module, you
+can then also contact the course staff to discuss an alternate planning for the
+module.  Note that this option requires you to have also already messaged your
+TA at the start of your absense. Any exceptions or extensions required for this
+will need to be discussed with course staff (so not your TA). See the extension
+policy below for more details.
+
+If you are experiencing coronavirus-related symptoms, but are feeling fit
+enough otherwise, you should do a self-test. If the self-test is negative, you
+can and should still come to campus. If the self-test is positive, you should
+report in sick, like described above, but work from home instead. When
+contacting your group TA, do also mention that you are absent because of a
+positive self-test, so we know you are working from home.
 
 ### Extension policy and late days
 
@@ -87,18 +101,20 @@ schedule a meeting and still have room in the module for an alternative planning
 Note that a meeting does not always guarantee an extension, as this might still
 depend on the details of your circumstances.
 
-In addition, for this course and Introduction to Machine Learning 1, you have a combined 
-total of 2 late days, each of which you can use to get a single 24 hour extension 
-for the module deadline. To request a late-day extension, you should write to
-your TA on Slack *before* the deadline expires and indicate you intend to
-use a late day. Any submissions received after the deadline without a requested
-late day will not be graded, meaning your grade will default to a 1.
+In addition, for this course and Python for Data Processing, you have a
+combined total of 2 late days, each of which you can use to get a single 24
+hour extension for the module deadline. You can request a late day using the
+submit forms linked in the sidebar of the *Introduction to Machine Learning 1* 
+[website](https://ml1.proglab.nl). You must always submit your
+request *before* the deadline expires. Any submissions received after the
+deadline without a requested late day will not be graded, meaning your grade
+will default to a 1.
 
 You can use only 1 late day per module to get a 24 hour extension on the deadline. 
 This extension is for the whole module, so applies to both courses. If the deadline
 is on a Friday, using  a single late day will instead grant a 48 hour extension 
 over the weekend, meaning your deadline will move to Sunday. If you have used both
-late-days, or require more than 24 hours of extension, you may still try and 
+late days, or require more than 24 hours of extension, you may still try and 
 request a staff extension.
 
 Any staff extension request needs to be agreed upon before the deadline expires,
