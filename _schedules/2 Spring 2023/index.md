@@ -30,7 +30,7 @@ questions.
 The core schedule for this course, combined with Python for Data Processing, is
 built around working with the material each weekday from 9 to 5.  For this we
 have one room on the Science Park campus permanently reserved for minor AI
-students, namely **L0.11**, which provides enough space for all of you to work
+students, namely **L0.10**, which provides enough space for all of you to work
 on campus full-time.
 
 Most on-campus activities, including practical assistance, will generally be
@@ -39,7 +39,7 @@ in the room, like the group seminars and the exam. The schedule for these
 group seminars can be found on Datanose [here](https://datanose.nl/#course[111293])
 
 The schedule for the practical assistance hours and lectures that will be held
-in L0.11 can be found in the "Asking Questions" section below.
+in L0.10 can be found in the "Asking Questions" section below.
 
 ### Deadlines and daily schedules
 
@@ -151,7 +151,7 @@ The hours are scheduled as follows:
 Every module there will be at least one Q & A lecture, where you can ask
 questions about the theoretical parts of the course. The schedule for these
 lectures can be found as part of the daily schedule for the module. The lectures
-will always be in the main room L0.11 at 10:00 on the scheduled day.
+will always be in the main room L0.10 at 10:00 on the scheduled day.
 
 These Q & A sessions will generally be scheduled the day after you should watch
 the theory videos of the module. While watching the videos, you can write
