@@ -17,5 +17,5 @@ The deadline for both Python for Data Processing and Introduction to Machine Lea
 
 #### Q & A Lecture
 
-The Q & A lectures will be held in room **L0.10 at 10:00** on the scheduled day. You can submit any questions you might have beforehand using [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=zcrxoIxhA0S5RXb7PWh05ZTDc7biyulCvpu4U-tarWtUMlZYQUlYMFVMREdWRVVPWTNITlIxQlFUTC4u).
+The Q & A lectures will be held in room **L0.10 at 10:00** on the scheduled day. You can submit any questions you might have beforehand using [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=zcrxoIxhA0S5RXb7PWh05ZTDc7biyulCvpu4U-tarWtURTdPSDJaOUVHR002NzFFSktXNDNTTk5ENi4u).
 
