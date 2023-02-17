@@ -133,13 +133,12 @@ Module 5:
 Module 6:
     Schedule: /modules/m6
     Introduction: /survival/
-
+    Numpy:
+        Numpy [practice]: /numpy_practice/
     Pandas:
         Pandas [practice]: /survival/pandas
-
     Survival:
         Survival [assignment]: /survival/survival
-
     Submit:
         Submit your solutions: /submit/module6
 
