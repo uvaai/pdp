@@ -118,13 +118,13 @@ Module 5:
         Sets [theory]: /python/en/sets
         Sets [practice]: /python/en/sets/practice
         List slicing and indexing [theory]: /python/en/slicing
-    Dictionaries revisited:
-        Practical uses of dictionaries [practice]: /python/en/dictionaries/more_practice
     How to write efficient code:
         Applying big O in your code [theory]: /python/en/big-o
         Improving count_occurrence [theory]: /python/en/big-o-example
         Complexity questions 2 [assignment]: /complexity/questions2
         Jaccard [assignment]: /complexity/jaccard
+    Dictionaries revisited:
+        Practical uses of dictionaries [practice]: /python/en/dictionaries/more_practice
     Write your own efficient code:
         Indexing words [assignment]: /complexity/word-index
     Submit:
