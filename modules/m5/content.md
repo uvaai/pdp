@@ -6,12 +6,12 @@ The deadline for both Python for Data Processing and Introduction to Machine Lea
 | Day                | Python for<br>Data Processing        | Introduction to<br>Machine Learning     | Seminars                                    |
 |--------------------|--------------------------------------|-----------------------------------------|---------------------------------------------|
 | Tuesday<br>07/03   | Learn about computational complexity | SOWISO videos + 5a, 5b, 5c              |                                             |
-| Wednesday<br>08/03 | Data structures and their efficiency | Theory videos +<br>Polynomial regression:<br>Assignment 3  |                             |
-| Thursday<br>09/03  | Data structures and their efficiency | SOWISO 5d, 5e +<br>Polynomial regression:<br>Assignment 6  | Q & A lecture               |
-| Friday<br>10/03    | How to write efficient code          | Polynomial regression:<br>Assignment 10    |                                             |
-|                    |                                      |                                            |                                             |
-| Monday<br>13/03    | Indexing words                       | Finish Polynomial regression            | Q & A lecture<br>Group seminar              |
-| Tuesday<br>14/03   | Indexing words                       | Written Assignment:<br>Algorithmic Bias    |                                             |
+| Wednesday<br>08/03 | Data structures and their efficiency | Theory videos +<br>Polynomial regression:<br>Assignment 3  |                          |
+| Thursday<br>09/03  | Data structures and their efficiency | SOWISO 5d, 5e +<br>Polynomial regression:<br>Assignment 6  | Q & A lecture            |
+| Friday<br>10/03    | How to write efficient code<br>+ Dictionaries revisited: Start | Polynomial regression:<br>Assignment 10 |                   |
+|                    |                                                                |                                         |                   |
+| Monday<br>13/03    | Dictionaries revisited: Finish<br>+ Indexing words: Start | Finish Polynomial regression | Q & A lecture<br>Group seminar    |
+| Tuesday<br>14/03   | Indexing words: Finish               | Written Assignment:<br>Algorithmic Bias    |                                          |
 
 
 
