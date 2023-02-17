@@ -134,7 +134,7 @@ Module 6:
     Schedule: /modules/m6
     Introduction: /survival/
     Numpy:
-        Numpy [practice]: /numpy_practice/
+        Using Numpy effectively [practice]: /numpy_practice/
     Pandas:
         Pandas [practice]: /survival/pandas
     Survival:
