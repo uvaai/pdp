@@ -27,7 +27,7 @@ questions.
 
 ## Schedule 
 
-The core schedule for this course, combined with Python for Data Processing, is
+The core schedule for this course, combined with Introduction to Machine Learning 1, is
 built around working with the material each weekday from 9 to 5.  For this we
 have one room on the Science Park campus permanently reserved for minor AI
 students, namely **L0.11**, which provides enough space for all of you to work
