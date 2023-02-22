@@ -27,7 +27,7 @@ questions.
 
 ## Schedule 
 
-The core schedule for this course, combined with Python for Data Processing, is
+The core schedule for this course, combined with Introduction to Machine Learning 1, is
 built around working with the material each weekday from 9 to 5.  For this we
 have one room on the Science Park campus permanently reserved for minor AI
 students, namely **L0.10**, which provides enough space for all of you to work
@@ -101,7 +101,7 @@ schedule a meeting and still have room in the module for an alternative planning
 Note that a meeting does not always guarantee an extension, as this might still
 depend on the details of your circumstances.
 
-In addition, for this course and Python for Data Processing, you have a
+In addition, for this course and Introduction to Machine Learning 1, you have a
 combined total of 2 late days, each of which you can use to get a single 24
 hour extension for the module deadline. You can request a late day using the
 submit forms linked in the sidebar of the *Introduction to Machine Learning 1* 
