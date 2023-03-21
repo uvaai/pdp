@@ -81,41 +81,47 @@ Should print:
 **Note:** the order in which this result is printed does not need to be the same as the example above. Check whether each origin has all of it's brands. If this is the case, your code probably works!
 
 
-# 4. More cars
+# 4. Shutouts
 
-[Download the `mgp.csv` file.](../data/mpg.csv)
+For this assignment you need to use the file [barca.csv](../data/barca.csv). This contains the results for football matches of F.C. Barcelona (from seasons 11/12 to 13/14). The file contains the following data:
 
-The file `mpg.csv` ("mpg" stands for "miles per gallon") contains data of cars from three different areas of the world: Europe, Japan, and USA. In this exercise, you will use `mpg.csv` to answer a question about the data. The contents of the file look as follows:
-
-    mpg,cylinders,displacement,horsepower,weight,acceleration,model_year,origin,name
-    18.0,8,307.0,130.0,3504,12.0,70,usa,chevrolet chevelle malibu
-    15.0,8,350.0,165.0,3693,11.5,70,usa,buick skylark 320
+    29/08/11,Villarreal,won,5,0,home
+    10/09/11,Sociedad,draw,2,2,away
+    17/09/11,Osasuna,won,8,0,home
     ...
-    44.0,4,97.0,52.0,2130,24.6,82,europe,vw pickup
-    32.0,4,135.0,84.0,2295,11.6,82,usa,dodge rampage
-    28.0,4,120.0,79.0,2625,18.6,82,usa,ford ranger
-    31.0,4,119.0,82.0,2720,19.4,82,usa,chevy s-10
+    03/05/14,Getafe,draw,2,2,home
+    11/05/14,Elche,draw,0,0,away
+    17/05/14,Ath Madrid,draw,1,1,home
 
-As you can see, there are fields separated by commas. For each car the file contains the following information:
+As you can see, the data fields are separated by a comma and contain the following information:
 
-1. mpg: the miles per gallon
-2. cylinders: the number of cylinders in the engine
-3. displacement: the total volume of all cylinders the engine in centiliters
-4. horsepower: the power of the engine in horsepower
-5. weight: the weight of the car in pounds
-6. acceleration: time in seconds to accelerate to 60 mph
-7. model_year: the model year
-8. origin: the area of origin
-9. name: the full name of this model of car
+1. Date of the match
+2. The opponent
+3. The result: won/lost/draw
+4. The number of goals for Barcelona
+5. The number of goals for the opponent
+6. The location: away/home
 
-Write a function `displacement_timeframe_cars(filename, year_start, year_end)` that can calculate the average `'displacement'` of all cars that have a `model_year` from `year_start` up to and including `year_end`.
+Write a function `shutouts(filename)`. That calculates how often Barcelona has won with a so-called shutout.
+A shutout means that the opposing team has not scored during the entire game.
 
-    filename = 'data/mpg.csv'
-    year_start = 72
-    year_end = 80
-    displacement = displacement_timeframe_cars(filename, year_start, year_end)
-    print(f'The average displacement of cars between {year_start} and {year_end} is {displacement} centiliters')
+Example usage:
 
-Should print:
+    wins = shutouts('barca.csv')
+    print(wins)
 
-    The average displacement of cars between 72 and 80 is 195.83807829181495 centiliters
+Expected output:
+
+    40
+
+You can use the file [barca_short.csv](../data/barca_short.csv) to test and debug your own code. This file contains only 4 matches.
+
+
+Example usage:
+
+    wins = shutouts('barca.csv')
+    print(wins)
+
+Expected output:
+
+    2
