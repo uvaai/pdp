@@ -30,10 +30,10 @@ The following steps should help you find solutions to the exercises:
 
 Write a function `calculate_tax(income)` that takes one argument: `income`. The function should calculate and return the amount of tax owed on the given `income` based on the following marginal tax rates:
 
-    Income up to \$10,000 is taxed at a rate of 10%
-    Income above \$10,000 is taxed at a rate of 25%
+    Income up to $10,000 is taxed at a rate of 10%
+    Income above $10,000 is taxed at a rate of 25%
 
-An income of \$60,000 should result in a total tax of $13,500;
+An income of \$60,000 should result in a total tax of \$13,500;
 
 - \$1,000 for the part up to \$10,000 (10% of \$10,000)
 - \$12,500 for the part over \$10,000 (25% of \$50,000)
