@@ -9,7 +9,7 @@ During the exam, it is not allowed to use the internet and there is no help from
 - Finish all exercises in a file named `exam.py` and submit this file
 - Each exercise should be done in (at least) **one** function
 - Outputs should be done within the exercise's function with `return`, unless stated otherwise
-- You are not allowed to use `numpy` or other libraries in this exam
+- You are not allowed to use `numpy`, `pandas`, or other libraries in this exam
 - Make sure the output for every exercise is printed to the screen when running your program. This is required to get the points for an exercise.
 
 ### Hints
@@ -26,110 +26,104 @@ The following steps should help you find solutions to the exercises:
 5. Test your program extensively using the examples you thought of in step 2, and see if you can find any edge cases where the program gives an unexpected output.
 6. Finish your program and submit your solutions. *Before you leave the exam room, check with the proctor that your submission was correctly submitted!*
 
-# 1. Power
+# 1. Tax Calculation
 
-Utility costs are rising quick, and it is very important to know what your monthly expenses will be depending on current utility prices. To aid yourself in making a proper estimate of the monthly cost of your electricity bill, you will write a program that can calculate this. Electricity bills are made up of 2 parts: a fixed yearly usage fee of €240 and a rate for every kWh of electricity used.
+Write a function `calculate_tax(income)` that takes one argument: `income`. The function should calculate and return the amount of tax owed on the given `income` based on the following marginal tax rates:
 
-We have also installed some solar panels, which can provide electricity. This produced electricity can be deducted from our used electricity. When more electricity is produced than used, the electricity company will pay us back for each kWh at the same variable rate that electricity would cost. We always pay the yearly fee of €240.
+    Income up to $10,000 is taxed at a rate of 10%
+    Income above $10,000 is taxed at a rate of 25%
 
-Write a function `montly_cost_electricity(usage, production, rate)` that can calculate, given the electricity `usage` per year in kWh, the electricity `production` per year from our solar panels in kWh, and the variable electricity `rate` in euros per kWh, the average **monthly** cost of electricity.
+An income of $60,000 should result in a total tax of $13,500;
 
-    monthly_cost = monthly_cost_electricity(0, 0, 0.48)
-    print(monthly_cost)
+- $1,000 for the part up to $10,000 (10% of $10,000)
+- $12,500 for the part over $10,000 (25% of $50,000)
 
-    monthly_cost = monthly_cost_electricity(2400, 0, 0.50)
-    print(monthly_cost)
+Note that for any
 
-    monthly_cost = monthly_cost_electricity(0, 1200, 0.10)
-    print(monthly_cost)
+Example usage:
 
-    monthly_cost = monthly_cost_electricity(2400, 3600, 0.15)
-    print(monthly_cost)
+    print(calculate_tax(60000))
+    print(calculate_tax(15000))
+    print(calculate_tax(5000))
 
-Should print:
+Output:
 
-    20.0
-    120.0
-    10.0
-    5.0
+    13500.0
+    2250.0
+    500.0
 
-# 2. Square pairs
+# 2. Vowels
 
-Write a function `find_square_pairs(number_list)` that accepts a list of numbers, and searches for sequential pairs of numbers where the second number is the square of the first number. The function should return a list of tuples with each pair of numbers to which this rule applies.
+Write a function `count_vowels(text)` that expects a `text` as its input and returns the number of vowels (a, e, i, o, u) in the text. Remember to count capitals as well!
 
-In the list `[1, 4, 16]` for example, there are two sequential pairs: `(1, 4)` and `(4, 16)`. `4` is not the square of `1`, so our rule does not apply to the first pair. `16` is the square of `4`, so the second pair meets our requirements. In this case our function should return `[(4, 16)]`.
+    example_text = "Hello, world!"
+    print(count_vowels(example_text))
 
-    number_list = [1, 4, 16]
-    print(find_square_pairs(number_list))
+Expected output:
 
-    number_list = [1, 1, 2, 3, 9, 27, 54, 9, 81, 9]
-    print(find_square_pairs(number_list))
+    3
 
-    number_list = [9, 3, 42, 1, 4, 7, 54, 1, 21, 9]
-    print(find_square_pairs(number_list))
+And:
 
-Should print:
+    example_text = "Excellent eggs!"
+    print(count_vowels(example_text))
 
-    [(4, 16)]
-    [(1, 1), (3, 9), (9, 81)]
-    []
+Should output:
 
-# 3. Last letters
+    4
 
-Write a function `count_last_letters(text)` that counts the number of times letters occur as the last letter of a word in a given `text`. The function should return a dictionary that has each occurring last letter as keys, and the number of times that specific letter occurred as a value. For the text `"This is an example."` the keys would be `'s'`, `n`, and `e`. Their corresponding values would be `2`, `1`, and `1`.
+# 3. Average Grades
 
-    last_letters = count_last_letters('His target is another diploma is it Is it common going for more than one')
-    print(last_letters)
+Write a function `average_grades(grade_dict)` that takes a dictionary of student names and their grades, where the _keys_ are strings representing the student names and the _values_ are lists of integers representing their grades. The function should return a *new* dictionary where the keys are the same student names as in the input dictionary, and the values are the average grades for each student.
 
-Should print:
+    grades = {
+        'Alice': [6, 8, 5, 10],
+        'Bob': [4, 3, 10, 10, 9],
+        'Charlie': [6, 6, 6]
+    }
+    average_grades_dict = average_grades(grades)
+    print(average_grades_dict)
 
-    {'s': 4, 't': 3, 'r': 2, 'a': 1, 'n': 2, 'g': 1, 'e': 2}
+Should output:
 
-Note: You might get a different ordering when printing the keys in your dictionary. As dictionaries are essentially unordered, this is not a problem, as long as the key-value pairs in the dictionary are correct.
+    {'Alice': 7.25, 'Bob': 7.2, 'Charlie': 6}
 
-Hint: You can split a text with spaces into a list of words using the `.split(' ')` method.
+# 4. Cars cars cars
 
-# 4. Shutouts
+[Download the `mgp.csv` file.](../data/mpg.csv)
 
-For this assignment you need to use the file [barca.csv](../data/barca.csv). This contains the results for football matches of F.C. Barcelona (from seasons 11/12 to 13/14). The file contains the following data:
+The file `mpg.csv` ("mpg" stands for "miles per gallon") contains data of cars from three different areas of the world: Europe, Japan, and USA. In this exercise, you will use `mpg.csv` to answer a question about the data. The contents of the file look as follows:
 
-    29/08/11,Villarreal,won,5,0,home
-    10/09/11,Sociedad,draw,2,2,away
-    17/09/11,Osasuna,won,8,0,home
+    mpg,cylinders,displacement,horsepower,weight,acceleration,model_year,origin,name
+    18.0,8,307.0,130.0,3504,12.0,70,usa,chevrolet chevelle malibu
+    15.0,8,350.0,165.0,3693,11.5,70,usa,buick skylark 320
     ...
-    03/05/14,Getafe,draw,2,2,home
-    11/05/14,Elche,draw,0,0,away
-    17/05/14,Ath Madrid,draw,1,1,home
+    44.0,4,97.0,52.0,2130,24.6,82,europe,vw pickup
+    32.0,4,135.0,84.0,2295,11.6,82,usa,dodge rampage
+    28.0,4,120.0,79.0,2625,18.6,82,usa,ford ranger
+    31.0,4,119.0,82.0,2720,19.4,82,usa,chevy s-10
 
-As you can see, the data fields are separated by a comma and contain the following information:
+As you can see, there are fields separated by commas. For each car the file contains the following information:
 
-1. Date of the match
-2. The opponent
-3. The result: won/lost/draw
-4. The number of goals for Barcelona
-5. The number of goals for the opponent
-6. The location: away/home
+1. mpg: the miles per gallon
+2. cylinders: the number of cylinders in the engine
+3. displacement: the total volume of all cylinders the engine in centiliters
+4. horsepower: the power of the engine in horsepower
+5. weight: the weight of the car in pounds
+6. acceleration: time in seconds to accelerate to 60 mph
+7. model_year: the model year
+8. origin: the area of origin
+9. name: the full name of this model of car
 
-Write a function `shutouts(filename)`. That calculates how often Barcelona has won with a so-called shutout.
-A shutout means that the opposing team has not scored during the entire game.
+Write a function `avg_weight_cylinders(filename, cylinders)` that given a `filename` and a number of `cylinders` can calculate the average `'weight'` for all cars that have that number of cylinders. Round the weight to 2 decimals. You are allowed to assume that there are always cars that have the number of cylinders in the data.
 
-Example usage:
+*Note: Remember that you are not allowed to use `pandas`!*
 
-    wins = shutouts('barca.csv')
-    print(wins)
+    filename = 'mpg.csv'
+    cylinders = 4
+    weight = avg_weight_cylinders(filename, cylinders)
+    print(f'The average weight of a car with {cylinders} cylinders is: {weight}')
 
-Expected output:
+Should print:
 
-    40
-
-You can use the file [barca_short.csv](../data/barca_short.csv) to test and debug your own code. This file contains only 4 matches.
-
-
-Example usage:
-
-    wins = shutouts('barca.csv')
-    print(wins)
-
-Expected output:
-
-    2
+    The average weight of a car with 4 cylinders is: 2308.13
