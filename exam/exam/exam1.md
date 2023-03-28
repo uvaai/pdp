@@ -35,8 +35,8 @@ Write a function `calculate_tax(income)` that takes one argument: `income`. The 
 
 An income of \\$60,000 should result in a total tax of \$13,500;
 
-- \$1,000 for the part up to \$10,000 (10% of \$10,000)
-- \$12,500 for the part over \$10,000 (25% of \$50,000)
+- \\$1,000 for the part up to \\$10,000 (10% of \\$10,000)
+- \\$12,500 for the part over \\$10,000 (25% of \\$50,000)
 
 Note that for any
 
