@@ -6,7 +6,7 @@ During the exam, it is not allowed to use the internet and there is no help from
 
 # Rules
 
-- Finish all exercises in a file named `exam.py` and submit this file
+- Finish all exercises in a file named `exam2.py` and submit this file
 - Each exercise should be done in (at least) **one** function
 - Outputs should be done within the exercise's function with `return`, unless stated otherwise
 - You are not allowed to use `numpy`, `pandas`, or other libraries in this exam
