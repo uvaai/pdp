@@ -46,7 +46,7 @@ Expected output:
     There are 0 leftover slices
 
     Each person gets 2 slices of pizza.
-    There are 2 leftover slices.
+    There are 4 leftover slices.
 
 # 2. Short
 
