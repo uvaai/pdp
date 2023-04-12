@@ -40,13 +40,13 @@ You can test your function with the following examples:
     print(f"Each person gets {slices_per_person} slices of pizza.")
     print(f"There are {leftover_slices} leftover slices.")
 
-Expected utput:
+Expected output:
 
     Each person gets 4 slices of pizza.
     There are 0 leftover slices
 
     Each person gets 2 slices of pizza.
-    There are 4 leftover slices.
+    There are 2 leftover slices.
 
 # 2. Short
 
@@ -70,15 +70,13 @@ Expected output:
     ['Oh,', 'I', 'I', 'shut', 'like', 'telescope', 'think', 'could', 'only', 'knew',
     'to']
 
-**Hint:** Do not remove the elements from the list, but construct a new list with only the desired elements!
+**Hint:** Removing elements from a list *while you are looping over it* will usually result in bugs, so try to find a different way to solve the exercise.
 
 # 3. Distribution
 
 We have a dictionary containing the grades of students for a specific test. We would like to generate a distribution of grades for that class (i.e., an overview showing the frequency of each grade.)
 
 Write a function called `calculate_distribution(grades)` that takes a dictionary of students grade and returns a dictionary showing how often each grade was given.
-
-You may assume that grades are on a scale of 1 to 10, and that grades are always whole numbers (integers). So the possible grades are: 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10.
 
 Have a look at this example:
 
@@ -91,10 +89,10 @@ Have a look at this example:
 
 This should produce the following output:
 
-    {1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0, 7: 3, 8: 0, 9: 2, 10: 0}
-    {1: 0, 2: 0, 3: 1, 4: 0, 5: 0, 6: 0, 7: 0, 8: 3, 9: 1, 10: 0}
+    {7: 3, 9: 2}
+    {3: 1, 8: 3, 9: 1}
 
-See for example that the first dictionary shows that in `grades1` three students got a 7.
+The first dictionary, for example, shows that in `grades1` three students got a 7.
 
 # 4. Classics
 
