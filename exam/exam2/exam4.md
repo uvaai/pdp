@@ -6,7 +6,7 @@ During the exam, it is not allowed to use the internet and there is no help from
 
 # Rules
 
-- Finish all exercises in a file named `exam2.py` and submit this file
+- Finish all exercises in a file named `exam.py` and submit this file
 - Each exercise should be done in (at least) **one** function
 - Outputs should be done within the exercise's function with `return`, unless stated otherwise
 - You are not allowed to use `numpy`, `pandas`, or other libraries in this exam
@@ -26,122 +26,91 @@ The following steps should help you find solutions to the exercises:
 5. Test your program extensively using the examples you thought of in step 2, and see if you can find any edge cases where the program gives an unexpected output.
 6. Finish your program and submit your solutions. *Before you leave the exam room, check with the proctor that your submission was correctly submitted!*
 
-# 1. Pizza party
+# 1. Car expenses
 
-Write a function `pizza_party(people, pizzas)` that takes two arguments: the number of `people` and the number of `pizzas`. The function should calculate and return two values together as a tuple: first, the number of slices each person will get, and second, the number of slices that are left. Assume each of the `pizzas` has 8 slices and all slices are divided equally among the `people`.
+Driving a car is expensive. To help you choose between different cars, and better understand the costs of your different options, you will write a program that can calculate the cost of driving a car. The price of fuel is €1.95 per liter, and the price of a new set of tires is €400. A tire wears out after 25.000km. Write a function `car_price_month(kilometers, fuel_economy)` that can calculate, given the driven kilometers per month (float, e.g. 2500), and the average fuel economy in liters per kilometer (float, e.g. 0.05), the average monthly cost of driving a car in euros.
 
-You can test your function with the following examples:
+For example, driving 2.500 `kilometers` with a `fuel_economy` of 0.05 would cost: €40 in tire-wear and €243,75 in fuel. Driving 1.000 `kilometers` with a `fuel_economy` of 0.1 would cost: €16 in tire-wear and €195 in fuel.
 
-    slices_per_person, leftover_slices = pizza_party(8, 4)
-    print(f"Each person gets {slices_per_person} slices of pizza.")
-    print(f"There are {leftover_slices} leftover slices.")
+Test your code with the examples below:
 
-    slices_per_person, leftover_slices = pizza_party(10, 3)
-    print(f"Each person gets {slices_per_person} slices of pizza.")
-    print(f"There are {leftover_slices} leftover slices.")
-
-Expected output:
-
-    Each person gets 4 slices of pizza.
-    There are 0 leftover slices
-
-    Each person gets 2 slices of pizza.
-    There are 4 leftover slices.
-
-# 2. Short
-
-It can be very tedious to summarize text in a useful way. So let's not do that. If we want to reduce a text by 25%, it's much easier to remove every 4th word. So, the sentence "I was offended by the suggestion that my baby brother was a jewel thief." Would become "I was offended the suggestion that baby brother was jewel thief.", removing "by", "my" and "a", being the 4th, 8th and 12th word respectively.
-
-Write a function `silly_abridge(text, step)` that removes every `step`-th word from a list `text` and returns the result.
-
-Have a look at this example:
-
-    alice = ['Oh,', 'how', 'I', 'wish', 'I', 'could', 'shut', 'up', 'like', 'a', 'telescope', 'I', 'think', 'I', 'could', 'if', 'only', 'I', 'knew', 'how', 'to', 'begin']
-
-    silly = silly_abridge(alice, 4)
-    print(silly)
-    silly = silly_abridge(alice, 2)
-    print(silly)
-
-Expected output:
-
-    ['Oh,', 'how', 'I', 'I', 'could', 'shut', 'like', 'a', 'telescope', 'think', 'I'
-    , 'could', 'only', 'I', 'knew', 'to', 'begin']
-    ['Oh,', 'I', 'I', 'shut', 'like', 'telescope', 'think', 'could', 'only', 'knew',
-    'to']
-
-**Hint:** Removing elements from a list *while you are looping over it* will usually result in bugs, so try to find a different way to solve the exercise.
-
-# 3. Distribution
-
-We have a dictionary containing the grades of students for a specific test. We would like to generate a distribution of grades for that class (i.e., an overview showing the frequency of each grade.)
-
-Write a function called `calculate_distribution(grades)` that takes a dictionary of students grade and returns a dictionary showing how often each grade was given.
-
-Have a look at this example:
-
-    grades1 = {'Albert': 7, 'Marie': 9, 'Olivier': 7, 'Tom': 9, 'Elio': 7}
-    grades2 = {'Albert': 3, 'Marie': 8, 'Olivier': 8, 'Tom': 8, 'Elio': 9}
-    dist1 = calculate_distribution(grades1)
-    dist2 = calculate_distribution(grades2)
-    print(dist1)
-    print(dist2)
-
-This should produce the following output:
-
-    {7: 3, 9: 2}
-    {3: 1, 8: 3, 9: 1}
-
-The first dictionary, for example, shows that in `grades1` three students got a 7.
-
-# 4. Classics
-
-[Download the `film.csv` file.](../data/film.csv)
-
-The file `film.csv` contains data of over a 1000 films from before the 2000s. In this exercise, you will use `film.csv` to answer a question about the data. The contents of the file look as follows:
-
-    Year;Length;Title;Subject;Actor;Actress;Director;Popularity;Awards
-    1990;111.0;Tie Me Up! Tie Me Down!;Comedy;Banderas, Antonio;Abril, Victoria;Almodvar, Pedro;68.0;No
-    1991;113.0;High Heels;Comedy;Bos, Miguel;Abril, Victoria;Almodvar, Pedro;68.0;No
-    1983;104.0;Dead Zone, The;Horror;Walken, Christopher;Adams, Brooke;Cronenberg, David;79.0;No
-    ...
-    1987;103.0;Heat;Mystery;Reynolds, Burt;Young, Karen;Jameson, Jerry;69.0;No
-    1947;87.0;Night Is My Future;Drama;Malmsten, Birger;Zetterling, Mai;Bergman, Ingmar;17.0;No
-    1990;92.0;Witches, The;Science Fiction;Fisher, Jasen;Zetterling, Mai;Roeg, Nicolas;18.0;No
-
-As you can see, the fields in this file are separated by semicolons (`';'`). The films have no particular order, and for each film the file contains the following information:
-
-1. Year: the year in which the film was released
-2. Length: the duration of the film in minutes
-3. Title: the title of the film
-4. Subject: the genre of the film
-5. Actor: the name of the main actor in the movie
-6. Actress: the name of the main actress in the movie
-7. Director: the name of the director of the movie
-8. Popularity: the popularity of the movie on a scale from 0 to 100
-9. Awards: whether the movie has gotten an award (Yes/No)
-
-The columns with names always only contain one name.
-
-Write a function `get_popularity_person(filename, person)` that given a `filename` and the name of a `person` can count the number of films that had that person as an **actor, actress, or director**. You do not have to re-format the person's name.
-
-    filename = 'film.csv'
-    person = 'Hitchcock, Alfred'
-    popularity = get_popularity_person(filename, person)
-    print(f'The number of films that {person} worked on is: {popularity}')
-
-    person = 'Eastwood, Clint'
-    popularity = get_popularity_person(filename, person)
-    print(f'The number of films that {person} worked on is: {popularity}')
-
-    person = 'Streisand, Barbra'
-    popularity = get_popularity_person(filename, person)
-    print(f'The number of films that {person} worked on is: {popularity}')
+    expense_total = car_price_month(2500, 0.05)
+    print(expense_total)
+    expense_total = car_price_month(1000, 0.1)
+    print(expense_total)
 
 Should print:
 
-    The number of films that Hitchcock, Alfred worked on is: 28
-    The number of films that Eastwood, Clint worked on is: 18
-    The number of films that Streisand, Barbra worked on is: 4
+    283.75
+    211.0
 
-Note that sometimes, a person is both an actor/actress **and** a director in a film. In that case, we still only count that film once.
+
+# 2. Triangular
+
+*Triangular numbers* are numbers that are the result of the sum $1 + 2 + \ldots + i$ for a given value of $i$. The first *triangular number* is $1$, the second is $1 + 2 = 3$, the third is $1 + 2 + 3 = 6$, the fourth is $1 + 2 + 3 + 4 = 10$, etc..
+
+Write a function named `triangular(n)` that returns a list of all the triangular numbers that are *smaller than* $n$.
+
+    print(triangular(6))
+    print(triangular(15))
+    print(triangular(16))
+
+Expected output:
+
+    [1, 3]
+    [1, 3, 6, 10]
+    [1, 3, 6, 10, 15]
+
+# 3. Last letters
+
+Write a function `count_last_letters(text)` that counts the number of times letters occur as the last letter of a word in a given `text`. The function should return a dictionary that has each occurring last letter as keys, and the number of times that specific letter occurred as a value. For the text `"This is an example."` the keys would be `'s'`, `n`, and `e`. Their corresponding values would be `2`, `1`, and `1`.
+
+    last_letters = count_last_letters('His target is another diploma is it Is it common going for more than one')
+    print(last_letters)
+
+Should print:
+
+    {'s': 4, 't': 3, 'r': 2, 'a': 1, 'n': 2, 'g': 1, 'e': 2}
+
+Note: You might get a different ordering when printing the keys in your dictionary. As dictionaries are essentially unordered, this is not a problem, as long as the key-value pairs in the dictionary are correct.
+
+Hint: You can split a text with spaces into a list of words using the `.split(' ')` method.
+
+# 4. More cars
+
+[Download the `mgp.csv` file.](../data/mpg.csv)
+
+The file `mpg.csv` ("mpg" stands for "miles per gallon") contains data of cars from three different areas of the world: Europe, Japan, and USA. In this exercise, you will use `mpg.csv` to answer a question about the data. The contents of the file look as follows:
+
+    mpg,cylinders,displacement,horsepower,weight,acceleration,model_year,origin,name
+    18.0,8,307.0,130.0,3504,12.0,70,usa,chevrolet chevelle malibu
+    15.0,8,350.0,165.0,3693,11.5,70,usa,buick skylark 320
+    ...
+    44.0,4,97.0,52.0,2130,24.6,82,europe,vw pickup
+    32.0,4,135.0,84.0,2295,11.6,82,usa,dodge rampage
+    28.0,4,120.0,79.0,2625,18.6,82,usa,ford ranger
+    31.0,4,119.0,82.0,2720,19.4,82,usa,chevy s-10
+
+As you can see, there are fields separated by commas. For each car the file contains the following information:
+
+1. mpg: the miles per gallon
+2. cylinders: the number of cylinders in the engine
+3. displacement: the total volume of all cylinders the engine in centiliters
+4. horsepower: the power of the engine in horsepower
+5. weight: the weight of the car in pounds
+6. acceleration: time in seconds to accelerate to 60 mph
+7. model_year: the model year
+8. origin: the area of origin
+9. name: the full name of this model of car
+
+Write a function `displacement_timeframe_cars(filename, year_start, year_end)` that can calculate the average `'displacement'` of all cars that have a `model_year` from `year_start` up to and including `year_end`.
+
+    filename = 'data/mpg.csv'
+    year_start = 72
+    year_end = 80
+    displacement = displacement_timeframe_cars(filename, year_start, year_end)
+    print(f'The average displacement of cars between {year_start} and {year_end} is {displacement} centiliters')
+
+Should print:
+
+    The average displacement of cars between 72 and 80 is 195.83807829181495 centiliters
