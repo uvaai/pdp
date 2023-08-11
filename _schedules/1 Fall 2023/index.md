@@ -27,19 +27,21 @@ questions.
 
 ## Schedule 
 
-The core schedule for this course, combined with Introduction to Machine Learning 1, is
-built around working with the material each weekday from 9 to 5.  For this we
-have one room on the Science Park campus permanently reserved for minor AI
-students, namely **L0.10**, which provides enough space for all of you to work
-on campus full-time.
+The core schedule for this course, combined with Introduction to Machine
+Learning 1, is built around working with the material each weekday from 9 to 5.
+For this we have one room on the Science Park campus permanently reserved for
+minor AI students, namely **L0.11**. This room provides enough space for every
+student to work on campus for 4 hours each day in divided morning and afternoon
+slots. The other 4 hours can either be done in the on-campus study spaces or at
+home.
 
 Most on-campus activities, including practical assistance, will generally be
 held in this room. There are some exceptions with activities that do not fit
 in the room, like the group seminars and the exam. The schedule for these 
-group seminars can be found on Datanose [here](https://datanose.nl/#course[111293])
+group seminars can be found on Datanose [here](https://datanose.nl/#course[119433])
 
-The schedule for the practical assistance hours and lectures that will be held
-in L0.10 can be found in the "Asking Questions" section below.
+The schedule for the practical assistance and office hours that will be held in
+L0.11 can be found in the "Asking Questions" section below.
 
 ### Deadlines and daily schedules
 
@@ -57,15 +59,18 @@ If you're finding it hard to keep on track with the daily schedule, you can
 contact the staff at <minorai@mprog.nl>. We can discuss possible approaches or
 even offer extra help or resources, if needed. In general, it is a good idea to
 already contact us if are more than 1 day behind on the schedule, so we can
-look at possible solutions early.
+look at possible solutions early. One of the possible solution would be to
+request access to extra assistance hours, as described in the "Requesting extra
+assistance" section below. Other solutions will depend on the specifics of your
+situation and the difficulties you're having, so will require sending an email.
 
 #### Part-time students
 
-If you are a part-time student, you can just follow the part of the daily
-schedule intended for your half of the program. You should still attend the
-group seminars with the other students, but can otherwise choose which days
-you are present and which days of practical assistance combine best
-with your own schedule.
+If you are a part-time student, you can just follow the *Python for Data
+Processing* half of the daily schedule. You should still attend the group
+seminars with the other students, as scheduled [here](https://datanose.nl/#course[119433]),
+but can otherwise choose which days of practical assistance combine best with
+your own schedule.
 
 ### Absences and calling in sick
 
@@ -80,13 +85,6 @@ module.  Note that this option requires you to have also already messaged your
 TA at the start of your absense. Any exceptions or extensions required for this
 will need to be discussed with course staff (so not your TA). See the extension
 policy below for more details.
-
-If you are experiencing coronavirus-related symptoms, but are feeling fit
-enough otherwise, you should do a self-test. If the self-test is negative, you
-can and should still come to campus. If the self-test is positive, you should
-report in sick, like described above, but work from home instead. When
-contacting your group TA, do also mention that you are absent because of a
-positive self-test, so we know you are working from home.
 
 ### Extension policy and late days
 
@@ -146,12 +144,15 @@ The hours are scheduled as follows:
 * On Monday there are group seminars in the morning, so the assistance hours are from 13 to 16
 * If there is a Q&A lecture listed in the daily schedule, the assistance will start after the Q&A, generally from 11 to 14
 
+#### Requesting extra assistance
+
+
 ### Q & A Lectures
 
 Every module there will be at least one Q & A lecture, where you can ask
 questions about the theoretical parts of the course. The schedule for these
 lectures can be found as part of the daily schedule for the module. The lectures
-will always be in the main room L0.10 at 10:00 on the scheduled day.
+will always be in the main room L0.11 at 10:00 on the scheduled day.
 
 These Q & A sessions will generally be scheduled the day after you should watch
 the theory videos of the module. While watching the videos, you can write
@@ -332,7 +333,7 @@ Below are rules of thumb that (inexhaustively) characterize acts that the course
 
 - Asking a classmate to see his or her solution to a problem set's problem before (re-)submitting your own.
 
-- Decompiling, deobfuscating, or disassembling the staff's solutions to problem sets.
+- Asking ChatGPT or other large language model to write the code for (part of) an assignment for you.
 
 - Failing to cite (as with comments) the origins of code or techniques that you discover outside of the course's own lessons and integrate into your own work, even while respecting this policy's other constraints.
 
