@@ -2,7 +2,7 @@
 
 University of Amsterdam / Programming Lab / 5082PFDP6Y
 
-## Syllabus<br><small>Spring 2023</small>
+## Syllabus<br><small>Fall 2023</small>
 
 Welcome to this programming course! In the weeks ahead, you'll use the Python
 programming language while learning to solve scientific problems from several
