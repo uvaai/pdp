@@ -32,8 +32,8 @@ Learning 1, is built around working on the combined material each weekday from
 9 to 5.  For this we have one room on the Science Park campus permanently
 reserved for minor AI students, namely **L0.11**. This room provides enough
 space for every student to work on campus for 4 hours each day in divided
-morning and afternoon slots
-.
+morning and afternoon slots.
+
 ### Room scheduling
 
 On *Monday* there are group seminars with your own TA. For groups A, B and C
