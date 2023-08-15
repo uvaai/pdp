@@ -27,21 +27,39 @@ questions.
 
 ## Schedule 
 
-The core schedule for this course, combined with Introduction to Machine
-Learning 1, is built around working with the material each weekday from 9 to 5.
-For this we have one room on the Science Park campus permanently reserved for
-minor AI students, namely **L0.11**. This room provides enough space for every
-student to work on campus for 4 hours each day in divided morning and afternoon
-slots. The other 4 hours can either be done in the on-campus study spaces or at
-home.
+The core schedule for this course, together with Introduction to Machine
+Learning 1, is built around working on the combined material each weekday from
+9 to 5.  For this we have one room on the Science Park campus permanently
+reserved for minor AI students, namely **L0.11**. This room provides enough
+space for every student to work on campus for 4 hours each day in divided
+morning and afternoon slots
+.
+### Room scheduling
 
-Most on-campus activities, including practical assistance, will generally be
-held in this room. There are some exceptions with activities that do not fit
-in the room, like the group seminars and the exam. The schedule for these 
-group seminars can be found on Datanose [here](https://datanose.nl/#course[119433])
+On *Monday* there are group seminars with your own TA. For groups A, B and C
+these are scheduled in the afternoon, and for groups D, E, F and G these are
+scheduled in the morning. The exact times and rooms for your group seminars, as
+well as which group you are in, can be found on Datanose [here](https://datanose.nl/#course[119433]).
 
-The schedule for the practical assistance and office hours that will be held in
-L0.11 can be found in the "Asking Questions" section below.
+The division of morning and afternoon slots in the main room **L0.11** also
+depends on which seminar group you are, as follows:
+
+|               | Monday    | Tuesday   | Wednesday | Thursday  | Friday    |
+|---------------|-----------|-----------|-----------|-----------|-----------|
+| 09:00 - 13:00 | ABC       | DEFG      | DEFG      | ABC       | ABC       |
+| 13:00 - 17:00 | DEFG      | ABC       | ABC       | DEFG      | DEFG      |
+
+Most on-campus activities, including the practical assistance, will generally
+be in this room during these slots. There are two hours of practical assistance
+every day for both slots. For the morning slot, there is practical assistance
+from **10:00 to 12:00** and for the afternoon slot there is practical
+assistance from **13:00 to 15:00**.
+
+Note that we have full group this semester, and so it will only be possible to
+work in L0.11 during your scheduled slots. For the other half of your day,
+you can work in one of the study spaces spread throughout Lab42. These are
+indicated as *Library Learning Space* on the signs and can be found in rooms
+**L0.05, L1.09 L1.15, L1.16 and L2.08**.
 
 ### Deadlines and daily schedules
 
@@ -72,6 +90,59 @@ seminars with the other students, as scheduled [here](https://datanose.nl/#cours
 but can otherwise choose which days of practical assistance combine best with
 your own schedule.
 
+## Asking questions
+
+If you have any questions about the material, there are several ways to ask them 
+and get assistance.
+
+### Practical assistance
+
+There are 2 hours scheduled *every day* where you can ask practical questions
+to the TA's of the minor. Depending on your seminar group and the day of the
+week, this is either in morning starting from 10:00 or in the afternoon
+starting from 13:00 (see the "Room Scheduling" section above for more details).
+
+During these hours you can use the "Assistance" feature on the *Introduction to
+Machine Learning 1* [website](https://ml1.proglab.nl/), using the question mark
+symbol on the right side of the topbar. Please use this feature instead of
+raising your hand in class, as it ensures that all questions get handled in the
+order that they are asked. Questions can of be about either the PDP or ML1
+courses, just make sure to mention what assignment you're working on. For your
+location, please list the  table you are working at, so the TA handling your
+question knows where to find you when it is your turn.
+
+### Office hours
+
+Students in the minor AI, as with any minor, tend to come from very diverse
+backgrounds, which makes a traditional centralize lecture aimed at all students
+difficult. So, instead the course content is mainly presented using theory
+videos and reading material, while the staff is also frequently available for
+questions.
+
+Every module there will be at least one planned set of office hours, where you
+can ask the staff any questions you might have about theoretical parts of the
+course. The schedule for these office hours can be found as part of the daily
+schedule for the module. The office hours will always be together with the
+practical assistance hours in the main room L0.11.
+
+During the office hours, you can use the same "Assistance" feature to ask any
+further explanations on the theory of that module. Simply start your question
+description with "[00]" to indicate it is for staff. If these explanations are
+relevant relevant for a larger number of students, they might be covered on the
+board, but in general, questions will be answered individually or in smaller
+groups. The office hours can also be used for any other matters you might want
+to discuss with staff, such as personal matters or an alternate planning.
+
+### Email the staff
+
+If you have personal matters to discuss or other questions that do not fit any
+of the formats above, you can email the course staff at <minorai@mprog.nl>
+
+## Exceptions
+
+Below you can kind the policies for the different kinds of possible exceptions
+and circumstances.
+
 ### Absences and calling in sick
 
 If you are sick or are otherwise unable to come to campus, you should inform 
@@ -81,10 +152,38 @@ registered.
 
 Depending on how long you were sick, and if you are behind with the module, you
 can then also contact the course staff to discuss an alternate planning for the
-module.  Note that this option requires you to have also already messaged your
+module. Note that this option requires you to have also already messaged your
 TA at the start of your absense. Any exceptions or extensions required for this
 will need to be discussed with course staff (so not your TA). See the extension
 policy below for more details.
+
+### Requesting extra assistance
+
+If you're having difficulty with the material and would like more opportunities
+to ask your questions, it is possible to request attending *both* daily
+practical assistance timeslots for the remainder of a module. Given the groups
+are quite full this semester, we will not be able to grant this to many
+students, but we'll still use these requests to make use of those extra spaces
+that are available.
+
+Note that this policy is only intended as *additional* assistance for students
+already attending all their regular practical assistance slots. This means that
+we'll only try to grant these requests in the following cases:
+
+* You are are a full-time student and have attended all your practical
+assistance slots and group seminars for the module up to that point.
+
+* You are are a part-time student and have attended half your practical
+assistance slots and the group seminars for the module up to that point.
+
+* You do not meet one of the critera above, but have been sick and registered
+this absense with your TA as described above in "Absenses and calling in sick"
+
+You can use the "Extra assist" button in the topbar of the *Introduction to
+Machine Learning 1* [website](https://ml1.proglab.nl). You must always submit
+your extra assistance for a module. Once you've submitted the form there, the
+details of your request will be reviewed and you'll get a reply from the staff
+via email.
 
 ### Extension policy and late days
 
@@ -102,7 +201,7 @@ depend on the details of your circumstances.
 In addition, for this course and Introduction to Machine Learning 1, you have a
 combined total of 2 late days, each of which you can use to get a single 24
 hour extension for the module deadline. You can request a late day using the
-submit forms linked in the sidebar of the *Introduction to Machine Learning 1* 
+submit forms linked in the topbar of the *Introduction to Machine Learning 1* 
 [website](https://ml1.proglab.nl). You must always submit your
 request *before* the deadline expires. Any submissions received after the
 deadline without a requested late day will not be graded, meaning your grade
@@ -121,50 +220,6 @@ If you do not receive a reply in time, you should *always* still submit your
 current version of the assignment before the deadline, so this part can still be
 graded. Staff extension requests should be emailed to <minorai@mprog.nl>
 
-## Asking questions
-
-If you have any questions about the material, there are several ways to ask them 
-and get assistance. 
-
-### Practical assistance
-
-There are 3 hours scheduled every day where you can ask practical
-questions to the TA's of the minor. During these hours you can use the
-"Request assistance" feature on the *Introduction to Machine Learning 1* [website](https://ml1.proglab.nl/), 
-using the question mark symbol at the top of the sidebar. Please use this feature instead of raising your hand
-in class, as it ensures that all questions get handled in the order that they 
-are asked. Questions can of be about either the PDP or ML1 courses, just make 
-sure to mention what assignment you're working on. For your location, please 
-list the  table you are working at, so the TA handling your question knows 
-where to find you when it is your turn.
-
-The hours are scheduled as follows:
-
-* In general, assistance hours are from 10 to 13
-* On Monday there are group seminars in the morning, so the assistance hours are from 13 to 16
-* If there is a Q&A lecture listed in the daily schedule, the assistance will start after the Q&A, generally from 11 to 14
-
-#### Requesting extra assistance
-
-
-### Q & A Lectures
-
-Every module there will be at least one Q & A lecture, where you can ask
-questions about the theoretical parts of the course. The schedule for these
-lectures can be found as part of the daily schedule for the module. The lectures
-will always be in the main room L0.11 at 10:00 on the scheduled day.
-
-These Q & A sessions will generally be scheduled the day after you should watch
-the theory videos of the module. While watching the videos, you can write
-down any questions you might have. There will be a question form linked
-in the schedule, where you can submit your questions beforehand. Based on
-the submitted questions, we'll discuss any part of the theory the might
-need more clarification or context.
-
-### Email the staff
-
-If you have personal matters to discuss or other questions that do not fit any
-of the formats above, you can email the course staff at <minorai@mprog.nl>
 
 ## Passing the course
 
