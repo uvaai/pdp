@@ -41,8 +41,9 @@ these are scheduled in the afternoon, and for groups D, E, F and G these are
 scheduled in the morning. The exact times and rooms for your group seminars, as
 well as which group you are in, can be found on Datanose [here](https://datanose.nl/#course[119433]).
 
-The division of morning and afternoon slots in the main room **L0.11** also
-depends on which seminar group you are, as follows:
+The spaces in the main room **L0.11** are divided into morning and afternoon
+slots. The division of these slots for each day depends on which seminar group
+you are in:
 
 |               | Monday    | Tuesday   | Wednesday | Thursday  | Friday    |
 |---------------|-----------|-----------|-----------|-----------|-----------|
@@ -114,10 +115,10 @@ question knows where to find you when it is your turn.
 ### Office hours
 
 Students in the minor AI, as with any minor, tend to come from very diverse
-backgrounds, which makes a traditional centralize lecture aimed at all students
-difficult. So, instead the course content is mainly presented using theory
-videos and reading material, while the staff is also frequently available for
-questions.
+backgrounds, which makes a traditional centralized lecture aimed at all
+students difficult. So, instead the course content is mainly presented using
+theory videos and reading material, while the staff is also frequently
+available for questions.
 
 Every module there will be at least one planned set of office hours, where you
 can ask the staff any questions you might have about theoretical parts of the
