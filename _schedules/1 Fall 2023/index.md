@@ -88,8 +88,8 @@ situation and the difficulties you're having, so will require sending an email.
 If you are a part-time student, you can just follow the *Python for Data
 Processing* half of the daily schedule. You should still attend the group
 seminars with the other students, as scheduled [here](https://datanose.nl/#course[119433]),
-but can otherwise choose which days of practical assistance combine best with
-your own schedule.
+but can otherwise choose which of your daily practical assistance slots combine
+best with your own schedule.
 
 ## Asking questions
 
@@ -284,13 +284,13 @@ determined as follows:
 
 ### Attendance
 
-We expect you to be present and working on campus every weekday from 9 to 5.
-The material of these course covers a lot of practical skills, which cannot
-just be learned from reading a book or watching a video. This means we expect
-you'll need to ask plenty questions while working on assignments, as you try and
-master these different skills. This is why we offer a lot practical assistance,
-so there is a chance for you to ask the questions you have about the
-scheduled material *every day*.
+As a full-time student, we expect you to be present and working on campus every
+weekday from 9 to 5. The material of these course covers a lot of practical
+skills, which cannot just be learned from reading a book or watching a video.
+This means we expect you'll need to ask plenty questions while working on
+assignments, as you try and master these different skills. This is why we offer
+a lot practical assistance, so there is a chance for you to ask the questions
+you have about the scheduled material *every day*.
 
 In spite of this, we maintain a soft attendance requirement. This means that 
 there is no hard rule stating that if you miss a certain percentage of days,
@@ -353,74 +353,129 @@ the remainder of the book on [this website](https://greenteapress.com/wp/think-p
 
 ## Academic honesty
 
-This course's philosophy on academic honesty is best stated as "be reasonable." The course recognizes that interactions with classmates and others can facilitate mastery of the course's material. However, there remains a line between enlisting the help of another and submitting the work of another. This policy characterizes both sides of that line.
+This course's philosophy on academic honesty is best stated as "be reasonable".
+The course recognizes that interactions with classmates and others can
+facilitate mastery of the course's material. However, there remains a line
+between enlisting the help of another and submitting the work of another. This
+policy characterizes both sides of that line.
 
-The essence of all work that you submit to this course must be your own. Collaboration on problem sets is not permitted except to the extent that you may ask classmates and others for help so long as that help does not reduce to another doing your work for you. Generally speaking, when asking for help, you may show your code to others, but you may not view theirs, so long as you and they respect this policy's other constraints. Collaboration on the course's test and quiz is not permitted at all.
+### Collaboration
 
-Below are rules of thumb that (inexhaustively) characterize acts that the course considers reasonable and not reasonable. If in doubt as to whether some act is reasonable, do not commit it until you solicit and receive approval in writing from the course's heads. Acts considered not reasonable by the course are handled harshly.
+The essence of all work that you submit in this course must be your own.
+This means that for collaboration with other students you can discuss
+the material and consider possible approaches together, but you should then
+always still each write your own code. So, conferring together using language
+and whiteboards is permitted and even encouraged, but sharing lines of code is
+not.
 
-### Reasonable
+Note that looking at another students screen or solution file at this stage
+will usually result in that option becoming *the* solution to the problem, and
+so instead of learning and considering all the possibilities, you just end up
+trying to recreate the solution you already saw. As there usually quite a few
+different ways to solve programming problems, this can even end up with code
+that is similar enough in structure that it is caught by our automated
+plagiarism detector.
 
-- Communicating with classmates about problem sets' problems in English (or some other spoken language).
+### Helping other students
+
+Once you've completed a part of an assignment, viewing other student soluting
+is fine and can even be very helpful. At this point you can help other students
+to find bugs in their code, or even do a code review together when you're both
+done. Helping other students to find bugs in their code is something that is
+also definitely encouraged, but this should always be limited to suggestions on
+what to try next, not fixing the code for them. If you are trying to suggest a
+fix, but cannot do so without sharing your own code (which is common enough
+when you are still learning!), then you should refer the problem to a TA or
+teacher instead.
+
+The general principle here is that you can look at anothers code to help fix a
+bug, but they cannot look at your code for ideas on how to solve it. Note that
+sharing a solution with someone who has not yet completed that part of the
+assignment is considered plagiarism just as much as handing in another students
+solution. Doing this deprives the other student from learning what they need
+to learn in that assignment, which will only make it more difficult for them to
+solve subsequent assignments on their own.
+
+### Using online tools
+
+Searching for solutions to (parts of) the assigments online is obviously not
+permitted. This explicitly also includes asking ChatGPT or other large language
+models to write the code for you, which is consider plagiarism just as much as
+copying a solution written by another human.
+
+What is permitted though, is searching for explanations on how to use certain
+functions or perform specific operations in Python. So, searching for *"how do
+I add an element to a list in Python"* would be perfectly fine, while searching
+for *"how do I print a Mario pyramid in Python"* would not. If your search
+leads to a Stack Overflow page or similar resource, which gives an example of
+how to perform an operation, you should always cite the source as a comment
+in your own code. This citation comment should contain the original link and
+clearly indicate which parts you did not write yourself, but came from the
+online example.
+
+As a student it can sometimes be hard to estimate what is and isn't ok to
+search for online, which is logical while you are still learning. We stongly
+recommend that you err on the side of caution with this, and ask staff
+permission beforehand for a specific search when in doubt. As this is an
+introductory course, you should actually be able to find all the relevant
+Python instructions on the pages of this course without needing to search
+online at all.
+
+### Rules and guidelines
+
+Below are rules of thumb that (inexhaustively) characterize acts that the
+course considers reasonable and not reasonable. If in doubt as to whether some
+act is reasonable, do not commit it until you solicit and receive approval in
+writing from the course's staff. Acts considered not reasonable by the course
+are handled harshly.
+
+In all cases we follow the directives regarding fraud and plagiarism of the
+University of Amsterdam and of the Kunstmatige Intelligentie BSc programme.
+Find them here in [English] and [Dutch].
+
+[Dutch]: http://uva.nl/plagiaat
+[English]: https://student.uva.nl/en/content/az/plagiarism-and-fraud/plagiarism-and-fraud.html
+
+#### Reasonable
+
+- Communicating with classmates about assignments in English, Dutch, or some other spoken language.
 
 - Discussing the course's material with others in order to understand it better.
 
-- Helping a classmate identify a bug in his or her code at office hours, elsewhere, or even online, as by viewing, compiling, or running his or her code, even on your own computer.
+- Helping a classmate identify a bug in his or her code, elsewhere, or even online, as by viewing, or running his or her code, even on your own computer.
 
 - Incorporating a few lines of code that you find online or elsewhere into your own code, provided that those lines are not themselves solutions to assigned problems and that you cite the lines' origins.
-
-- Reviewing past semesters' quizzes and solutions thereto.
 
 - Sending or showing code that you've written to someone, possibly a classmate, so that he or she might help you identify and fix a bug.
 
 - Sharing a few lines of your own code online so that others might help you identify and fix a bug.
 
-- Turning to the course's heads for help or receiving help from the course's heads during the quiz or test.
-
-- Turning to the web or elsewhere for instruction beyond the course's own, for references, and for solutions to technical difficulties, but not for outright solutions to assignment problems or your own final project.
+- Turning to the web or elsewhere for instruction beyond the course's own, for references, and for solutions to technical difficulties, but not for outright solutions to assignment problems.
 
 - Whiteboarding solutions to problem sets with others using diagrams or pseudocode but not actual code.
 
 - Working with (and even paying) a tutor to help you with the course, provided the tutor does not do your work for you.
 
-### Not Reasonable
+#### Not Reasonable
 
-- Accessing a solution to some problem prior to (re-)submitting your own.
+- Searching for or soliciting outright solutions to assignments online or elsewhere.
 
 - Asking a classmate to see his or her solution to a problem set's problem before (re-)submitting your own.
 
-- Asking ChatGPT or other large language model to write the code for (part of) an assignment for you.
+- Asking ChatGPT or other large language models to write the code for (part of) an assignment for you.
 
 - Failing to cite (as with comments) the origins of code or techniques that you discover outside of the course's own lessons and integrate into your own work, even while respecting this policy's other constraints.
 
-- Giving or showing to a classmate a solution to a problem set's problem when it is he or she, and not you, who is struggling to solve it.
-
-- Looking at another individual's work during the test or quiz.
+- Giving or showing to a classmate a solution to part of an assignment when it is he or she, and not you, who is struggling to solve it.
 
 - Paying or offering to pay an individual for work that you may submit as (part of) your own.
 
-- Providing or making available solutions to problem sets to individuals who might take this course in the future.
+- Providing or making available solutions to assignments to individuals who might take this course in the future.
 
-- Searching for or soliciting outright solutions to problem sets online or elsewhere.
+- Splitting an assignment's workload with another individual and combining your work.
 
-- Splitting a problem set's workload with another individual and combining your work.
+- Submitting (after possibly modifying) the work of another individual.
 
-- Submitting (after possibly modifying) the work of another individual beyond the few lines allowed herein.
-
-- Submitting the same or similar work to this course that you have submitted or will submit to another.
-
-- Submitting work to this course that you intend to use outside of the course (e.g., for a job) without prior approval from the course's heads.
-
-- Turning to humans (besides the course's heads) for help or receiving help from humans (besides the course's heads) during the quiz or test.
-
-- Viewing another's solution to a problem set's problem and basing your own solution on it.
-
-In all cases we follow the directives regarding fraud and plagiarism of the
-University of Amsterdam and of the Computer Science
-BSc programme. Find them here in [English] and [Dutch].
-
-[Dutch]: http://uva.nl/plagiaat
-[English]: https://student.uva.nl/en/content/az/plagiarism-and-fraud/plagiarism-and-fraud.html
 
 ## Acknowledgements
 
