@@ -12,15 +12,33 @@ templates:
         hide_calculated: true
 
 grades:
-    module1: *check_off
-    module2: *check_off
-    module3: *manual
-    module4: *manual
-    q1_complexity: *check_off
-    q2_complexity: *check_off
-    q3_complexity: *check_off
-    module5: *manual
-    module6: *manual
+    module1:
+        <<: *check_off
+        deadline: 08/09/23 17:59
+    module2:
+        <<: *check_off
+        deadline: 15/09/23 17:59
+    module3:
+        <<: *manual
+        deadline: 22/09/23 17:59
+    module4:
+        <<: *manual
+        deadline: 02/10/23 17:59
+    q1_complexity:
+        <<: *check_off
+        deadline: 10/10/23 17:59
+    q2_complexity:
+        <<: *check_off
+        deadline: 10/10/23 17:59
+    q3_complexity:
+        <<: *check_off
+        deadline: 10/10/23 17:59
+    module5:
+        <<: *manual
+        deadline: 10/10/23 17:59
+    module6:
+        <<: *manual
+        deadline: 18/10/23 17:59
     exam: *check_off
     exam2: *check_off
     oral: *check_off
