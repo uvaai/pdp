@@ -25,7 +25,7 @@ questions.
 1. Read more of the syllabus below.
 2. [Install](/python/en/installing/computer) Python and other prerequisites.
 
-## Schedule 
+## Schedule
 
 The core schedule for this course, together with Introduction to Machine
 Learning 1, is built around working on the combined material each weekday from
@@ -93,7 +93,7 @@ best with your own schedule.
 
 ## Asking questions
 
-If you have any questions about the material, there are several ways to ask them 
+If you have any questions about the material, there are several ways to ask them
 and get assistance.
 
 ### Practical assistance
@@ -146,7 +146,7 @@ and circumstances.
 
 ### Absences and calling in sick
 
-If you are sick or are otherwise unable to come to campus, you should inform 
+If you are sick or are otherwise unable to come to campus, you should inform
 your group TA you will be absent by sending them a message on Slack. When you
 are feeling better, inform your TA again, so your period of absence can be
 registered.
@@ -202,17 +202,17 @@ depend on the details of your circumstances.
 In addition, for this course and Introduction to Machine Learning 1, you have a
 combined total of 2 late days, each of which you can use to get a single 24
 hour extension for the module deadline. You can request a late day using the
-submit forms linked in the topbar of the *Introduction to Machine Learning 1* 
+submit forms linked in the topbar of the *Introduction to Machine Learning 1*
 [website](https://ml1.proglab.nl). You must always submit your
 request *before* the deadline expires. Any submissions received after the
 deadline without a requested late day will not be graded, meaning your grade
 will default to a 1.
 
-You can use only 1 late day per module to get a 24 hour extension on the deadline. 
+You can use only 1 late day per module to get a 24 hour extension on the deadline.
 This extension is for the whole module, so applies to both courses. If the deadline
-is on a Friday, using  a single late day will instead grant a 48 hour extension 
+is on a Friday, using  a single late day will instead grant a 48 hour extension
 over the weekend, meaning your deadline will move to Sunday. If you have used both
-late days, or require more than 24 hours of extension, you may still try and 
+late days, or require more than 24 hours of extension, you may still try and
 request a staff extension.
 
 Any staff extension request needs to be agreed upon before the deadline expires,
@@ -292,12 +292,12 @@ assignments, as you try and master these different skills. This is why we offer
 a lot practical assistance, so there is a chance for you to ask the questions
 you have about the scheduled material *every day*.
 
-In spite of this, we maintain a soft attendance requirement. This means that 
+In spite of this, we maintain a soft attendance requirement. This means that
 there is no hard rule stating that if you miss a certain percentage of days,
 you will fail the course, i.e. attendance does not directly affect your final
 grade.
 
-However, indirectly attendance definitely will affect your grade. The material 
+However, indirectly attendance definitely will affect your grade. The material
 requires you to work regularly on the assignments and ask questions along the
 way so you don't get stuck. This means if you are not on campus, you are much
 more likely to get stuck longer and thus end up with too little time before the
@@ -378,7 +378,7 @@ plagiarism detector.
 
 ### Helping other students
 
-Once you've completed a part of an assignment, viewing other student soluting
+Once you've completed a part of an assignment, viewing another student's solution
 is fine and can even be very helpful. At this point you can help other students
 to find bugs in their code, or even do a code review together when you're both
 done. Helping other students to find bugs in their code is something that is
@@ -388,7 +388,7 @@ fix, but cannot do so without sharing your own code (which is common enough
 when you are still learning!), then you should refer the problem to a TA or
 teacher instead.
 
-The general principle here is that you can look at anothers code to help fix a
+The general principle here is that you can look at another's code to help fix a
 bug, but they cannot look at your code for ideas on how to solve it. Note that
 sharing a solution with someone who has not yet completed that part of the
 assignment is considered plagiarism just as much as handing in another students
@@ -398,7 +398,7 @@ solve subsequent assignments on their own.
 
 ### Using online tools
 
-Searching for solutions to (parts of) the assigments online is obviously not
+Searching for solutions to (parts of) the assignments online is obviously not
 permitted. This explicitly also includes asking ChatGPT or other large language
 models to write the code for you, which is consider plagiarism just as much as
 copying a solution written by another human.
@@ -414,7 +414,7 @@ clearly indicate which parts you did not write yourself, but came from the
 online example.
 
 As a student it can sometimes be hard to estimate what is and isn't ok to
-search for online, which is logical while you are still learning. We stongly
+search for online, which is logical while you are still learning. We strongly
 recommend that you err on the side of caution with this, and ask staff
 permission beforehand for a specific search when in doubt. As this is an
 introductory course, you should actually be able to find all the relevant
