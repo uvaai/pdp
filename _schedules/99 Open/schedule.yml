@@ -97,7 +97,7 @@ Module 4 [25/9/23]:
         Introduction: /monopoly/en/
         Learn about debugging simulations [theory]: /python/en/debugging
         Moving around the board [assignment]: /monopoly/en/moving-around
-        Default arguments [theory]: /python/en/default-arguments
+        "Design: default arguments [theory]": /python/en/default-arguments
         Using starting funds and buying stuff [assignment]: /monopoly/en/money
         Add a player and restore the balance [assignment]: /monopoly/en/two-player
 
