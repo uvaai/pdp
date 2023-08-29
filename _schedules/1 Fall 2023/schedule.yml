@@ -137,7 +137,7 @@ Module 6 [11/10/23]:
         Default arguments [theory]: /python/en/default-arguments
         Keyword arguments [theory]: /python/en/keyword-arguments/kwargs
     Numpy:
-        Using Numpy effectively [practice]: /numpy_pandas/numpy
+        Numpy [practice]: /numpy_pandas/numpy
     Pandas:
         Pandas [practice]: /numpy_pandas/pandas
     Survival:
