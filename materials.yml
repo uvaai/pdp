@@ -23,5 +23,5 @@ survival:
     remote: https://github.com/spcourse/survival.git
     branch: main
 numpy_practice:
-    remote: https://github.com/uvaai/numpy_practice.git
+    remote: https://github.com/uvaai/numpy_pandas.git
     branch: main
