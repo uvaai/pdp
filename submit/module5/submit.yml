@@ -1,5 +1,6 @@
 name: module5
 files:
     required:
+        - questions.txt
         - jaccard.py
         - word_index.py

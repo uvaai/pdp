@@ -24,15 +24,6 @@ grades:
     module4:
         <<: *manual
         deadline: 02/10/23 17:59
-    q1_complexity:
-        <<: *check_off
-        deadline: 10/10/23 17:59
-    q2_complexity:
-        <<: *check_off
-        deadline: 10/10/23 17:59
-    q3_complexity:
-        <<: *check_off
-        deadline: 10/10/23 17:59
     module5:
         <<: *manual
         deadline: 10/10/23 17:59
