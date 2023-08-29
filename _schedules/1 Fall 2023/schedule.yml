@@ -133,14 +133,13 @@ Module 5 [3/10/23]:
 
 Module 6 [11/10/23]:
     Schedule: /modules/m6
-    Introduction: /survival/
     Function arguments:
         Default arguments [theory]: /python/en/default-arguments
         Keyword arguments [theory]: /python/en/keyword-arguments/kwargs
     Numpy:
-        Using Numpy effectively [practice]: /numpy_practice/
+        Numpy [practice]: /numpy_pandas/numpy
     Pandas:
-        Pandas [practice]: /survival/pandas
+        Pandas [practice]: /numpy_pandas/pandas
     Survival:
         Survival [assignment]: /survival/survival
     Submit:
