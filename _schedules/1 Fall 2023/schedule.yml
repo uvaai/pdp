@@ -85,7 +85,7 @@ Module 3 [18/9/23]:
         Learn to analyse and process a data set [practice]: /python/en/files
         For loop design [theory]: /python/en/loops/element-vs-index
         Dig around in KNMI temperature data [assignment]: /bigdata/en/temperatures
-        "Optional: improving football_analysis.py [assignment]": /python/en/files/design 
+        "Optional: improving football_analysis.py [assignment]": /python/en/files/design
     Submit:
         Learn about design [theory]: /python/en/design
         Submit your solutions: /submit/module3
@@ -140,8 +140,8 @@ Module 6 [11/10/23]:
         Numpy [practice]: /numpy_pandas/numpy
     Pandas:
         Pandas [practice]: /numpy_pandas/pandas
-    Survival:
-        Survival [assignment]: /survival/survival
+    Mushrooms:
+        Mushrooms [assignment]: /numpy_pandas/mushrooms
     Submit:
         Submit your solutions: /submit/module6
 
