@@ -53,8 +53,9 @@ you are in:
 Most on-campus activities, including the practical assistance, will generally
 be in this room during these slots. There are two hours of practical assistance
 every day for both slots. For the morning slot, there is practical assistance
-from **10:00 to 12:00** and for the afternoon slot there is practical
-assistance from **13:00 to 15:00**.
+each day from **10:00 to 12:00**, except on Monday, when it is from **11:00
+to 13:00** instead.  For the afternoon slot, the practical assistance is always
+from **13:00 to 15:00**.
 
 Note that we have full group this semester, and so it will only be possible to
 work in L0.11 during your scheduled slots. For the other half of your day,
