@@ -5,8 +5,8 @@ The deadline for both Python for Data Processing and Introduction to Machine Lea
 
 | Day                | Python for<br>Data Processing | Introduction to<br>Machine Learning      | Seminars          |
 |--------------------|-------------------------------|------------------------------------------|-------------------|
-| Wednesday<br>11/10 | Function arguments<br>+ Numpy: Assignment 4 | Theory videos<br>+ k-Means: Assignment 1 |     |
-| Thursday<br>12/10  | Numpy: Assignment 6b          | k-Means: Assignment 3                    | Office hours      |
+| Wednesday<br>11/10 | Function arguments<br>+ Numpy: Exercise 4 | Theory videos<br>+ k-Means: Assignment 1 |       |
+| Thursday<br>12/10  | Numpy: Exercise 6b            | k-Means: Assignment 3                    | Office hours      |
 | Friday<br>13/10    | Pandas: Exercise 7            | k-Means: Assignment 5                    |                   |
 |                    |                               |                                          |                   |
 | Monday<br>16/10    | Pandas: Exercise 15           | k-Means: Assignment 8                    | Group seminar     |
