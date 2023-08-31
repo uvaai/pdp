@@ -137,9 +137,9 @@ Module 6 [11/10/23]:
         Default arguments [theory]: /python/en/default-arguments
         Keyword arguments [theory]: /python/en/keyword-arguments/kwargs
     Numpy:
-        Using Numpy effectively [practice]: /numpy_practice/
+        Numpy [practice]: /numpy_pandas/numpy
     Pandas:
-        Pandas [practice]: /survival/pandas
+        Pandas [practice]: /numpy_pandas/pandas
     Mushrooms:
         Mushrooms [assignment]: /numpy_pandas/mushrooms
     Submit:
