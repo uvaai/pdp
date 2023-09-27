@@ -1,5 +1,4 @@
 name: module6
 files:
     required:
-        - pandas.ipynb
-        - survival.ipynb
+        - mushrooms.ipynb
