@@ -22,6 +22,6 @@ python:
 survival:
     remote: https://github.com/spcourse/survival.git
     branch: main
-numpy_pandas:
-    remote: https://github.com/uvaai/numpy_pandas.git
+pandas:
+    remote: https://github.com/spcourse/pandas.git
     branch: main
