@@ -2,16 +2,17 @@
 
 This is a digital exam. The exam consists of programming exercises that are purely based on input, output, and calculations. You will use these exercises to show that you can create a program from scratch.
 
-During the exam, it is not allowed to use the internet and there is no help from teaching assistants. You are allowed to use the pdp.mprog.nl website. You will not be graded on design, but only on the correctness of your code. You do not have to comment your code, nor do you have to abide by any other styling rules (though this can greatly help you understand your code).
+During the exam, it is not allowed to use the internet and there is no help from teaching assistants. You are allowed to use the pdp.mprog.nl website and the code you have written for this course. _You will not be graded on design, but only on the correctness of your code._ You do not have to comment your code, nor do you have to abide by any other styling rules (though this can greatly help you understand your code).
+
+This exam consists of 4 exercises. Each of the exercises can be made separately and are fully independent of each other.
 
 # Rules
 
 - Finish all exercises in a file named `exam.py` and submit this file
 - Each exercise should be done in (at least) **one** function
 - Outputs should be done within the exercise's function with `return`, unless stated otherwise
-- You are not allowed to use `numpy` or other libraries in this exam
+- You are not allowed to use `numpy`, `pandas`, or other libraries in this exam
 - Make sure the output for every exercise is printed to the screen when running your program. This is required to get the points for an exercise.
-
 ### Hints
 
 The following steps should help you find solutions to the exercises:
