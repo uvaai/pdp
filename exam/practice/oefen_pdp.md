@@ -13,6 +13,7 @@ This exam consists of 4 exercises. Each of the exercises can be made separately 
 - Outputs should be done within the exercise's function with `return`, unless stated otherwise
 - You are not allowed to use `numpy`, `pandas`, or other libraries in this exam
 - Make sure the output for every exercise is printed to the screen when running your program. This is required to get the points for an exercise.
+- 
 ### Hints
 
 The following steps should help you find solutions to the exercises:
