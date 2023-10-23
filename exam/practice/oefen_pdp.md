@@ -12,6 +12,7 @@ This exam consists of 4 exercises. Each of the exercises can be made separately 
 - Each exercise should be done in (at least) **one** function
 - Outputs should be done within the exercise's function with `return`, unless stated otherwise
 - You are not allowed to use `numpy`, `pandas`, or other libraries in this exam
+- You are allowed to use the pdp.mprog.nl website and the code you have written for this course.
 - Make sure the output for every exercise is printed to the screen when running your program. This is required to get the points for an exercise.
 
 ### Hints
