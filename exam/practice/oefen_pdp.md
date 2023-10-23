@@ -13,6 +13,7 @@ This exam consists of 4 exercises. Each of the exercises can be made separately 
 - Outputs should be done within the exercise's function with `return`, unless stated otherwise
 - You are not allowed to use `numpy`, `pandas`, or other libraries in this exam
 - Make sure the output for every exercise is printed to the screen when running your program. This is required to get the points for an exercise.
+
 ### Hints
 
 The following steps should help you find solutions to the exercises:
@@ -27,11 +28,11 @@ The following steps should help you find solutions to the exercises:
 5. Test your program extensively using the examples you thought of in step 2, and see if you can find any edge cases where the program gives an unexpected output.
 6. Finish your program and submit your solutions. *Before you leave the exam room, check with the proctor that your submission was correctly submitted!*
 
-# Exercises
+<!-- # Exercises
 
-Nothing here yet! The practice exam will be available on monday.
+Nothing here yet! The practice exam will be available on monday. -->
 
-<!-- # 1. Supermarket discounts
+# 1. Supermarket discounts
 
 A supermarket often has products with the promotion: "three for the price of two". When a client buys a specific number of such a product, the supermarket needs to compute the total discount.
 
@@ -129,4 +130,4 @@ Example usage:
 
 Expected output:
 
-    2 -->
+    2
