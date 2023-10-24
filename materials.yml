@@ -25,3 +25,6 @@ survival:
 pandas:
     remote: https://github.com/spcourse/pandas.git
     branch: main
+exam:
+    remote: https://github.com/uvaai/pdp-exam.git
+    branch: main
