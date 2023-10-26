@@ -150,16 +150,16 @@ Module 6 [11/10/23]:
         Submit your solutions: /submit/module6
 
 Practice exam:
-    Overview: /exam
-    Practice exam: /exam/practice
-    More practice: /exam/loops_and_dict_practice
+    Overview: /exams
+    Practice exam: /exams/practice
+    More practice: /exams/loops_and_dict_practice
 
 Exam:
-    Overview: /exam
-    Exam:  /exam/exam
+    Overview: /exams
+    Exam:  /exams/exam
     Submit: /submit/exam
 
 Retake exam:
-    Overview: /exam
-    Exam: /exam/exam2
+    Overview: /exams
+    Exam: /exams/exam2
     Submit: /submit/exam2
