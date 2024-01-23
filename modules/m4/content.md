@@ -7,7 +7,7 @@ The deadline for both Python for Data Processing and Introduction to Machine Lea
 |--------------------|--------------------------------------|---------------------------------------|---------------------------------------------|
 | Monday<br>25/09    | Moving around the board              | SOWISO                                | Group seminar                               |
 | Tuesday<br>26/09   | Moving around the board              | Theory videos +<br>Linear Regression:<br>Assignment 2 |                             |
-| Wednesday<br>27/09 | Buying properties                    | Linear Regression:<br>Assignment 5    | Office hours                                |
+| Wednesday<br>27/09 | Buying properties                    | Linear Regression:<br>Assignment 5    | Quiz/lecture                                |
 | Thursday<br>28/09  | Starting money                       | Linear Regression:<br>Assignment 7    |                                             |
 | Friday<br>29/09    | Advantage of player 1                | Finish Linear Regression              |                                             |
 |                    |                                      |                                       |                                             |
@@ -15,7 +15,7 @@ The deadline for both Python for Data Processing and Introduction to Machine Lea
 
 
 
-#### Office hours
+#### Quiz/lecture
 
-The office hours will be held in room **L0.10 at 14:00** on the scheduled day. During office hours you can use the question queue to ask the staff any further explanations on the theory of that module, or discuss any personal matters.
+The quiz/lecture will be held in room **L0.11 at 14:00** on the scheduled day.
 
