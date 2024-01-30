@@ -39,7 +39,7 @@ grades:
     week4: *check_off
     week5: *check_off
     week6: *check_off
-    week1: *check_off
+    week7: *check_off
 
 calculation:
     final:
