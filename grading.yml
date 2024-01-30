@@ -65,7 +65,7 @@ attendance:
         week4: 0
         week5: 0
         week6: 0
-        week1: 0
+        week7: 0
 
 exam:
     show_progress: true
