@@ -33,6 +33,13 @@ grades:
     exam: *check_off
     exam2: *check_off
     oral: *check_off
+    week1: *check_off
+    week2: *check_off
+    week3: *check_off
+    week4: *check_off
+    week5: *check_off
+    week6: *check_off
+    week1: *check_off
 
 calculation:
     final:
@@ -48,6 +55,17 @@ assignments:
         module4: 1
         module5: 1
         module6: 1
+
+attendance:
+    show_progress: true
+    submits:
+        week1: 0
+        week2: 0
+        week3: 0
+        week4: 0
+        week5: 0
+        week6: 0
+        week1: 0
 
 exam:
     show_progress: true
