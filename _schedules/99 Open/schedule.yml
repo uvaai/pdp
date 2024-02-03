@@ -1,6 +1,17 @@
 Welcome:
     Read the syllabus to get started: /syllabus
-    Install python: /python/en/installing/computer
+    Install python:
+      Intro: /python/en/installing/intro
+    Install Python on Windows:
+      Step 1 install Miniconda: /python/en/installing/miniconda-win
+      Step 2 install Pulsar: /python/en/installing/pulsar
+      Step 3 command line interface: /python/en/installing/cli-win
+      Step 4 install Conda environment: /python/en/installing/conda-env-minai-win
+    Install Python on MacOS:
+      Step 1 install Miniconda: /python/en/installing/miniconda-mac
+      Step 2 install Pulsar: /python/en/installing/pulsar
+      Step 3 command line interface: /python/en/installing/cli-mac
+      Step 4 install Conda environment: /python/en/installing/conda-env-minai-mac
 
 Module 1 [4/9/23]:
     Schedule: /modules/m1
