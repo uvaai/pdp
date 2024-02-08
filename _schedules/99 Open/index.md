@@ -27,7 +27,7 @@ questions.
 ## Getting started
 
 1. Read more of the syllabus below.
-2. [Install](/python/en/installing/computer) Python and other prerequisites.
+2. Install Python and other prerequisites through the installation instructions in the sidebar.
 
 ## Schedule
 
