@@ -17,7 +17,7 @@ Tim Doolan (coordinator)
 
 Wouter Vrielink (teacher)
 
-You can reach us at <minorai@mprog.nl> for any practical matters or other
+You can reach us at <ai@proglab.nl> for any practical matters or other
 questions.
 
 ## Getting started
@@ -54,7 +54,7 @@ can be more difficult. To help with all of this, we've made a day-to-day schedul
 for each module, which indicates what elements should be completed each day.
 
 If you're finding it hard to keep on track with the daily schedule, you can
-contact the staff at <minorai@mprog.nl>. We can discuss possible approaches or
+contact the staff at <ai@proglab.nl>. We can discuss possible approaches or
 even offer extra help or resources, if needed. In general, it is a good idea to
 already contact us if are more than 1 day behind on the schedule, so we can
 look at possible solutions early. One of the possible solution would be to
@@ -177,7 +177,7 @@ the previous module. The schedule for the group seminars can be found on Datanos
 ### Email the staff
 
 If you have personal matters to discuss or other questions that do not fit any
-of the formats above, you can email the course staff at <minorai@mprog.nl>
+of the formats above, you can email the course staff at <ai@proglab.nl>
 
 ## Passing the course
 
