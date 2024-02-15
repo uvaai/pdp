@@ -1,4 +1,6 @@
 name: module6
 files:
     required:
+        - numpy.ipynb
+        - pandas.ipynb
         - mushrooms.ipynb

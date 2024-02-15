@@ -1,6 +1,7 @@
 name: module3
 files:
     required:
+        - dictionaries.ipynb
         - montecarlo.py
         - temperature.py
     optional:

@@ -14,7 +14,7 @@ video below, and then make the exercises in the notebook.
 [Right-click and save the notebook here.](../data/dictionaries.ipynb)
 
 Open your terminal in the same folder where you saved this notebook and run the
-command `jupyter notebook`. Open the file in the browser and follow the steps
+command `jupyter nbclassic`. Open the file in the browser and follow the steps
 there.
 
 *You do not need to hand in your solution for this assignment.* The assignment
