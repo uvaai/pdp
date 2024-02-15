@@ -17,7 +17,7 @@ Tim Doolan (coordinator)
 
 Wouter Vrielink (teacher)
 
-You can reach us at <minorai@mprog.nl> for any practical matters or other
+You can reach us at <ai@proglab.nl> for any practical matters or other
 questions.
 
 ## Getting started
@@ -54,7 +54,7 @@ can be more difficult. To help with all of this, we've made a day-to-day schedul
 for each module, which indicates what elements should be completed each day.
 
 If you're finding it hard to keep on track with the daily schedule, you can
-contact the staff at <minorai@mprog.nl>. We can discuss possible approaches or
+contact the staff at <ai@proglab.nl>. We can discuss possible approaches or
 even offer extra help or resources, if needed. In general, it is a good idea to
 already contact us if are more than 1 day behind on the schedule, so we can
 look at possible solutions early. One of the possible solution would be to
@@ -66,7 +66,7 @@ situation and the difficulties you're having, so will require sending an email.
 
 If you are a part-time student, you can just follow the *Python for Data
 Processing* half of the daily schedule. You should still attend the group
-seminars with the other students, as scheduled [here](https://datanose.nl/#course[119433]),
+seminars with the other students, as scheduled [here](https://datanose.nl/#course[119434]),
 but can otherwise choose which of your daily practical assistance slots combine
 best with your own schedule.
 
@@ -100,7 +100,8 @@ depend on the details of your circumstances.
 In addition, for this course and Introduction to Machine Learning 1, you have a
 combined total of 2 late days, each of which you can use to get a single 24
 hour extension for the module deadline. You can request a late day using the
-submit forms linked in the topbar of this course. You must always submit your
+submit forms linked in the sidebar of the main
+[minor AI website](https://minai.proglab.nl/). You must always submit your
 request *before* the deadline expires. Any submissions received after the
 deadline without a requested late day will not be graded, meaning your grade
 will default to a 1.
@@ -127,14 +128,13 @@ and get assistance.
 
 There are 2.5 hours scheduled every day where you can ask practical questions
 to the TA's of the minor. During these hours you can use the "Assistance"
-feature on the *Introduction to Machine Learning 1*
-[website](https://ml1.proglab.nl/), using the question mark symbol on the right
-side of the topbar. Please use this feature instead of raising your hand in
-class, as it ensures that all questions get handled in the order that they are
-asked.  Questions can of be about either the PDP or ML1 courses, just make sure
-to mention what assignment you're working on. For your location, please list
-the table you are working at, so the TA handling your question knows where to
-find you when it is your turn.
+feature on the main [minor AI website](https://minai.proglab.nl/), using the
+question mark symbol in the top right corner of that page. Please use this
+feature instead of raising your hand in class, as it ensures that all questions
+get handled in the order that they are asked.  Questions can of be about either
+the PDP or ML1 courses, just make sure to mention what assignment you're
+working on. For your location, please list the table you are working at, so the
+TA handling your question knows where to find you when it is your turn.
 
 The hours are scheduled as follows:
 
@@ -177,7 +177,7 @@ the previous module. The schedule for the group seminars can be found on Datanos
 ### Email the staff
 
 If you have personal matters to discuss or other questions that do not fit any
-of the formats above, you can email the course staff at <minorai@mprog.nl>
+of the formats above, you can email the course staff at <ai@proglab.nl>
 
 ## Passing the course
 
