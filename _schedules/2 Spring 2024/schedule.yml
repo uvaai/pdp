@@ -83,8 +83,8 @@ Module 3 [19/2/24]:
         Learn about file I/O [theory]: /python/en/file-io
         Learn to analyse and process a data set [practice]: /python/en/files
         For loop design [theory]: /python/en/loops/element-vs-index
-        Dig around in KNMI temperature data [assignment]: /bigdata/en/temperature-ai
-        "Optional: advanced plotting and detecting heatwaves [challenge]": /bigdate/en/temperature-challenge
+        Dig around in KNMI temperature data [assignment]: /bigdata/en/temperature_ai
+        "Optional: advanced plotting and detecting heatwaves [challenge]": /bigdate/en/temperature_challenge
         "Optional: improving football_analysis.py [challenge]": /python/en/files/design
 
     Submit:
