@@ -17,6 +17,6 @@ Open your terminal in the same folder where you saved this notebook and run the
 command `jupyter nbclassic`. Open the file in the browser and follow the steps
 there.
 
-*You do not need to hand in your solution for this assignment.* The assignment
+This assignment
 is only meant as _practice_, as you'll need to use a dictionary for the
 *Introduction to Machine Learning 1* assignment this week. _**You do not need to use dictionaries in your solution for Monte Carlo or Big Data.**_
