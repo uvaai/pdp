@@ -137,13 +137,13 @@ Module 6 [13/3/24]:
         Default arguments [theory]: /python/en/default-arguments
         Keyword arguments [theory]: /python/en/keyword-arguments/kwargs
     Numpy:
-        Numpy [assignment]: /numpy_pandas/numpy
+        Numpy [assignment]: /pandas/numpy
     Pandas:
-        Pandas [assignment]: /numpy_pandas/pandas
+        Pandas [assignment]: /pandas/pandas
     Seaborn:
-        Seaborn [practice]: /numpy_pandas/seaborn
+        Seaborn [practice]: /pandas/seaborn
     Mushrooms:
-        Mushrooms [assignment]: /numpy_pandas/mushrooms
+        Mushrooms [assignment]: /pandas/mushrooms
     Submit:
         Submit your solutions: /submit/module6
 
