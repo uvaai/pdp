@@ -147,17 +147,19 @@ Module 6 [13/3/24]:
     Submit:
         Submit your solutions: /submit/module6
 
-Practice exam:
-    Overview: /exam
-    Practice exam: /exam/practice
-    More practice: /exam/loops_and_dict_practice
+# These no longer work as they are moved to github pages.
 
-Exam:
-    Overview: /exam
-    Exam:  /exam/exam
-    Submit: /submit/exam
-
-Retake exam:
-    Overview: /exam
-    Exam: /exam/exam2
-    Submit: /submit/exam2
+# Practice exam:
+#     Overview: /exam
+#     Practice exam: /exam/practice
+#     More practice: /exam/loops_and_dict_practice
+#
+# Exam:
+#     Overview: /exam
+#     Exam:  /exam/exam
+#     Submit: /submit/exam
+#
+# Retake exam:
+#     Overview: /exam
+#     Exam: /exam/exam2
+#     Submit: /submit/exam2
