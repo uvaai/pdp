@@ -3,5 +3,5 @@ files:
     required:
         - questions.txt
         - jaccard.py
-        - practice_dictionary.ipynb
+        - practice_dictionaries.ipynb
         - word_index.py
