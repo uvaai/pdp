@@ -150,8 +150,10 @@ Module 6 [13/3/24]:
 # These no longer work as they are moved to github pages.
 
 Practice exam:
-    Overview: /exam
-#     Practice exam: /exam/practice
+    Overview: /exam #/python/en/overview-minai
+
+Exam-test:
+  Practice exam: https://uvaai.github.io/pdp-exam/practice/oefen_pdp.html
 #     More practice: /exam/loops_and_dict_practice
 #
 # Exam:
