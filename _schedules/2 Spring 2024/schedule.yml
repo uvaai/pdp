@@ -154,11 +154,11 @@ Practice exam:
     Practice exam: https://uvaai.github.io/pdp-exam/practice/oefen_pdp.html
     # More practice: https://uvaai.github.io/pdp-exam/loops_and_dict_practice/loops_and_dicts.html
 
-# Exam:
-#     Overview: /overview
-#     Exam:  https://uvaai.github.io/pdp-exam/exam/exam.html
-#     Submit: /submit/exam
-#
+Exam:
+    Overview: /overview
+    Exam:  https://uvaai.github.io/pdp-exam/exam/exam.html
+    Submit: /submit/exam
+
 # Retake exam:
 #     Overview: /overview
 #     Exam: https://uvaai.github.io/pdp-exam/exam2/exam.html
