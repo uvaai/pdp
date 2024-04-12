@@ -159,7 +159,7 @@ Exam:
     Exam:  https://uvaai.github.io/pdp-exam/exam/exam.html
     Submit: /submit/exam
 
-# Retake exam:
-#     Overview: /overview
-#     Exam: https://uvaai.github.io/pdp-exam/exam2/exam.html
-#     Submit: /submit/exam2
+Retake exam:
+    Overview: /overview
+    Exam: https://uvaai.github.io/pdp-exam/exam2/exam.html
+    Submit: /submit/exam2
