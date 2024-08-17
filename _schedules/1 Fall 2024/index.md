@@ -327,7 +327,7 @@ so instead of learning and considering all the possibilities, you just end up
 trying to recreate the solution you already saw. As there usually quite a few
 different ways to solve programming problems, this can even end up with code
 that is similar enough in structure that it is caught by our automated
-plagiarism detector.
+plagiarism detection.
 
 ### Helping other students
 
