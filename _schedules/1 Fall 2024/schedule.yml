@@ -2,7 +2,7 @@ Welcome:
     Read the syllabus to get started: /syllabus
     Install python: /python/en/installing/computer
 
-Module 1 [4/9/23]:
+Module 1 [2/9/24]:
     Schedule: /modules/m1
     Introduction: /algorithms/en/
 
@@ -42,7 +42,7 @@ Module 1 [4/9/23]:
     Submit:
         Submit your solutions: /submit/module1
 
-Module 2 [11/9/23]:
+Module 2 [9/9/24]:
     Schedule: /modules/m2
     Introduction: /integrals/en/
 
@@ -67,7 +67,7 @@ Module 2 [11/9/23]:
     Submit:
         Submit your solutions: /submit/module2
 
-Module 3 [18/9/23]:
+Module 3 [16/9/24]:
     Schedule: /modules/m3
 
     Dictionaries:
@@ -90,7 +90,7 @@ Module 3 [18/9/23]:
         Learn about design [theory]: /python/en/design
         Submit your solutions: /submit/module3
 
-Module 4 [25/9/23]:
+Module 4 [23/9/24]:
     Schedule: /modules/m4
 
     Monopoly:
@@ -105,7 +105,7 @@ Module 4 [25/9/23]:
     Submit:
         Submit your solutions: /submit/module4
 
-Module 5 [3/10/23]:
+Module 5 [1/10/24]:
     Introduction: /complexity/
     Schedule: /modules/m5
     Learn about computational complexity:
@@ -132,7 +132,7 @@ Module 5 [3/10/23]:
     Submit:
         Submit your solutions: /submit/module5
 
-Module 6 [11/10/23]:
+Module 6 [9/10/24]:
     Schedule: /modules/m6
     Function arguments:
         Default arguments [theory]: /python/en/default-arguments
