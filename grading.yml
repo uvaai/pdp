@@ -14,7 +14,6 @@ templates:
 grades:
     module1:
         <<: *check_off
-        deadline: 09/02/24 18:00
     module2:
         <<: *check_off
         deadline: 16/02/24 18:00
