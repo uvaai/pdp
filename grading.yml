@@ -14,21 +14,22 @@ templates:
 grades:
     module1:
         <<: *check_off
+        deadline: 06/09/24 18:00
     module2:
         <<: *check_off
-        deadline: 16/02/24 18:00
+        deadline: 13/09/24 18:00
     module3:
         <<: *manual
-        deadline: 23/02/24 18:00
+        deadline: 20/09/24 18:00
     module4:
         <<: *manual
-        deadline: 04/03/24 18:00
+        deadline: 30/09/24 18:00
     module5:
         <<: *manual
-        deadline: 12/03/24 18:00
+        deadline: 08/10/24 18:00
     module6:
         <<: *manual
-        deadline: 20/03/24 18:00
+        deadline: 16/10/24 18:00
     exam: *check_off
     exam2: *check_off
     oral: *check_off
