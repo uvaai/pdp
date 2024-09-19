@@ -70,7 +70,7 @@ Module 3 [16/9/24]:
     Schedule: /modules/m3
 
     Dictionaries:
-        A brief introduction to a new data structure [practice]: /dictionaries/en
+        A brief introduction to a new data structure [assignment]: /dictionaries/en
 
     Monte Carlo:
         Learn about functions as arguments of other functions [theory]: /python/en/functions2
@@ -83,8 +83,9 @@ Module 3 [16/9/24]:
         Learn about file I/O [theory]: /python/en/file-io
         Learn to analyse and process a data set [practice]: /python/en/files
         For loop design [theory]: /python/en/loops/element-vs-index
-        Dig around in KNMI temperature data [assignment]: /bigdata/en/temperatures
-        "Optional: improving football_analysis.py [assignment]": /python/en/files/design
+        Dig around in KNMI temperature data [assignment]: /bigdata/en/temperature_ai
+        "Optional: Big data challenges [challenge]": /bigdata/en/temperature_challenge
+
     Submit:
         Learn about design [theory]: /python/en/design
         Submit your solutions: /submit/module3
