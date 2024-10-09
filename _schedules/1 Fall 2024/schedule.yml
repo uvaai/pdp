@@ -151,8 +151,8 @@ Module 6 [9/10/24]:
 Practice exam:
     Overview: /exams
     Practice exam: /exams/practice
-    More practice: /exams/loops_and_dict_practice
-
+    # More practice: /exams/loops_and_dict_practice
+    
 Exam:
     Overview: /exams
     Exam:  /exams/exam
