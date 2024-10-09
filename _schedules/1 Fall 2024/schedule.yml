@@ -106,8 +106,8 @@ Module 4 [23/9/24]:
         Submit your solutions: /submit/module4
 
 Module 5 [1/10/24]:
-    Introduction: /complexity/
     Schedule: /modules/m5
+    Introduction: /complexity/
     Learn about computational complexity:
         Complexity [theory]: /python/en/efficiency
         Complexity questions 1 [assignment]: /complexity/questions1
@@ -126,7 +126,7 @@ Module 5 [1/10/24]:
         Complexity questions 2 [assignment]: /complexity/questions2
         Jaccard [assignment]: /complexity/jaccard
     Dictionaries revisited:
-        Practical uses of dictionaries [practice]: /python/en/dictionaries/more_practice
+        Practical uses of dictionaries [assignment]: /python/en/dictionaries/more_practice
     Write your own efficient code:
         Indexing words [assignment]: /complexity/word-index
     Submit:
@@ -138,9 +138,9 @@ Module 6 [9/10/24]:
         Default arguments [theory]: /python/en/default-arguments
         Keyword arguments [theory]: /python/en/keyword-arguments/kwargs
     Numpy:
-        Numpy [practice]: /pandas/numpy
+        Numpy [assignment]: /pandas/numpy
     Pandas:
-        Pandas [practice]: /pandas/pandas
+        Pandas [assignment]: /pandas/pandas
     Seaborn:
         Seaborn [practice]: /pandas/seaborn
     Mushrooms:
@@ -148,17 +148,19 @@ Module 6 [9/10/24]:
     Submit:
         Submit your solutions: /submit/module6
 
+# These no longer work as they are moved to github pages.
+
 Practice exam:
-    Overview: /exams
-    Practice exam: /exams/practice
-    # More practice: /exams/loops_and_dict_practice
-    
+    Overview: /overview #/python/en/overview-minai
+    Practice exam: https://uvaai.github.io/pdp-exam/practice/oefen_pdp.html
+    # More practice: https://uvaai.github.io/pdp-exam/loops_and_dict_practice/loops_and_dicts.html
+
 Exam:
-    Overview: /exams
-    Exam:  /exams/exam
+    Overview: /overview
+    Exam:  https://uvaai.github.io/pdp-exam/exam/exam.html
     Submit: /submit/exam
 
 Retake exam:
-    Overview: /exams
-    Exam: /exams/exam2
+    Overview: /overview
+    Exam: https://uvaai.github.io/pdp-exam/exam2/exam.html
     Submit: /submit/exam2
