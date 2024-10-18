@@ -32,6 +32,10 @@ In fact, you don't even need all of them. In theory, only a small subset would s
 - `tuple`: [tuples](/python/en/tuples)
 - `set`:  [theory](/python/en/sets)/ and [practice](/python/en/sets/practice)
 
+#### Rounding
+
+- `round`: [theory](/python/en/basics#whole-numbers-and-rounding)
+
 #### Input/Output
 
 - `print`: [theory](/python/en/basics#printing)
