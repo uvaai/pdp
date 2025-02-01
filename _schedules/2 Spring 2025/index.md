@@ -27,19 +27,22 @@ questions.
 
 ## Schedule
 
-The core schedule for this course, together with Introduction to Machine
+The core schedule for this course, together with Inleiding Machine
 Learning 1, is built around working on the combined material each weekday from
 9 to 5. For this we have one room on the Science Park campus permanently
-reserved for minor AI students, namely **L0.10**, which provides enough space
+reserved for minor AI students, namely **L0.11**, which provides enough space
 for all of you to work on campus full-time.
 
 Most on-campus activities, including the practical assistance, will generally be
 held in this room. There are some exceptions with activities that do not fit
-in the room, like the group seminars and the exam. The schedule for these
-group seminars can be found on Datanose [here](https://datanose.nl/#course[119434])
+in the room, like the group seminars and the exam. The schedule for the
+group seminars and the practical assistance hours can be found in the
+"Asking Questions" section below.
+
+<!--can be found on Datanose [here](https://datanose.nl/#course[128440])
 
 The schedule for the practical assistance hours that will be held in L0.10 can
-be found in the "Asking Questions" section below.
+be found in the "Asking Questions" section below.-->
 
 ### Deadlines and daily schedules
 
@@ -66,7 +69,7 @@ situation and the difficulties you're having, so will require sending an email.
 
 If you are a part-time student, you can just follow the *Python for Data
 Processing* half of the daily schedule. You should still attend the group
-seminars with the other students, as scheduled [here](https://datanose.nl/#course[119434]),
+seminars with the other students<!--, as scheduled [here](https://datanose.nl/#course[128439])-->,
 but can otherwise choose which of your daily practical assistance slots combine
 best with your own schedule.
 
@@ -97,7 +100,7 @@ schedule a meeting and still have room in the module for an alternative planning
 Note that a meeting does not always guarantee an extension, as this might still
 depend on the details of your circumstances.
 
-In addition, for this course and Introduction to Machine Learning 1, you have a
+In addition, for this course and Inleiding Machine Learning 1, you have a
 combined total of 2 late days, each of which you can use to get a single 24
 hour extension for the module deadline. You can request a late day using the
 submit forms linked in the sidebar of the main
@@ -108,7 +111,7 @@ will default to a 1.
 
 You can use only 1 late day per module to get a 24 hour extension on the deadline.
 This extension is for the whole module, so applies to both courses. If the deadline
-is on a Friday, using  a single late day will instead grant a 48 hour extension
+is on a Friday, using a single late day will instead grant a 48 hour extension
 over the weekend, meaning your deadline will move to Sunday. If you have used both
 late days, or require more than 24 hours of extension, you may still try and
 request a staff extension.
@@ -131,7 +134,7 @@ to the TA's of the minor. During these hours you can use the "Assistance"
 feature on the main [minor AI website](https://minai.proglab.nl/), using the
 question mark symbol in the top right corner of that page. Please use this
 feature instead of raising your hand in class, as it ensures that all questions
-get handled in the order that they are asked.  Questions can of be about either
+get handled in the order that they are asked. Questions can of be about either
 the PDP or ML1 courses, just make sure to mention what assignment you're
 working on. For your location, please list the table you are working at, so the
 TA handling your question knows where to find you when it is your turn.
@@ -153,7 +156,7 @@ Every module there will be at least one planned set of office hours, where you
 can ask the staff any questions you might have about theoretical parts of the
 course. The schedule for these office hours can be found as part of the daily
 schedule for the module. The office hours will always be together with the
-practical assistance hours in the main room L0.10.
+practical assistance hours in the main room L0.11.
 
 During the office hours, you can use the same "Assistance" feature to ask any
 further explanations on the theory of that module. Simply start your question
@@ -171,8 +174,9 @@ to improve the style and design of your code, discussing the some of the
 written assignment topics, or some small programming exercises to practice
 with the group. In addition, you can always use these seminars to ask you TA any
 questions you might have about the feedback they gave you as part of the grading for
-the previous module. The schedule for the group seminars can be found on Datanose
-[here](https://datanose.nl/#course[119434])
+the previous module. This semester the group seminars are every **Monday at 11:00**
+in room *L1.11*. <!--The schedule for the group seminars can be found on Datanose
+[here](https://datanose.nl/#course[128439])-->
 
 ### Email the staff
 
@@ -327,7 +331,7 @@ so instead of learning and considering all the possibilities, you just end up
 trying to recreate the solution you already saw. As there usually quite a few
 different ways to solve programming problems, this can even end up with code
 that is similar enough in structure that it is caught by our automated
-plagiarism detector.
+plagiarism detection.
 
 ### Helping other students
 

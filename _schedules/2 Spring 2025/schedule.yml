@@ -1,19 +1,7 @@
 Welcome:
     Read the syllabus to get started: /syllabus
-    Install python:
-      Intro: /python/en/installing/intro
-    Install Python on Windows:
-      Step 1 install Miniconda: /python/en/installing/miniconda-win
-      Step 2 install Pulsar: /python/en/installing/pulsar
-      Step 3 command line interface: /python/en/installing/cli-win
-      Step 4 install Conda environment: /python/en/installing/conda-env-minai-win
-    Install Python on MacOS:
-      Step 1 install Miniconda: /python/en/installing/miniconda-mac
-      Step 2 install Pulsar: /python/en/installing/pulsar
-      Step 3 command line interface: /python/en/installing/cli-mac
-      Step 4 install Conda environment: /python/en/installing/conda-env-minai-mac
 
-Module 1 [5/2/24]:
+Module 1 [3/2/25]:
     Schedule: /modules/m1
     Introduction: /algorithms/en/
 
@@ -53,7 +41,7 @@ Module 1 [5/2/24]:
     Submit:
         Submit your solutions: /submit/module1
 
-Module 2 [12/2/24]:
+Module 2 [10/2/25]:
     Schedule: /modules/m2
     Introduction: /integrals/en/
 
@@ -78,7 +66,7 @@ Module 2 [12/2/24]:
     Submit:
         Submit your solutions: /submit/module2
 
-Module 3 [19/2/24]:
+Module 3 [17/2/25]:
     Schedule: /modules/m3
 
     Dictionaries:
@@ -102,7 +90,7 @@ Module 3 [19/2/24]:
         Learn about design [theory]: /python/en/design
         Submit your solutions: /submit/module3
 
-Module 4 [26/2/24]:
+Module 4 [24/2/25]:
     Schedule: /modules/m4
 
     Monopoly:
@@ -117,7 +105,7 @@ Module 4 [26/2/24]:
     Submit:
         Submit your solutions: /submit/module4
 
-Module 5 [5/3/24]:
+Module 5 [4/3/25]:
     Schedule: /modules/m5
     Introduction: /complexity/
     Learn about computational complexity:
@@ -144,7 +132,7 @@ Module 5 [5/3/24]:
     Submit:
         Submit your solutions: /submit/module5
 
-Module 6 [13/3/24]:
+Module 6 [12/3/25]:
     Schedule: /modules/m6
     Function arguments:
         Default arguments [theory]: /python/en/default-arguments
@@ -160,10 +148,8 @@ Module 6 [13/3/24]:
     Submit:
         Submit your solutions: /submit/module6
 
-# These no longer work as they are moved to github pages.
-
 Practice exam:
-    Overview: /overview #/python/en/overview-minai
+    Overview: /overview
     Practice exam: https://uvaai.github.io/pdp-exam/practice/oefen_pdp.html
     More practice: https://uvaai.github.io/pdp-exam/loops_and_dict_practice/loops_and_dicts.html
 
