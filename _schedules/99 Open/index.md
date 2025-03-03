@@ -21,7 +21,7 @@ Tim Doolan (coordinator)
 
 Wouter Vrielink (teacher)
 
-You can reach us at <minorai@mprog.nl> for any practical matters or other
+You can reach us at <ai@proglab.nl> for any practical matters or other
 questions.
 
 ## Getting started
@@ -79,7 +79,7 @@ can be more difficult. To help with all of this, we've made a day-to-day schedul
 for each module, which indicates what elements should be completed each day.
 
 If you're finding it hard to keep on track with the daily schedule, you can
-contact the staff at <minorai@mprog.nl>. We can discuss possible approaches or
+contact the staff at <ai@proglab.nl>. We can discuss possible approaches or
 even offer extra help or resources, if needed. In general, it is a good idea to
 already contact us if are more than 1 day behind on the schedule, so we can
 look at possible solutions early. One of the possible solution would be to
@@ -141,7 +141,7 @@ to discuss with staff, such as personal matters or an alternate planning.
 ### Email the staff
 
 If you have personal matters to discuss or other questions that do not fit any
-of the formats above, you can email the course staff at <minorai@mprog.nl>
+of the formats above, you can email the course staff at <ai@proglab.nl>
 
 ## Exceptions
 
@@ -197,7 +197,7 @@ There are two types of extension; staff extensions and late days.
 Staff extensions usually require meeting with staff and will generally also
 include making an alternative planning for the module. If any circumstances
 arise that would make it hard for you to make the deadline, send us an
-email at <minorai@mprog.nl> so we can discuss your situation. Please do this as
+email at <ai@proglab.nl> so we can discuss your situation. Please do this as
 soon as the problem arises, rather than on the day of deadline, so we can
 schedule a meeting and still have room in the module for an alternative planning.
 Note that a meeting does not always guarantee an extension, as this might still
@@ -223,7 +223,7 @@ Any staff extension request needs to be agreed upon before the deadline expires,
 which means your request must be sent at least 2 hours before the actual deadline.
 If you do not receive a reply in time, you should *always* still submit your
 current version of the assignment before the deadline, so this part can still be
-graded. Staff extension requests should be emailed to <minorai@mprog.nl>
+graded. Staff extension requests should be emailed to <ai@proglab.nl>
 
 
 ## Passing the course
