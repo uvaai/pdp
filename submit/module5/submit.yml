@@ -2,7 +2,7 @@ name: module5
 files:
     required:
         - questions.txt
-        - datastructures.py
+        - datastructures_minai1.py
         - jaccard.py
         - practice_dictionaries.ipynb
         - word_index.py
