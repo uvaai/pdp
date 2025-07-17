@@ -10,7 +10,7 @@ check:
     repo: minai/exam-tests
     args: pdp_practice_exam
 files:
-    required
+    required:
         'exam.py': |
             # Python for Data Processing, practice exam
             # Name: ...
