@@ -1,9 +1,9 @@
-name: practice_exam
+name: pdp_practice_exam
 exam: true
 buttons:
     "Checkpy": |
             from checkpy.interactive import testOffline
-            testOffline("practice_exam", "/home/pyodide", multiprocessing=False, silentMode=False)
+            testOffline("pdp_practice_exam", "/home/pyodide", multiprocessing=False, silentMode=False)
             print("\nend tests!")
 check:
     tool: checkpy
