@@ -3,15 +3,15 @@ exam: true
 buttons:
     "Checkpy": |
             from checkpy.interactive import testOffline
-            testOffline("exam", "/home/pyodide", multiprocessing=False, silentMode=False)
+            testOffline("pdp_practice_exam", "/home/pyodide", multiprocessing=False, silentMode=False)
             print("\nend tests!")
 check:
     tool: checkpy
     repo: minai/exam-tests
-    args: exam
+    args: pdp_practice_exam
 files:
     required:
-        'exam.py': |
+        'pdp_practice_exam.py': |
             # Python for Data Processing, practice exam
             # Name: ...
 
