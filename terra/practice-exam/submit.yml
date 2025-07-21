@@ -15,7 +15,7 @@ files:
             # Python for Data Processing, practice exam
             # Name: ...
 
-            print("Welcome to the practice exam!")
+            print("Welcome to the practice exam! You can write your solutions in this file.")
 
         'temp.py': |
             # This file will be ignored by us. You can use this as a canvas
