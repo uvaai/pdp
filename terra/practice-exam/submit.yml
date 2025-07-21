@@ -7,7 +7,7 @@ buttons:
             print("\nend tests!")
 check:
     tool: checkpy
-    repo: minai/exam-tests
+    repo: uvaai/exam-tests
     args: pdp_practice_exam
 files:
     required:
