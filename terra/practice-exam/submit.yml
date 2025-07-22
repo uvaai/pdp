@@ -203,7 +203,7 @@ files:
                 .returnType(typing.List[str])
             )
             test2_1 = test()(fun2_def.call("The story is").returns(['The', 'is']))
-            test2_1 = test()(fun2_def.call("Magnificent").returns([]))
+            test2_2 = test()(fun2_def.call("Magnificent").returns([]))
             test2_3 = test()(fun2_def.call("The story so far in the beginning the universe was created This has made a lot of people very angry and been widely regarded as a bad move").returns(['The', 'so', 'far', 'in', 'the', 'the', 'was', 'has', 'a', 'lot', 'of', 'and', 'as', 'a', 'bad']))
 
             ######## Q3 ########
