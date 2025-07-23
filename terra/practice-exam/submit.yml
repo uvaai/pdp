@@ -21,7 +21,7 @@ files:
             # This file will be ignored by us. You can use this as a canvas
             # for drafts and test out code fragments.
 
-        'barca.txt': |
+        'barca.csv': |
             29/08/11,Villarreal,won,5,0,home
             10/09/11,Sociedad,draw,2,2,away
             17/09/11,Osasuna,won,8,0,home
@@ -137,7 +137,7 @@ files:
             11/05/14,Elche,draw,0,0,away
             17/05/14,Ath Madrid,draw,1,1,home
 
-        'barca_short.txt': |
+        'barca_short.csv': |
             29/08/11,Villarreal,won,5,0,home
             10/09/11,Sociedad,draw,2,2,away
             17/09/11,Osasuna,won,8,0,home
