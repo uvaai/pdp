@@ -1,17 +1,17 @@
 
 # Module 6
 
-The deadline for both Python for Data Processing and Introduction to Machine Learning 1 is<br>**Thursday March 20th at 17:59**
+The deadline for both Python for Data Processing and Introduction to Machine Learning 1 is<br>**Wednesday October 15th at 17:59**
 
 | Day                | Python for<br>Data Processing | Introduction to<br>Machine Learning      | Seminars          |
 |--------------------|-------------------------------|------------------------------------------|-------------------|
-| Wednesday<br>12/03 | Function arguments<br>+ Numpy: Exercise 4 | Theory videos<br>+ k-Means: Assignment 1 |       |
-| Thursday<br>13/03  | Numpy: Exercise 6b            | k-Means: Assignment 3                    | Office hours      |
-| Friday<br>14/03    | Pandas: Exercise 7            | k-Means: Assignment 5                    |                   |
+| Wednesday<br>08/10 | Function arguments<br>+ Numpy: Exercise 4 | Theory videos<br>+ k-Means: Assignment 1 |       |
+| Thursday<br>09/10  | Numpy: Exercise 6b            | k-Means: Assignment 3                    | Office hours      |
+| Friday<br>10/10    | Pandas: Exercise 7            | k-Means: Assignment 5                    |                   |
 |                    |                               |                                          |                   |
-| Tuesday<br>18/03   | Pandas: Exercise 15           | k-Means: Assignment 8                    |                   |
-| Wednesday<br>19/03 | Seaborn<br>+ Start Mushrooms  | k-Means: Assignment 9                    |                   |
-| Thursday<br>20/03  | Finish Mushrooms              | Written: Filter Bubbles +<br>SOWISO 6a, 6b, 6c |             |
+| Monday<br>13/10    | Pandas: Exercise 15           | k-Means: Assignment 8                    | Group seminar     |
+| Tuesday<br>14/10   | Seaborn<br>+ Start Mushrooms  | k-Means: Assignment 9                    |                   |
+| Wednesday<br>15/10 | Finish Mushrooms              | Written: Filter Bubbles +<br>SOWISO 6a, 6b, 6c |             |
 
 
 
