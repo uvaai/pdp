@@ -184,7 +184,7 @@ Monopoly dictionaries:
         Improving count_occurrence [theory]: /python/en/big-o-example
         Jaccard [assignment]: /complexity/jaccard
     Applying dictionaries in monopoly:
-        Applications of dictionaries [theory]: /monopoly_dicts/using_dicts_theory
-        Redesigning monopoly with dictionaries [assignment]: /monopoly_dicts/monopoly_config
+        Applications of dictionaries [theory]: /monopoly_dict/using_dicts_theory
+        Redesigning monopoly with dictionaries [assignment]: /monopoly_dict/monopoly_config
     Submit:
         Submit your solutions: /submit/module5
