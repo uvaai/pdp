@@ -26,5 +26,5 @@ pandas:
     remote: https://github.com/spcourse/pandas.git
     branch: main
 monopoly_dicts:
-    remote: https://github.com/spcourse/monopoly_dicts.git
+    remote: https://github.com/spcourse/monopoly_dict.git
     branch: main
