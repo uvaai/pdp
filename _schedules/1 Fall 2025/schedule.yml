@@ -128,10 +128,10 @@ Module 5 [30/9/25]:
     Applying dictionaries in monopoly:
         Applications of dictionaries [theory]: /monopoly_dict/using_dicts_theory
         Redesigning monopoly with dictionaries [assignment]: /monopoly_dict/monopoly_config
-        Analyzing the board [assignment]:
-        "Optional: a variable amount of players [optional]": /monopoly_dict/n-player
+        Analyzing the board [assignment]: /monopoly_dict/counting_visits
+        "Optional: a variable amount of players [optional assignment]": /monopoly_dict/n-player
     Even more dictionaries and sets:
-        "Optional: Practise dictionaries and sets [optional]": /python/en/datastructures-practice/part2
+        "Optional: Practise dictionaries and sets [optional assignment]": /python/en/datastructures-practice/part2
     Submit:
         Submit your solutions: /submit/module5
 
