@@ -4,5 +4,10 @@ files:
         - questions.txt
         - datastructures_minai1.py
         - jaccard.py
-        - practice_dictionaries.ipynb
-        - word_index.py
+        - monopoly_dicts.py
+        - monopoly_visits.py
+        - visits.png
+        - jail_visits.png
+    optional:
+        - monopoly_dicts_multiplayer.py opt
+        - Datastructures2.py opt
