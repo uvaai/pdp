@@ -122,7 +122,7 @@ Module 5 [30/9/25]:
         "Optional: Dictionaries [optional practice]": /python/en/dictionaries/use/practice
         "Optional: Testing efficiency [optional practice]": /python/en/dictionaries/complexity/practice
         "Optional: Sets [optional practice]": /python/en/sets/practice
-        "Optional: Dictionaries and sets [optional assignment]": /python/en/datastructures-practice/part2
+        # "Optional: Dictionaries and sets [optional assignment]": /python/en/datastructures-practice/part2
     How to write efficient code:
         Applying big O in your code [theory]: /python/en/big-o
         Improving count_occurrence [theory]: /python/en/big-o-example
@@ -131,7 +131,7 @@ Module 5 [30/9/25]:
         Applications of dictionaries [theory]: /monopoly_dict/using_dicts_theory
         Redesigning monopoly with dictionaries [assignment]: /monopoly_dict/monopoly_config
         Analyzing the board [assignment]: /monopoly_dict/counting_visits
-        "Optional: a variable amount of players [optional assignment]": /monopoly_dict/n-player
+        "Optional: A variable amount of players [optional assignment]": /monopoly_dict/n-player
     Submit:
         Submit your solutions: /submit/module5
 
