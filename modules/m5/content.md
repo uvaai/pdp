@@ -5,13 +5,13 @@ The deadline for both Python for Data Processing and Introduction to Machine Lea
 
 | Day                | Python for<br>Data Processing        | Introduction to<br>Machine Learning     | Seminars                                    |
 |--------------------|--------------------------------------|-----------------------------------------|---------------------------------------------|
-| Tuesday<br>30/09   | Learn about computational complexity | SOWISO videos + 5a, 5b, 5c              |                                             |
-| Wednesday<br>01/10 | Data structures and their efficiency | Theory videos +<br>Polynomial regression:<br>Assignment 3  |                          |
-| Thursday<br>02/10  | Data structures and their efficiency | SOWISO 5d, 5e +<br>Polynomial regression:<br>Assignment 6  | Office hours             |
-| Friday<br>03/10    | How to write efficient code<br>+ Start Dictionaries revisited | Polynomial regression:<br>Assignment 10 |                    |
-|                    |                                                               |                                         |                    |
-| Monday<br>06/10    | Finish Dictionaries revisited<br>+ Start Indexing words | Finish Polynomial regression | Office hours<br>Group seminar       |
-| Tuesday<br>07/10   | Finish Indexing words                | Written Assignment:<br>Algorithmic Bias    |                                          |
+| Tuesday<br>30/09   | Learn about computational complexity<br>+ Start Data structures and efficiency | SOWISO videos + 5a, 5b, 5c |                |
+| Wednesday<br>01/10 | Finish Data structures and efficiency | Theory videos +<br>Polynomial regression:<br>Assignment 3 |                          |
+| Thursday<br>02/10  | How to write efficient code          | SOWISO 5d, 5e +<br>Polynomial regression:<br>Assignment 6 | Office hours              |
+| Friday<br>03/10    | Redesigning monopoly step 0, 1, 2    | Polynomial regression:<br>Assignment 10    |                                          |
+|                    |                                      |                                            |                                          |
+| Monday<br>06/10    | Finish Redesigning monopoly<br>+ Start Analyzing the board | Finish Polynomial regression | Office hours<br>Group seminar    |
+| Tuesday<br>07/10   | Finish Analyzing the board           | Written Assignment:<br>Algorithmic Bias    |                                          |
 
 
 
