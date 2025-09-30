@@ -144,7 +144,7 @@ files:
             21/09/11,Valencia,draw,2,2,away
 hidden_files:
     required:
-        'pdp_practice_examTest': |
+        'pdp_practice_examTest.py': |
             from checkpy import *
             import typing
 
