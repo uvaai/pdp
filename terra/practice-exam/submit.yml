@@ -17,7 +17,7 @@ files:
 
             print("Welcome to the practice exam! You can write your solutions in this file.")
 
-        'test.py': |
+        'draft.py': |
             # This file will be ignored by us. You can use this as a canvas
             # for drafts and test out code fragments.
 
@@ -136,7 +136,6 @@ files:
             03/05/14,Getafe,draw,2,2,home
             11/05/14,Elche,draw,0,0,away
             17/05/14,Ath Madrid,draw,1,1,home
-
         'barca_short.csv': |
             29/08/11,Villarreal,won,5,0,home
             10/09/11,Sociedad,draw,2,2,away
