@@ -9,5 +9,5 @@ files:
         - visits.png
         - jail_visits.png
     optional:
-        - monopoly_dicts_multiplayer.py opt
-        - Datastructures2.py opt
+        - monopoly_dicts_multiplayer.py
+        - Datastructures2.py
