@@ -11,3 +11,7 @@ files:
     optional:
         - monopoly_dicts_multiplayer.py
         - Datastructures2.py
+check:
+    tool: checkpy
+    repo: uva-sp/sp1
+    args: -m monopoly_dicts
