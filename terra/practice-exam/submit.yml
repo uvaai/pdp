@@ -16,6 +16,46 @@ files:
             # Name: ...
 
             print("Welcome to the practice exam! You can write your solutions in this file.")
+            
+            if __name__ == "__main__":
+                #################### Exercise 1 ####################
+                print("------------- Exercise 1 -------------")
+
+                avocado_price = 2.35
+                discount1 = compute_three_for_two_discount(avocado_price, 3)
+                discount2 = compute_three_for_two_discount(avocado_price, 6)
+                discount3 = compute_three_for_two_discount(avocado_price, 7)
+                print(f'The amount of discount for 3 avocados: {discount1}')
+                print(f'The amount of discount for 6 avocados: {discount2}')
+                print(f'The amount of discount for 7 avocados: {discount3}')
+
+
+                #################### Exercise 2 ####################
+                print("------------- Exercise 2 -------------")
+
+                example_text = "The story so far in the beginning the universe was created This has made a lot of people very angry and been widely regarded as a bad move"
+                short_words = find_short_words(example_text, 3)
+                print(short_words)
+
+
+                #################### Exercise 3 ####################
+                print("------------- Exercise 3 -------------")
+
+                whisky_brands = {'Hibiki': 'Japan', 'Bushmills': 'Ireland', 'anCnoc': 'Scotland', 'Teeling': 'Ireland', 'Starward': 'Australia', 'Four Roses': 'USA', 'Aberlour': 'Scotland', 'Nikka': 'Japan', 'Bulleit': 'USA', 'Tullibardine': 'Scotland'}
+
+                whisky_origins = values_to_keys(whisky_brands)
+
+                print(whisky_origins)
+
+
+                #################### Exercise 4 ####################
+                print("------------- Exercise 4 -------------")
+
+                wins = shutouts('barca.csv')
+                print(wins)
+
+                wins = shutouts('barca_short.csv')
+                print(wins)
 
         'temp.py': |
             # This file will be ignored by us. You can use this as a canvas
