@@ -16,7 +16,7 @@ files:
             # Name: ...
 
             print("Welcome to the practice exam! You can write your solutions in this file.")
-            
+
             if __name__ == "__main__":
                 #################### Exercise 1 ####################
                 print("------------- Exercise 1 -------------")
@@ -189,11 +189,10 @@ hidden_files:
 
             only("pdp_practice_exam.py")
 
-            download("barca.csv", "https://raw.githubusercontent.com/uvaai/exam-tests/main/data/barca.csv")
-            download("barca_short.csv", "https://raw.githubusercontent.com/uvaai/exam-tests/main/data/barca_short.csv")
+            download("barca.csv", "https://raw.githubusercontent.com/uvaai/exam-data/main/data/barca.csv")
+            download("barca_short.csv", "https://raw.githubusercontent.com/uvaai/exam-data/main/data/barca_short.csv")
 
             ######## Q1 ########
-
             fun1_def = (declarative
                 .function("compute_three_for_two_discount")
                 .params("product_price", "number_of_items")
@@ -208,7 +207,6 @@ hidden_files:
                     )
 
             ######## Q2 ########
-
             fun2_def = (declarative
                 .function("find_short_words")
                 .params("text", "max_length")
@@ -221,7 +219,6 @@ hidden_files:
                     )
 
             ######## Q3 ########
-
             fun3_def = (declarative
                 .function("values_to_keys")
                 .params("dictionary")
@@ -234,7 +231,6 @@ hidden_files:
                     )
 
             ######## Q4 ########
-
             fun4_def = (declarative
                 .function("shutouts")
                 .params("filename")
