@@ -1,0 +1,23 @@
+name: exam
+exam: true
+buttons:
+    "Checkpy": |
+            from checkpy.interactive import testOffline
+            testOffline("exam14", "/home/pyodide", multiprocessing=False, silentMode=False)
+            print("\nend tests!")
+check:
+    tool: checkpy
+    repo: uvaai/exam-tests
+    args: exam14
+files:
+    required:
+        'exam14.py': |
+            # Python for Data Processing, practice exam
+            # Name: ...
+
+            print("Welcome to the exam! You can write your solutions in this file.")
+
+
+        'draft.py': |
+            # This file will be ignored by us. You can use this as a canvas
+            # for drafts and test out code fragments.
