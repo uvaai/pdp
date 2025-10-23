@@ -2,9 +2,9 @@ name: exam
 exam: true
 buttons:
     "Checkpy": |
-            from checkpy.interactive import testOffline
-            testOffline("exam14", "/home/pyodide", multiprocessing=False, silentMode=False)
-            print("\nend tests!")
+        from checkpy.interactive import testOffline
+        testOffline("exam14", "/home/pyodide", multiprocessing=False, silentMode=False)
+        print("\nend tests!")
 check:
     tool: checkpy
     repo: uvaai/exam-tests
