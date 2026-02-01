@@ -2,7 +2,7 @@
 
 University of Amsterdam / Programming Lab / 5082PFDP6Y
 
-## Syllabus<br><small>Spring 2025</small>
+## Syllabus<br><small>Spring 2026</small>
 
 Welcome to this programming course! In the weeks ahead, you'll use the Python
 programming language while learning to solve scientific problems from several
@@ -129,7 +129,7 @@ and get assistance.
 
 ### Practical assistance
 
-There are 2.5 hours scheduled every day where you can ask practical questions
+There are 3 hours scheduled every day where you can ask practical questions
 to the TA's of the minor. During these hours you can use the "Assistance"
 feature on the main [minor AI website](https://minai.proglab.nl/), using the
 question mark symbol in the top right corner of that page. Please use this
@@ -141,11 +141,8 @@ TA handling your question knows where to find you when it is your turn.
 
 The hours are scheduled as follows:
 
-* Monday 13:30 to 16:00
-* Tuesday 10:00 to 12:30
-* Wednesday 10:00 to 12:30
-* Thursday 10:00 to 12:30
-* Friday 13:30 to 16:00
+* In general, assistance hours are from 10:00 to 13:00
+* On Mondays there are group seminars in the morning, so the assistance hours are from 14:00 to 17:00 instead.
 
 ### Office hours
 
@@ -178,7 +175,7 @@ written assignment topics, or some small programming exercises to practice
 with the group. In addition, you can always use these seminars to ask you TA any
 questions you might have about the feedback they gave you as part of the grading for
 the previous module. This semester the group seminars are every **Monday at 11:00**
-in room *L1.11*. <!--The schedule for the group seminars can be found on Datanose
+in room *L1.10*. <!--The schedule for the group seminars can be found on Datanose
 [here](https://datanose.nl/#course[128439])-->
 
 ### Email the staff

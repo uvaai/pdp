@@ -1,17 +1,17 @@
 
 # Module 4
 
-The deadline for both Python for Data Processing and Introduction to Machine Learning 1 is<br>**Monday September 29th at 17:59**
+The deadline for both Python for Data Processing and Introduction to Machine Learning 1 is<br>**Monday March 2nd at 17:59**
 
 | Day                | Python for<br>Data Processing        | Introduction to<br>Machine Learning   | Seminars                                    |
 |--------------------|--------------------------------------|---------------------------------------|---------------------------------------------|
-| Monday<br>22/09    | Moving around the board              | SOWISO                                | Group seminar                               |
-| Tuesday<br>23/09   | Moving around the board              | Theory videos +<br>Linear Regression:<br>Assignment 2 |                             |
-| Wednesday<br>24/09 | Buying properties                    | Linear Regression:<br>Assignment 5    | Office hours                                |
-| Thursday<br>25/09  | Starting money                       | Linear Regression:<br>Assignment 7    |                                             |
-| Friday<br>26/09    | Advantage of player 1                | Finish Linear Regression              |                                             |
+| Monday<br>23/02    | Moving around the board              | SOWISO                                | Group seminar                               |
+| Tuesday<br>24/02   | Moving around the board              | Theory videos +<br>Linear Regression:<br>Assignment 2 |                             |
+| Wednesday<br>25/02 | Buying properties                    | Linear Regression:<br>Assignment 5    | Office hours                                |
+| Thursday<br>26/02  | Starting money                       | Linear Regression:<br>Assignment 7    |                                             |
+| Friday<br>27/02    | Advantage of player 1                | Finish Linear Regression              |                                             |
 |                    |                                      |                                       |                                             |
-| Monday<br>29/09    | Repairing the disadvantage           | Written Assignment: AlphaGo           | Group seminar                               |
+| Monday<br>02/03    | Repairing the disadvantage           | Written Assignment: AlphaGo           | Group seminar                               |
 
 
 
