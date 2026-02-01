@@ -29,7 +29,7 @@ grades:
         deadline: 10/03/26 18:00
     module6:
         <<: *manual
-        deadline: 19/03/26 18:00
+        deadline: 18/03/26 18:00
     exam: *check_off
     exam2: *check_off
     oral: *check_off
