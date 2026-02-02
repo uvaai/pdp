@@ -30,7 +30,7 @@ questions.
 The core schedule for this course, together with Inleiding Machine
 Learning 1, is built around working on the combined material each weekday from
 9 to 5. For this we have one room on the Science Park campus permanently
-reserved for minor AI students, namely **L0.11**, which provides enough space
+reserved for minor AI students, namely **L0.10**, which provides enough space
 for all of you to work on campus full-time.
 
 Most on-campus activities, including the practical assistance, will generally be
@@ -142,7 +142,7 @@ TA handling your question knows where to find you when it is your turn.
 The hours are scheduled as follows:
 
 * In general, assistance hours are from 10:00 to 13:00
-* On Mondays there are group seminars in the morning, so the assistance hours are from 14:00 to 17:00 instead.
+* On Mondays there are group seminars in the morning, so the assistance hours are from 13:30 to 16:30 instead.
 
 ### Office hours
 
@@ -156,7 +156,7 @@ Every module there will be at least one planned set of office hours, where you
 can ask the staff any questions you might have about theoretical parts of the
 course. The schedule for these office hours can be found as part of the daily
 schedule for the module. The office hours will always be together with the
-practical assistance hours in the main room L0.11.
+practical assistance hours in the main room L0.10.
 
 During the office hours, you can use the same "Assistance" feature to ask any
 further explanations on the theory of that module. Simply start your question
