@@ -113,26 +113,25 @@ Module 5 [3/3/26]:
         Complexity questions 1 [assignment]: /complexity/questions1
     Data structures and their efficiency:
         Dictionaries [theory]: /python/en/dictionaries/use
-        # Dictionaries [practice]: /python/en/dictionaries/use/practice
         Efficiency of dictionaries [theory]: /python/en/dictionaries/complexity
-        # Efficiency of dictionaries [practice]: /python/en/dictionaries/complexity/practice
+        Practice dictionaries [assignment]: /python/en/datastructures-practice/part1
         Tuples [theory]: /python/en/tuples
         Sets [theory]: /python/en/sets
-        # Sets [practice]: /python/en/sets/practice
-        List slicing and indexing [theory]: /python/en/slicing
-        Practice dictionaries [assignment]: /python/en/datastructures-practice/minai-part1
-
+        List slicing and indexing [theory]: /python/en/slicing  # TODO: Move part of this to module 3?
+    Optional practice:
+        "Optional: Dictionaries [optional practice]": /python/en/dictionaries/use/practice
+        "Optional: Testing efficiency [optional practice]": /python/en/dictionaries/complexity/practice
+        "Optional: Sets [optional practice]": /python/en/sets/practice
+        # "Optional: Dictionaries and sets [optional assignment]": /python/en/datastructures-practice/part2
     How to write efficient code:
         Applying big O in your code [theory]: /python/en/big-o
         Improving count_occurrence [theory]: /python/en/big-o-example
-        Complexity questions 2 [assignment]: /complexity/questions2
         Jaccard [assignment]: /complexity/jaccard
-    Dictionaries revisited:
-        Practical uses of dictionaries [assignment]: /python/en/dictionaries/more_practice
-    Write your own efficient code:
-        Indexing words [assignment]: /complexity/word-index
-    Even more dictionaries and sets:
-        "Optional: Practise dictionaries and sets [optional]": /python/en/datastructures-practice/minai-part2
+    Applying dictionaries in monopoly:
+        Applications of dictionaries [theory]: /monopoly_dict/using_dicts_theory
+        Redesigning monopoly with dictionaries [assignment]: /monopoly_dict/monopoly_config
+        Analyzing the board [assignment]: /monopoly_dict/counting_visits
+        "Optional: A variable amount of players [optional assignment]": /monopoly_dict/n-player
     Submit:
         Submit your solutions: /submit/module5
 
