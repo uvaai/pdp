@@ -11,7 +11,7 @@ in almost *any* programming language, not just Python.
 With combining the concepts below in the right way you can, in theory, write *any* program.
 In fact, you don't even need all of them. In theory, only a small subset would suffice.
 
-We've also compiled a [Python cheatsheet](/terra/downloads/cheatsheet.pdf)!
+We've also compiled a [Python cheatsheet](downloads/cheatsheet.pdf)!
 
 #### Operators
 
