@@ -71,7 +71,7 @@ files:
                 #################### Exercise 4 ####################
                 print("------------- Exercise 4 -------------")
 
-                filename = 'data/mpg.csv'
+                filename = 'mpg.csv'
 
                 car_printer_helper(filename, 13, 4)
                 car_printer_helper(filename, 12, 6)
