@@ -84,7 +84,7 @@ files:
             # This file will be ignored by us. You can use this as a canvas
             # for drafts and test out code fragments.
 
-        'barca.csv': |
+        'penguins.csv': |
             Adelie,Torgersen,39.1,18.7,181,3750,male,2007
             Adelie,Torgersen,39.5,17.4,186,3800,female,2007
             Adelie,Torgersen,40.3,18,195,3250,female,2007
@@ -419,7 +419,7 @@ files:
             Chinstrap,Dream,50.8,19,210,4100,male,2009
             Chinstrap,Dream,50.2,18.7,198,3775,female,2009
 
-        'barca_short.csv': |
+        'penguins_small.csv': |
             Adelie,Torgersen,39.1,18.7,181,3750,male,2007
             Adelie,Torgersen,39.5,17.4,186,3800,female,2007
             Gentoo,Biscoe,46.1,13.2,211,4500,female,2007
