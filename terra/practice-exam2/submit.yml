@@ -11,7 +11,7 @@ check:
     args: exam12
 files:
     required:
-        'pdp_practice_exam.py': |
+        'exam12.py': |
             # Python for Data Processing, practice exam
             # Name: ...
 
