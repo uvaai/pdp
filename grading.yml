@@ -38,6 +38,9 @@ calculation:
     final:
         assignments: 100
         exam: 0
+    retake:
+        assignments: 100
+        exam2: 0
 
 assignments:
     show_progress: true
@@ -51,10 +54,12 @@ assignments:
 
 exam:
     show_progress: true
+    required: true
     submits:
         exam: 1
 
 exam2:
     show_progress: true
+    required: true
     submits:
         exam2: 1
