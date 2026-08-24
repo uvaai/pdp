@@ -2,7 +2,7 @@
 
 University of Amsterdam / Programming Lab / 5082PFDP6Y
 
-## Syllabus<br><small>Fall 2025</small>
+## Syllabus<br><small>Fall 2026</small>
 
 Welcome to this programming course! In the weeks ahead, you'll use the Python
 programming language while learning to solve scientific problems from several
@@ -36,7 +36,7 @@ for all of you to work on campus full-time.
 Most on-campus activities, including the practical assistance, will generally be
 held in this room. There are some exceptions with activities that do not fit
 in the room, like the group seminars and the exam. The schedule for these
-group seminars can be found on Datanose [here](https://datanose.nl/#course[128439])
+group seminars can be found on Datanose [here](https://datanose.nl/#course[147434])
 
 The schedule for the practical assistance hours that will be held in L0.11 can
 be found in the "Asking Questions" section below.
@@ -66,7 +66,7 @@ situation and the difficulties you're having, so will require sending an email.
 
 If you are a part-time student, you can just follow the *Python for Data
 Processing* half of the daily schedule. You should still attend the group
-seminars with the other students, as scheduled [here](https://datanose.nl/#course[128439]),
+seminars with the other students, as scheduled [here](https://datanose.nl/#course[147434]),
 but can otherwise choose which of your daily practical assistance slots combine
 best with your own schedule.
 
@@ -126,15 +126,14 @@ and get assistance.
 
 ### Practical assistance
 
-There are 3 hours scheduled every day where you can ask practical questions
-to the TA's of the minor. During these hours you can use the "Assistance"
-feature on the main [minor AI website](https://minai.proglab.nl/), using the
-question mark symbol in the top right corner of that page. Please use this
-feature instead of raising your hand in class, as it ensures that all questions
-get handled in the order that they are asked. Questions can of be about either
-the PDP or ML1 courses, just make sure to mention what assignment you're
-working on. For your location, please list the table you are working at, so the
-TA handling your question knows where to find you when it is your turn.
+There are 3 hours scheduled every day where you can ask practical questions to
+the TA's of the minor. During these hours you can use the "Assistance" feature
+with the question mark symbol in the top right corner of this page. Please use
+this feature instead of raising your hand in class, as it ensures that all
+questions get handled in the order that they are asked. Questions can always be
+about either the PDP or ML1 courses, just make sure to mention what assignment
+you're working on. For your location, please list the table you are working at,
+so the TA handling your question knows where to find you when it is your turn.
 
 The hours are scheduled as follows:
 
@@ -165,14 +164,15 @@ to discuss with staff, such as personal matters or an alternate planning.
 
 ### Seminars
 
-Once a week on Mondays there are separate group seminars with your own TA. The
-topics covered in these seminars will depend on the material of that week: how
-to improve the style and design of your code, discussing the some of the
-written assignment topics, or some small programming exercises to practice
-with the group. In addition, you can always use these seminars to ask you TA any
-questions you might have about the feedback they gave you as part of the grading for
-the previous module. The schedule for the group seminars can be found on Datanose
-[here](https://datanose.nl/#course[128439])
+Once a week on Mondays or Tuesdays there are separate group seminars with your
+own TA. The topics covered in these seminars will depend on the material of
+that week: how to improve the style and design of your code, discussing the
+some of the written assignment topics, or some small programming exercises to
+practice with the group. In addition, you can always use these seminars to ask
+you TA any questions you might have about the feedback they gave you as part of
+the grading for the previous module. The schedule for the group seminars can be
+found on Datanose
+[here](https://datanose.nl/#course[147434])
 
 ### Email the staff
 
@@ -266,6 +266,33 @@ requirement is only to attend 2 lessons each week.
 * If you are done with all the material for the module before the day of the deadline, you can show your assignments to a TA *during practical assistance*. The TA will check if they agree every element has been properly completed, and if so you'll be granted exemption from the attendance checks for the rest of the module.
 * If you receive a fail for the attendance of one week, you should make arrangements with the staff to compensate this *the following week*. If an attendance fail is not corrected the week after, it is no longer possible to pass the course.
 
+### Hackathon participation
+
+Every 2 weeks on Wednesdays there will be a hackathon in the afternoon. These
+hackathons are in-class activities where you learn to solve programming
+challenges together in small teams, which will be evaluated by a final
+participation grade for the course. The main goal of the hackathon is to learn
+to work through problems together using communication, debugging, and
+collective reasoning skills. Specifically, for these challenges, outsourcing
+any part of this work to an LLM is strictly forbidden, as we are explicitly
+trying to teach you another way to approach solving problems.
+
+Each hackathon will therefore be graded on a 3 point scale, as follows:
+
+
+| Points | Attendance                                               | Participation                                              | Spirit                                                                            |
+| -----: | -------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------- |
+|  **0** | Student did not attend the hackathon                     | Student did not actively engage with teammates             | Team used LLMs or searched for existing challenge solutions online multiple times |
+|  **1** | Student left early, or was absent during parts (>10 min) | Team result showed insufficient progress on the challenges | Team used LLMs or searched for existing challenge solutions online once (warning) |
+|  **2** | Student was present for the scheduled 2 hours            | Student participated in a decent team result               | Team did not use LLMs or search for existing challenge solutions                  |
+
+The expected grade when showing up and participating normally is 2 points for
+all students. If you or your team meet any of the criteria for the 1 or 0
+points scale, your grade will default to that number. Your final participation
+grade will then be computed at the end of the course as:
+
+	total_hackathon_points / max_hackathon_points * 9 + 1
+
 ### Exam
 
 The exam at the end of the course will consist of multiple short programming
@@ -273,8 +300,8 @@ exercises based on the modules of this course. This exam will be *pass/fail*.
 More details on the exam will follow later.
 
 Once you've passed the exam and the attendance requirements each week, your
-final grade will be computed as the average of all your grades for modules 3,
-4, 5 and 6.
+final grade will be computed as the average all your grades for modules 3,
+4, 5 and 6 (90%) and your hackathon participation grade (10%).
 
 ## Goals
 
