@@ -1,7 +1,7 @@
 Welcome:
     Read the syllabus to get started: /syllabus
 
-Module 1 [1/9/25]:
+Module 1 [31/8/26]:
     Schedule: /modules/m1
     Introduction: /algorithms/en/
 
@@ -41,7 +41,7 @@ Module 1 [1/9/25]:
     Submit:
         Submit your solutions: /submit/module1
 
-Module 2 [8/9/25]:
+Module 2 [7/9/26]:
     Schedule: /modules/m2
     Introduction: /integrals/en/
 
@@ -66,7 +66,7 @@ Module 2 [8/9/25]:
     Submit:
         Submit your solutions: /submit/module2
 
-Module 3 [15/9/25]:
+Module 3 [14/9/26]:
     Schedule: /modules/m3
 
     Dictionaries:
@@ -90,7 +90,7 @@ Module 3 [15/9/25]:
         Learn about design [theory]: /python/en/design
         Submit your solutions: /submit/module3
 
-Module 4 [22/9/25]:
+Module 4 [21/9/26]:
     Schedule: /modules/m4
 
     Monopoly:
@@ -105,7 +105,7 @@ Module 4 [22/9/25]:
     Submit:
         Submit your solutions: /submit/module4
 
-Module 5 [30/9/25]:
+Module 5 [29/9/26]:
     Schedule: /modules/m5
     Introduction: /complexity/
     Learn about computational complexity:
@@ -135,7 +135,7 @@ Module 5 [30/9/25]:
     Submit:
         Submit your solutions: /submit/module5
 
-Module 6 [8/10/25]:
+Module 6 [7/10/26]:
     Schedule: /modules/m6
     Function arguments:
         Default arguments [theory]: /python/en/default-arguments
