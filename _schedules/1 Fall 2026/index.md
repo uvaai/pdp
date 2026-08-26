@@ -269,7 +269,7 @@ requirement is only to attend 2 lessons each week.
 ### Hackathon participation
 
 Every 2 weeks on Wednesdays there will be a hackathon in the afternoon. These
-hackathons are in-class activities where you learn to solve programming
+hackathons are in-class activities where you'll learn to solve programming
 challenges together in small teams, which will be evaluated by a final
 participation grade for the course. The main goal of the hackathon is to learn
 to work through problems together using communication, debugging, and
@@ -280,11 +280,11 @@ trying to teach you another way to approach solving problems.
 Each hackathon will therefore be graded on a 3 point scale, as follows:
 
 
-| Points | Attendance                                               | Participation                                              | Spirit                                                                            |
+| Points | Attendance                                               | Participation                                              | Rules                                                                             |
 | -----: | -------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------- |
-|  **0** | Student did not attend the hackathon                     | Student did not actively engage with teammates             | Team used LLMs or searched for existing challenge solutions online multiple times |
-|  **1** | Student left early, or was absent during parts (>10 min) | Team result showed insufficient progress on the challenges | Team used LLMs or searched for existing challenge solutions online once (warning) |
 |  **2** | Student was present for the scheduled 2 hours            | Student participated in a decent team result               | Team did not use LLMs or search for existing challenge solutions                  |
+|  **1** | Student left early, or was absent during parts (>10 min) | Team result showed insufficient progress on the challenges | Team received a warning for not following the hackathon rules                     |
+|  **0** | Student did not attend the hackathon                     | Student did not actively engage with teammates             | Team repeatedly did not follow the hackathon rules                                |
 
 The expected grade when showing up and participating normally is 2 points for
 all students. If you or your team meet any of the criteria for the 1 or 0
