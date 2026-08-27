@@ -269,10 +269,17 @@ requirement is only to attend 2 lessons each week.
 ### Hackathon participation
 
 Every 2 weeks on Wednesdays there will be a hackathon in the afternoon. These
-hackathons are in-class activities where you'll learn to solve programming
-challenges together in small teams, which will be evaluated by a final
-participation grade for the course. The main goal of the hackathon is to learn
-to work through problems together using communication, debugging, and
+hackathons will be held from **14:00 to 17:00 in L0.11** on the following days:
+
+* Wednesday September 2nd
+* Wednesday September 16th
+* Wednesday September 30th
+* Wednesday October 14th
+
+The hackathons are in-class activities where you'll learn to solve
+programming challenges together in small teams, which will be evaluated by a
+final participation grade for the course. The main goal of the hackathon is to
+learn to work through problems together using communication, debugging, and
 collective reasoning skills. Specifically, for these challenges, outsourcing
 any part of this work to an LLM is strictly forbidden, as we are explicitly
 trying to teach you another way to approach solving problems.
@@ -282,7 +289,7 @@ Each hackathon will therefore be graded on a 3 point scale, as follows:
 
 | Points | Attendance                                               | Participation                                              | Rules                                                                             |
 | -----: | -------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------- |
-|  **2** | Student was present for the scheduled 2 hours            | Student participated in a decent team result               | Team did not use LLMs or search for existing challenge solutions                  |
+|  **2** | Student was present for the scheduled 3 hours            | Student participated in a decent team result               | Team did not use LLMs or search for existing challenge solutions                  |
 |  **1** | Student left early, or was absent during parts (>10 min) | Team result showed insufficient progress on the challenges | Team received a warning for not following the hackathon rules                     |
 |  **0** | Student did not attend the hackathon                     | Student did not actively engage with teammates             | Team repeatedly did not follow the hackathon rules                                |
 
@@ -291,7 +298,8 @@ all students. If you or your team meet any of the criteria for the 1 or 0
 points scale, your grade will default to that number. Your final participation
 grade will then be computed at the end of the course as:
 
-	total_hackathon_points / max_hackathon_points * 9 + 1
+	total_hackathon_points / 8 * 9 + 1
+
 
 ### Exam
 
