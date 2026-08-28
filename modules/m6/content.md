@@ -1,7 +1,7 @@
 
 # Module 6
 
-The deadline for both Python for Data Processing and Introduction to Machine Learning 1 is<br>**Wednesday October 14th at 23:59**
+The deadline for both Python for Data Processing and Introduction to Machine Learning 1 is **Wednesday October 14th at 23:59**
 
 | Day                | Python for<br>Data Processing | Introduction to<br>Machine Learning      | Seminars          |
 |--------------------|-------------------------------|------------------------------------------|-------------------|
@@ -11,7 +11,7 @@ The deadline for both Python for Data Processing and Introduction to Machine Lea
 |                    |                               |                                          |                   |
 | Monday<br>12/10    | Pandas: Exercise 15           | k-Means: Assignment 8                    | Group seminar     |
 | Tuesday<br>13/10   | Seaborn<br>+ Start Mushrooms  | k-Means: Assignment 9                    |                   |
-| Wednesday<br>14/10 | Finish Mushrooms              | Written: Filter Bubbles +<br>SOWISO 6a, 6b, 6c |             |
+| Wednesday<br>14/10 | Finish Mushrooms              | Written: Filter Bubbles +<br>SOWISO 6a, 6b, 6c | Hackathon   |
 
 
 

@@ -1,7 +1,7 @@
 
 # Module 4
 
-The deadline for both Python for Data Processing and Introduction to Machine Learning 1 is<br>**Monday September 28th at 17:59**
+The deadline for both Python for Data Processing and Introduction to Machine Learning 1 is **Monday September 28th at 17:59**
 
 | Day                | Python for<br>Data Processing        | Introduction to<br>Machine Learning   | Seminars                                    |
 |--------------------|--------------------------------------|---------------------------------------|---------------------------------------------|
