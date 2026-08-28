@@ -6,8 +6,8 @@ The deadline for both Python for Data Processing and Introduction to Machine Lea
 | Day                | Python for<br>Data Processing | Introduction to<br>Machine Learning 1    | Seminars                                                           |
 |--------------------|-------------------------------|------------------------------------------|--------------------------------------------------------------------|
 | Monday<br>31/08    | Installation +<br>Getting started | Elements of AI <br>+ Start SOWISO    | Group seminar                                                      |
-| Tuesday<br>01/09   | Algorithms +<br>Loops         | SOWISO & Theory videos<br>+ Read Turning article |                                                            |
-| Wednesday<br>02/09 | Pyramid                       | *Nothing, as there is<br>a hackathon*   | Hackathon                                                          |
+| Tuesday<br>01/09   | Algorithms +<br>Loops         | SOWISO & Theory videos<br>+ Read Turning's paper |                                                            |
+| Wednesday<br>02/09 | Pyramid                       | *Nothing, as there is<br>a hackathon*   | Hackathon                                                           |
 | Thursday<br>03/09  | Change                        | Written assignment <br>+ Notebook intro & ELIZA | Office hours                                                |
 | Friday<br>04/09    | Plotting graphs               | Finish ELIZA                             |                                                                    |
 
