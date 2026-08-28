@@ -5,9 +5,9 @@ The deadline for both Python for Data Processing and Introduction to Machine Lea
 
 | Day                | Python for<br>Data Processing      | Introduction to<br>Machine Learning | Seminars                                                       |
 |--------------------|------------------------------------|-------------------------------------|----------------------------------------------------------------|
-| Monday<br>14/09    | Dictionaries +<br>Monte Carlo start | SOWISO +<br>Theory videos          | Group seminar                                                  |
-| Tuesday<br>15/09   | Monte Carlo finish                 | Naive Bayes: Assignment 1 & 2       |                                                                |
-| Wednesday<br>16/09 | File I/O & processing +<br>Temperature data:<br>Assignment 0 & 1 | Naive Bayes: Assignment 3 & 4 | Hackathon                              |
+| Monday<br>14/09    | Dictionaries +<br>File I/O & processing | SOWISO +<br>Theory videos      | Group seminar                                                  |
+| Tuesday<br>15/09   | Temperature data:<br>Assignment 0 & 1 | Naive Bayes: Assignment 1 & 2    |                                                                |
+| Wednesday<br>16/09 | *Nothing, as there is<br>a hackthon* | Naive Bayes: Assignment 3 & 4     | Hackathon                                                      |
 | Thursday<br>17/09  | Temperature data:<br>Assignment 2 & 3 | Naive Bayes: Finish              | Office hours                                                   |
 | Friday<br>18/09    | Temperature data:<br>Finish Assignment 3 | Written                       |                                                                |
 
