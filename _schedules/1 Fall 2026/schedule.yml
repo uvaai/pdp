@@ -72,9 +72,10 @@ Module 3 [14/9/26]:
     Dictionaries:
         A brief introduction to a new data structure [assignment]: /dictionaries/en
 
+    Functions (advanced):
+        Learn about functions as arguments of other functions [theory]: /python/en/functions2
+        Learn about functions with multiple return values [theory]: /python/en/functions3
 #    Monte Carlo:
-#        Learn about functions as arguments of other functions [theory]: /python/en/functions2
-#        Learn about functions with multiple return values [theory]: /python/en/functions3
 #        Learn more about the Monte-Carlo method [theory]: /integrals/en/monte-carlo/explanation
 #        Calculate integrals with the Monte Carlo method [assignment]: /integrals/en/monte-carlo/integrals
 
