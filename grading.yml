@@ -10,6 +10,12 @@ templates:
             done: boolean
         calculation: done
         hide_calculated: true
+    6: &participation
+        type: float
+        subgrades:
+            points: integer
+        calculation: "points / 2.0 * 9 + 1"
+        hide_calculated: true
 
 grades:
     module1:
@@ -30,16 +36,24 @@ grades:
     module6:
         <<: *manual
         deadline: 14/10/26 23:59
+    
+    hack1: *participation
+    hack2: *participation
+    hack3: *participation
+    hack4: *participation
+    
     exam: *check_off
     exam2: *check_off
     oral: *check_off
 
 calculation:
     final:
-        assignments: 100
+        assignments: 90
+        hackathon: 10
         exam: 0
     retake:
-        assignments: 100
+        assignments: 90
+        hackathon: 10
         exam2: 0
 
 assignments:
@@ -51,6 +65,14 @@ assignments:
         module4: 1
         module5: 1
         module6: 1
+
+hackathon:
+    show_progress: true
+    submits:
+        hack1: 1
+        hack2: 1
+        hack3: 1
+        hack4: 1
 
 exam:
     show_progress: true
