@@ -36,12 +36,12 @@ grades:
     module6:
         <<: *manual
         deadline: 14/10/26 23:59
-    
+
     hack1: *participation
     hack2: *participation
     hack3: *participation
     hack4: *participation
-    
+
     exam: *check_off
     exam2: *check_off
     oral: *check_off
