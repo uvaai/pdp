@@ -1,8 +1,17 @@
 name: exam2
 exam: true
+buttons:
+    "Checkpy": |
+        from checkpy.interactive import testOffline
+        testOffline("exam11", "/home/pyodide", multiprocessing=False, silentMode=False)
+        print("\nend tests!")
+check:
+    tool: checkpy
+    repo: uvaai/exam-tests
+    args: exam11
 files:
     required:
-        'exam12.py': |
+        'exam11.py': |
             # Python for Data Processing, practice exam
             # Name: ...
 
