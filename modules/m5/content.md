@@ -4,7 +4,7 @@ The deadline for both Python for Data Processing and Introduction to Machine Lea
 
 | Day                | Python for<br>Data Processing        | Introduction to<br>Machine Learning     | Seminars                                    |
 |--------------------|--------------------------------------|-----------------------------------------|---------------------------------------------|
-| Tuesday<br>29/09   | Learn about complexity<br>+ Start Data and efficiency<br>(practice dictionaries) | SOWISO videos + 5a, 5b, 5c |              |
+| Tuesday<br>29/09   | Learn about complexity<br>+ Start Data and efficiency<br>(practice dictionaries) | SOWISO videos +<br>SOWISO 5a, 5b, 5c |    |
 | Wednesday<br>30/09 | *Nothing, as there is<br>a hackathon* | Theory videos +<br>Polynomial regression:<br>Assignment 3 | Hackathon                |
 | Thursday<br>01/10  | Finish Data and efficiency<br>+ How to write efficient code | SOWISO 5d, 5e +<br>Polynomial regression:<br>Assignment 6 | Office hours|
 | Friday<br>02/10    | Redesigning monopoly step 0, 1, 2    | Polynomial regression:<br>Assignment 10    |                                          |
