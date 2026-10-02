@@ -35,7 +35,7 @@ grades:
         deadline: 06/10/26 18:00
     module6:
         <<: *manual
-        deadline: 14/10/26 23:59
+        deadline: 15/10/26 23:59
 
     hack1: *participation
     hack2: *participation
