@@ -11,7 +11,8 @@ The deadline for both Python for Data Processing and Introduction to Machine Lea
 |                    |                               |                                          |                   |
 | Monday<br>12/10    | Pandas: Exercise 15           | k-Means: Assignment 8                    | Group seminar     |
 | Tuesday<br>13/10   | Seaborn<br>+ Start Mushrooms  | k-Means: Assignment 9                    |                   |
-| Wednesday<br>14/10 | Finish Mushrooms              | Written: Filter Bubbles +<br>SOWISO 6a, 6b, 6c | Hackathon   |
+| Wednesday<br>14/10 | *Nothing, as there is<br>a hackathon* | Written: Filter Bubbles          | Hackathon         |
+| $D6                | Finish Mushrooms              | SOWISO 6a, 6b, 6c                        |                   |
 
 
 
