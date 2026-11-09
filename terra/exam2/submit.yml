@@ -8,10 +8,10 @@ buttons:
 check:
     tool: checkpy
     repo: uvaai/exam-tests
-    args: exam11
+    args: exam16
 files:
     required:
-        'exam11.py': |
+        'exam16.py': |
             # Python for Data Processing, practice exam
             # Name: ...
 
